@@ -50,10 +50,11 @@
   - Cover attribution
   - Song notes (reworked version, remix, etc.)
 
-- [ ] **Gemini integration** (`web/src/app/api/generate/route.ts`)
-  - Freeform text → structured target vector (parameter parsing)
-  - Generate synthetic setlist from target params + top-5 matching real shows as context
-  - Prompt budget: ~6,000 tokens per request (well within Gemini Flash free tier)
+- [ ] **Gemini integration** (`web/src/app/api/recommend/route.ts`)
+  - Freeform text → structured target vector (parameter parsing only)
+  - Gemini interprets the user's description and maps it to scorer dimensions
+  - Does NOT generate or fabricate setlists — only recommends real historical shows
+  - Prompt budget: ~2,000 tokens per request (well within Gemini Flash free tier)
 
 - [ ] **Show detail page** (`web/src/app/shows/[id]/page.tsx`)
   - Full setlist with all metadata

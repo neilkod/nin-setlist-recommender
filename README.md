@@ -12,7 +12,7 @@ The app is built on a comprehensive archive of all 1,176 NIN live performances (
 - **Production style** — stripped/intimate B-stage vs. full arena production
 - **Covers & special moments** — reworked versions, guest appearances, one-off performances
 
-When you describe what you want, the app finds the closest matching real shows from history, and optionally uses Gemini to generate a synthetic "ideal" setlist with an explanation.
+When you describe what you want, the app scores every real historical show against your preferences and returns the closest matches — actual documented setlists from NIN's live history. Gemini is used only to interpret freeform text input, not to generate or fabricate setlists.
 
 ## Data pipeline
 
@@ -82,7 +82,7 @@ A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, re
 
 - **Scraper**: Python 3.9+ (`httpx`, `beautifulsoup4`, `tenacity`)
 - **Web app**: Next.js (TypeScript) — coming soon
-- **AI**: Gemini 1.5 Flash for freeform parameter parsing and synthetic setlist generation
+- **AI**: Gemini 1.5 Flash for freeform text → parameter parsing only (no generated setlists)
 - **Hosting**: Vercel (free tier)
 - **Data source**: [ninlive.com](https://www.ninlive.com) (primary), [setlist.fm](https://www.setlist.fm) (supplement)
 

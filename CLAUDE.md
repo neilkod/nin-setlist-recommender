@@ -2,7 +2,9 @@
 
 ## Project overview
 
-A NIN concert setlist recommender. The core idea: every show has a **feature vector** (nostalgia score, album distribution, rarity tier, production style, cover count). When a user describes what they want, we find the closest matching real historical shows and optionally generate a synthetic setlist via Gemini.
+A NIN concert setlist recommender. The core idea: every show has a **feature vector** (nostalgia score, album distribution, rarity tier, production style, cover count). When a user describes what they want, we score every real historical show against those preferences and return the closest matches.
+
+**No synthetic setlists.** The app only ever surfaces real documented NIN setlists. Gemini is used solely to parse freeform text input into a structured target vector — it never generates or fabricates a setlist.
 
 ## Data pipeline order
 
