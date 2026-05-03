@@ -28,12 +28,70 @@ NIN_DEBUT_YEAR = 1989  # Pretty Hate Machine — used as the nostalgia denominat
 STRIPPED_KEYWORDS = ["stripped", "b-stage", "acoustic", "intimate", "solo", "quiet"]
 FULL_KEYWORDS = ["full production", "main stage", "full band"]
 
+# Minimum shows in a tour leg before we compute within-tour rarity.
+# Smaller legs don't have enough data for a meaningful comparison.
+MIN_TOUR_SHOWS = 3
+
+# Tour rarity tier thresholds — derived from the empirical distribution of
+# tour_rarity_score across all 943 scoreable shows:
+#   P10=0.074  P25=0.113  median=0.186  P75=0.292  P90=0.405  max=0.944
+TOUR_RARITY_THRESHOLDS = [
+    (0.40, "off-script"),   # top ~10%: genuinely unique nights
+    (0.25, "varied"),       # top ~35%: notably different from the tour norm
+    (0.10, "typical"),      # middle bulk: standard tour setlist
+    (0.0,  "rigid"),        # bottom ~10%: setlist robots
+]
+
 
 def load_songs() -> dict:
     path = DATA_DIR / "songs.json"
     if not path.exists():
         raise FileNotFoundError("data/songs.json not found — run enrich_songs.py first")
     return json.loads(path.read_text())
+
+
+def build_tour_frequency_maps(shows_dir: Path) -> dict:
+    """
+    First pass: load every show JSON and build per-tour song frequency maps.
+
+    Returns a dict keyed by tour name. Each value is a dict:
+        { song_slug: play_count_in_tour, "__total__": n_shows_in_tour }
+
+    Only tours with MIN_TOUR_SHOWS or more shows are included.
+    """
+    tour_shows: dict[str, list] = defaultdict(list)
+
+    for f in sorted(shows_dir.glob("*.json")):
+        try:
+            show = json.loads(f.read_text())
+        except Exception:
+            continue
+        tour = (show.get("tour") or "").strip()
+        if not tour or not show.get("setlist"):
+            continue
+        tour_shows[tour].append(show)
+
+    freq_maps: dict[str, dict] = {}
+    for tour, shows in tour_shows.items():
+        if len(shows) < MIN_TOUR_SHOWS:
+            continue
+        song_counts: dict[str, int] = defaultdict(int)
+        for show in shows:
+            for entry in show["setlist"]:
+                slug = entry.get("slug", "")
+                if slug:
+                    song_counts[slug] += 1
+        freq_maps[tour] = dict(song_counts)
+        freq_maps[tour]["__total__"] = len(shows)
+
+    return freq_maps
+
+
+def tour_rarity_tier(score: float) -> str:
+    for threshold, label in TOUR_RARITY_THRESHOLDS:
+        if score >= threshold:
+            return label
+    return "rigid"
 
 
 def production_style(sections: list) -> str:
@@ -51,7 +109,7 @@ def production_style(sections: list) -> str:
     return "full"
 
 
-def compute_show_features(show: dict, songs: dict) -> dict:
+def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict] = None) -> dict:
     setlist = show.get("setlist", [])
     if not setlist:
         return {}
@@ -160,6 +218,20 @@ def compute_show_features(show: dict, songs: dict) -> dict:
     # --- Production style ---
     prod_style = production_style(sections)
 
+    # --- Within-tour rarity ---
+    t_score = None
+    t_tier = None
+    tour_name = (show.get("tour") or "").strip()
+    if tour_freq_maps and tour_name and tour_name in tour_freq_maps:
+        freq = tour_freq_maps[tour_name]
+        n_tour_shows = freq["__total__"]
+        slugs = [e.get("slug", "") for e in setlist if e.get("slug")]
+        if slugs:
+            per_song = [1.0 - freq.get(s, 0) / n_tour_shows for s in slugs]
+            raw = statistics.mean(per_song)
+            t_score = round(raw, 4)
+            t_tier = tour_rarity_tier(raw)
+
     return {
         # Nostalgia
         "nostalgia_score": nostalgia_score,
@@ -169,7 +241,7 @@ def compute_show_features(show: dict, songs: dict) -> dict:
         "era_distribution": era_distribution,
         "primary_album": primary_album,
         "primary_era": primary_era,
-        # Rarity
+        # Global rarity
         "avg_rarity_score": avg_rarity,
         "rarity_tier": rarity_tier if rarity_scores else None,
         "n_unicorn": n_unicorn,
@@ -190,12 +262,19 @@ def compute_show_features(show: dict, songs: dict) -> dict:
         "song_count": total,
         "section_count": len(sections),
         "sections": sections,
+        # Within-tour rarity
+        "tour_rarity_score": t_score,
+        "tour_rarity_tier": t_tier,
     }
 
 
 def compute_all_features():
     songs = load_songs()
     print(f"Loaded {len(songs)} songs from catalog")
+
+    print("Building tour frequency maps (first pass)...")
+    tour_freq_maps = build_tour_frequency_maps(SHOWS_DIR)
+    print(f"  {len(tour_freq_maps)} tours with ≥{MIN_TOUR_SHOWS} shows")
 
     features_index = []
     n_updated = 0
@@ -208,7 +287,7 @@ def compute_all_features():
             print(f"  [warn] {f.name}: {e}")
             continue
 
-        features = compute_show_features(show, songs)
+        features = compute_show_features(show, songs, tour_freq_maps)
         if not features:
             n_no_setlist += 1
             continue
@@ -236,19 +315,21 @@ def compute_all_features():
     print(f"\nComputed features for {n_updated} shows ({n_no_setlist} had no setlist)")
     print(f"Wrote features index → {out_path}")
 
-    # Print summary stats
+    # Summary stats
     with_nostalgia = [s for s in features_index if s.get("nostalgia_score") is not None]
     if with_nostalgia:
         scores = [s["nostalgia_score"] for s in with_nostalgia]
         print(f"\nNostalgia score range: {min(scores):.3f} – {max(scores):.3f}")
-        print(f"Most nostalgic shows:")
-        for s in sorted(with_nostalgia, key=lambda x: -x["nostalgia_score"])[:5]:
-            print(f"  {s['date']} {s['venue']}, {s['city']}  score={s['nostalgia_score']} "
-                  f"avg_age={s.get('avg_song_age_at_show')}yrs")
-        print(f"Least nostalgic (newest material) shows:")
-        for s in sorted(with_nostalgia, key=lambda x: x["nostalgia_score"])[:5]:
-            print(f"  {s['date']} {s['venue']}, {s['city']}  score={s['nostalgia_score']} "
-                  f"avg_age={s.get('avg_song_age_at_show')}yrs")
+
+    with_tour = [s for s in features_index if s.get("tour_rarity_score") is not None]
+    print(f"\nShows with tour_rarity_score: {len(with_tour)}")
+    if with_tour:
+        t_scores = [s["tour_rarity_score"] for s in with_tour]
+        print(f"Tour rarity range: {min(t_scores):.3f} – {max(t_scores):.3f}")
+        print(f"Most off-script shows:")
+        for s in sorted(with_tour, key=lambda x: -x["tour_rarity_score"])[:5]:
+            print(f"  {s['date']} {s['venue']}, {s['city']}  "
+                  f"tour_rarity={s['tour_rarity_score']}  [{s['tour_rarity_tier']}]")
 
 
 if __name__ == "__main__":

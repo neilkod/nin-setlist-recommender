@@ -21,46 +21,29 @@
 
 ## Web app
 
-- [ ] **Scaffold Next.js app** in `web/`
-  - `npx create-next-app@latest web --typescript --tailwind --app`
-  - Copy `data/features_index.json`, `data/songs.json`, `data/albums.json` into `web/public/data/`
-  - Or load at build time via `getStaticProps` / `generateStaticParams`
+### Completed ✅
+- [x] **Scaffold** — Next.js 16 + TypeScript + Tailwind v4 + Geist Mono in `web/`
+- [x] **Data** — all 1,176 show JSONs + features_index + songs + albums in `web/public/data/`
+- [x] **Types** — `web/lib/types.ts` (`ShowIndex`, `Show`, `SetlistSong`, `TargetVector`, `ScoredShow`, helpers)
+- [x] **Scorer** — `web/lib/scorer.ts` — weighted similarity + `findSimilarShows()`
+- [x] **Curated lists** — `web/lib/curated.ts` — 6 top-10 list functions + `getAllCuratedLists()`
 
-- [ ] **Build scorer** (`web/src/lib/scorer.ts`)
-  - Takes a user target vector + features_index array
-  - Returns top-N shows sorted by weighted similarity score
-  - Dimensions: nostalgia, album distribution, rarity tier, production style, covers
+### Phase 3 — Components (next)
+- [ ] **ShowRow** (`web/components/ShowRow.tsx`) — compact ranked-list row linking to show detail
+- [ ] **ShowCard** (`web/components/ShowCard.tsx`) — expanded card with feature badges
+- [ ] **RarityBadge** (`web/components/RarityBadge.tsx`) — per-song inline rarity label
 
-- [ ] **Build RecommenderForm** (`web/src/components/RecommenderForm.tsx`)
-  - Quick presets: "Greatest Hits Night", "Deep Cuts", "Nostalgia Trip", "Album Deep Dive", "Stripped & Intimate"
-  - Album multi-select (checkboxes for each era/album)
-  - Sliders: Nostalgia ←→ Current, Crowd Pleasers ←→ Rarities, Stripped ←→ Full Production
-  - Toggle: Include covers
-  - Optional freeform text field (parsed by Gemini)
+### Phase 4 — Pages
+- [ ] **Discover page** (`web/app/page.tsx`) — 6 curated top-10 lists, fully static, server-rendered
+- [ ] **Show detail page** (`web/app/shows/[id]/page.tsx`) — full setlist, feature stats, ninlive link, "find similar" button
+- [ ] **Browse page** (`web/app/browse/page.tsx`) — client component with sliders + live-ranked results; reads URL params for "find similar" deep links
 
-- [ ] **Build ShowCard** (`web/src/components/ShowCard.tsx`)
-  - Date, venue, city
-  - Feature badges: nostalgia score, rarity tier, primary album, production style
-  - Song count + cover count
-  - Link to full setlist view
+### Phase 5 — Deploy
+- [ ] **Deploy to Vercel** — connect GitHub repo, add `GEMINI_API_KEY` env var
+- [ ] **Verify GitHub Action** (`update-data.yml`) — confirm Vercel redeploys after data commit
 
-- [ ] **Build Setlist view** (`web/src/components/Setlist.tsx`)
-  - Songs grouped by section/act
-  - Rarity badge per song (unicorn 🦄 / deep cut / staple)
-  - Cover attribution
-  - Song notes (reworked version, remix, etc.)
-
-- [ ] **Gemini integration** (`web/src/app/api/recommend/route.ts`)
-  - Freeform text → structured target vector (parameter parsing only)
-  - Gemini interprets the user's description and maps it to scorer dimensions
-  - Does NOT generate or fabricate setlists — only recommends real historical shows
-  - Prompt budget: ~2,000 tokens per request (well within Gemini Flash free tier)
-
-- [ ] **Show detail page** (`web/src/app/shows/[id]/page.tsx`)
-  - Full setlist with all metadata
-  - Feature vector visualized
-  - Link to ninlive source
-  - "Find similar shows" button
+### Future — AI feature
+- [ ] **Gemini integration** (`web/app/api/recommend/route.ts`) — freeform text → `TargetVector` via Gemini Flash; scorer already ready to consume the output
 
 ## Infrastructure
 
@@ -73,6 +56,11 @@
   - Add `SETLISTFM_API_KEY` as GitHub repository secret if using setlist.fm supplement
   - Test manual trigger via `workflow_dispatch`
   - Confirm Vercel redeploys after data commit
+
+## Browse page — deferred filters
+
+- [ ] **Production style filter** — removed from Browse UI pending UX review; the data is in the feature vector (`production_style`: stripped/mixed/full). Decide if it's useful as a standalone filter or better expressed as a preset (e.g. "STRIPPED NIGHTS" preset that sets production=stripped).
+- [ ] **Covers filter** — removed pending better UX. Most shows have 0–2 covers so a yes/no toggle isn't very informative. Better approach: filter by shows with *more covers than typical* (e.g. cover_fraction > 0.10), or expose as a "HEAVY ON COVERS" preset. Data is in `cover_count` and `cover_fraction`.
 
 ## Nice to have
 

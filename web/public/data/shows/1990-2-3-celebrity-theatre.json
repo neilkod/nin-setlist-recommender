@@ -1,0 +1,17 @@
+{
+  "id": "1990-2-3-celebrity-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1990-2-3-celebrity-theatre",
+  "date": "1990-02-03",
+  "venue": "Celebrity Theatre",
+  "venue_slug": "celebrity-theatre-phoenix",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "United States",
+  "tour": "The Jesus and Mary Chain's Automatic Tour",
+  "era_slug": "the-jesus-and-mary-chains-automatic-tour",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:56:13.485265Z"
+}

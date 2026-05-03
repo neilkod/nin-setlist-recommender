@@ -1,0 +1,17 @@
+{
+  "id": "1994-12-28-the-odeon",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-12-28-the-odeon",
+  "date": "1994-12-28",
+  "venue": "The Odeon (Private Warmup)",
+  "venue_slug": "the-odeon-cleveland",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "United States",
+  "tour": "Further Down The Spiral + Self Destruct (Part 2)",
+  "era_slug": "further-down-the-spiral-self-destruct-part-2",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:03:40.428469Z"
+}

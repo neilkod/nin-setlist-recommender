@@ -18,8 +18,12 @@ All scripts are in `scraper/`. Run order: `scrape_ninlive.py → scrape_albums.p
 - Feature vectors computed for all 958 shows → `data/features_index.json`
 - Song catalog with global rarity + era play rate → `data/songs.json`
 
-### Web app — NOT STARTED ❌
-Next session starts here. See Phase 2 below.
+### Web app — FUNCTIONAL ✅
+Phases 1–4 complete. All three pages are live and working.
+
+**Stack:** Next.js 16 (App Router) + TypeScript + Tailwind v4 + Geist Mono font  
+**Design:** Black bg, white/green monospace terminal aesthetic. Muted desaturated rose/amber for rarity (no jarring red/orange). All color tokens in `web/app/globals.css`.  
+**Data location:** `web/public/data/` — features_index.json + songs.json + albums.json + 1,176 individual show JSONs  
 
 ### GitHub
 Repo: https://github.com/neilkod/nin-setlist-recommender  
@@ -27,37 +31,42 @@ All data and scraper code is committed. Auto-update GitHub Action is in place (w
 
 ---
 
-## What to build next — Phase 2: Web app
+## Web app — current state
 
-### 1. Scaffold Next.js app
-```bash
-npx create-next-app@latest web --typescript --tailwind --app --no-git
-```
-The `web/` directory doesn't exist yet. After scaffolding, data files from `data/` need to be accessible — either copy into `web/public/data/` or load at build time via Next.js static generation.
+### Pages
+- **`/`** — Discover: 8 curated top-10 lists (Rarest, Nostalgia, Longest, Covers, Stripped, TDS Nights, Off-Script, Micro-Shows), tour filter dropdown (9 era groups × 57 tours), tier legend, collapsible "HOW THIS WORKS", per-show blurbs explaining each score
+- **`/shows/[id]`** — Show detail: metadata, score bars, tour rank, full setlist by section with per-song rarity badges, FIND SIMILAR SHOWS → button, ninlive source link. 960 pages pre-rendered via `generateStaticParams`.
+- **`/browse`** — Interactive filter: nostalgia/rarity/tour rarity sliders, year range, album multi-select, live-ranked results. Reads URL params to pre-seed from "FIND SIMILAR" links.
 
-### 2. Build the scorer (`web/src/lib/scorer.ts`)
-The core matching algorithm. Takes a user target vector and the features index, returns top-N shows sorted by weighted similarity.
+### Key library files
+- `web/lib/types.ts` — all TypeScript types + label/color maps + `ninliveUrl()` / `formatDate()` helpers
+- `web/lib/scorer.ts` — weighted similarity engine + `findSimilarShows()`
+- `web/lib/curated.ts` — 8 top-N list functions, `MIN_SONGS = 8` threshold (micro-shows excluded from main lists)
+- `web/lib/blurbs.ts` — generates context-specific one-line explanations per show per list (e.g. "5 unicorn songs + 2 deep cuts · HM 56% · The Fragile 22%")
+- `web/lib/tourGroups.ts` — 9-era tour taxonomy with abbreviated display names; `filterShowsByTour()` for Discover page
 
-Scoring formula:
-```
-score = w_nostalgia  × (1 − |show.nostalgia_score − target.nostalgia|)
-      + w_albums     × dotProduct(show.album_distribution, target.album_weights)
-      + w_rarity     × (1 − |show.avg_rarity_score − target.rarity|)
-      + w_production × (show.production_style === target.production ? 1 : 0)
-      + w_covers     × (show.has_covers === target.covers ? 1 : 0)
-```
-Weights are proportional to which dimensions the user actually specified.
+### Components
+- `web/components/ShowRow.tsx` — CSS grid table row with inline `style` (avoids Tailwind v4 layer conflicts); exports `ShowRowHeader`; accepts optional `blurb` prop
+- `web/components/RarityBadge.tsx` — global, tour, and per-song rarity badges
+- `web/components/ScoreBar.tsx` — unicode block bar (█░) for 0–1 scores
+- `web/components/SongRow.tsx` — setlist entry with rarity badge + era context
+- `web/components/Nav.tsx` — top navigation
+- `web/components/TourFilter.tsx` — client component; grouped `<select>` with `<optgroup>` per era; navigates via URL params
 
-### 3. Build the UI
-- `RecommenderForm` — presets + sliders + optional freeform text
-- `ShowCard` — date, venue, city, feature badges (nostalgia, rarity tier, primary album)
-- `Setlist` — songs grouped by section, rarity badge per song, cover attribution, song notes
+### Important CSS note
+Tailwind v4 CSS layers cause `grid-template-columns` in custom classes to be overridden by utilities. **Always use inline `style` props** for CSS Grid layout in this project — never define grid templates as Tailwind arbitrary classes.
 
-### 4. Gemini API route (`web/src/app/api/recommend/route.ts`)
-Only called when user submits freeform text. Parses it into a target vector, then the scorer runs client-side. The user has a Gemini API key — store as `GEMINI_API_KEY` env var.
+## What to build next
 
-### 5. Deploy to Vercel
-Connect GitHub repo → Vercel auto-deploys on push to main. Add `GEMINI_API_KEY` in Vercel dashboard.
+### Near-term
+- [ ] **Deploy to Vercel** — connect GitHub repo, set Root Directory to `web`, add `GEMINI_API_KEY` env var
+- [ ] **Browse page: production/covers filters** — removed pending better UX; see `TODO.md` for design notes
+- [ ] **Mobile layout review** — Browse sidebar is tall on mobile; may want collapsible filter panel
+
+### Future
+- [ ] **Gemini AI freeform text** — `web/app/api/recommend/route.ts` parses text → `TargetVector`; scorer is ready
+- [ ] **Setlist.fm supplement** — fill 218 early shows with missing setlist data (user has API key)
+- [ ] **Missing covers** — Bowie co-headline era, Gary Numan, Joy Division (see `TODO.md`)
 
 ---
 

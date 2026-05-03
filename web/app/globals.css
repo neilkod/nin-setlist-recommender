@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #000000;
+  --fg: #ffffff;
+  --fg-dim: #666666;
+  --fg-dimmer: #333333;
+  --fg-faint: #1a1a1a;
+  --green: #00ff9f;           /* console/data color — values, song names, live data */
+  --green-dim: #00994f;       /* dimmer green for secondary data */
+  --rarity-unicorn: #b08888;  /* muted desaturated rose — rare but not alarming */
+  --rarity-rare: #a09070;     /* muted warm tan — deep cuts */
+  --border: #1c1c1c;
+  --border-bright: #333333;
+}
+
+@theme inline {
+  --color-background: var(--bg);
+  --color-foreground: var(--fg);
+  --color-dim: var(--fg-dim);
+  --color-dimmer: var(--fg-dimmer);
+  --color-faint: var(--fg-faint);
+  --color-green: var(--green);
+  --color-green-dim: var(--green-dim);
+  --color-rarity-unicorn: var(--rarity-unicorn);
+  --color-rarity-rare: var(--rarity-rare);
+  --color-border: var(--border);
+  --color-border-bright: var(--border-bright);
+  --font-mono: var(--font-geist-mono);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-geist-mono), 'Courier New', monospace;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Touch targets: minimum 44px for mobile */
+button,
+a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Inline spans and badge elements don't need min-height */
+span[role="status"],
+.badge {
+  min-height: unset;
+  display: inline;
+}
+
+::selection {
+  background: var(--green);
+  color: var(--bg);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--green);
+}
+
+/* Horizontal scroll for data tables on narrow viewports */
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+/* Terminal-style range sliders */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  width: 100%;
+  height: 20px;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background: var(--border-bright);
+  height: 1px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--green);
+  height: 12px;
+  width: 2px;
+  margin-top: -6px;
+  border-radius: 0;
+}
+
+input[type="range"]::-moz-range-track {
+  background: var(--border-bright);
+  height: 1px;
+}
+
+input[type="range"]::-moz-range-thumb {
+  background: var(--green);
+  height: 12px;
+  width: 2px;
+  border: none;
+  border-radius: 0;
+}
+
+input[type="range"]:focus {
+  outline: none;
+}
+
+input[type="range"]:focus::-webkit-slider-thumb {
+  background: var(--fg);
+}

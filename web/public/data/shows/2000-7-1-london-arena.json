@@ -1,0 +1,17 @@
+{
+  "id": "2000-7-1-london-arena",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2000-7-1-london-arena",
+  "date": "2000-07-01",
+  "venue": "London Arena(cancelled)",
+  "venue_slug": "london-arena-london",
+  "city": "London",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Fragility Tour 2.0",
+  "era_slug": "fragility-tour-2-0",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:08:32.283406Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1990-3-28-the-roxy",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1990-3-28-the-roxy",
+  "date": "1990-03-28",
+  "venue": "The Roxy",
+  "venue_slug": "the-roxy-atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "United States",
+  "tour": "Peter Murphy's Deep + A Strange Kind of Love Tour",
+  "era_slug": "peter-murphys-deep-a-strange-kind-of-love-tour",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:56:59.976100Z"
+}

@@ -58,7 +58,7 @@ python compute_features.py
 - **958 shows with setlist data** (218 early shows have no documented setlist)
 - **191 unique songs** played across all shows
 - **24 releases** tracked (studio albums, EPs, singles, soundtracks)
-- **9 known covers** with proper attribution
+- **56 known covers** with original artist attribution
 
 ## Rarity tiers
 
@@ -194,7 +194,7 @@ A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, re
 ## Tech stack
 
 - **Scraper**: Python 3.9+ (`httpx`, `beautifulsoup4`, `tenacity`)
-- **Web app**: Next.js (TypeScript) — coming soon
+- **Web app**: Next.js 16 + TypeScript + Tailwind v4 + Geist Mono — terminal/console aesthetic, three pages: Discover, Show Detail, Browse
 - **AI**: Gemini 1.5 Flash for freeform text → parameter parsing only (no generated setlists)
 - **Hosting**: Vercel (free tier)
 - **Data source**: [ninlive.com](https://www.ninlive.com) (primary), [setlist.fm](https://www.setlist.fm) (supplement)
