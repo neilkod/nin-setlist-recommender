@@ -74,6 +74,119 @@ Songs are bucketed by how often they appear across all shows:
 
 Shows are then labeled based on their composition: a show with 4+ unicorns/deep cuts is a `unicorn` or `deep-cuts` night; a show dominated by 50%+ staples is `hits-heavy`.
 
+## The math
+
+This is not a machine learning model in the trained-weights sense. There is no training data, no gradient descent, no neural network. It is a **content-based recommender system** built on hand-crafted features and a weighted similarity score — a classic information retrieval technique. Here's how it works end to end.
+
+### Step 1 — Feature extraction (turning a show into numbers)
+
+Every show is described by a **feature vector**: a fixed set of numbers that captures its musical character. Each number is computed directly from the setlist data using statistics, not learned parameters.
+
+**Rarity score (per song)**
+
+The simplest feature. For each song, count how often it has appeared across all 1,176 shows:
+
+```
+rarity_score = 1 − (play_count / total_shows)
+```
+
+A score of `1.0` means the song was played at exactly one show ever. A score of `0.0` means it appeared at every show. "Head Like A Hole" (played at 76% of shows) has rarity `0.24`. "A Warm Place" (played at 3.6%) has rarity `0.96`.
+
+**Era play rate (per song) — correcting for age bias**
+
+Raw play counts are biased toward older songs: "Suck" (1992) has 394 total plays; "Copy of A" (2013) has ~114. Globally, Copy of A *looks* like a deep cut. But during the Hesitation Marks tour, it was played at 90% of shows — it was the hit single.
+
+To correct for this, each song also has an era-relative play rate:
+
+```
+era_play_rate = plays_within_primary_era / total_shows_in_that_era
+```
+
+"Copy of A" has global rarity `0.80` (looks rare) but `era_play_rate = 0.90` in the HM era (clearly a staple). The UI uses this to show context like *"Staple in Hesitation Marks era · last played 2014"* rather than falsely labeling it a deep cut.
+
+**Nostalgia score (per show)**
+
+For each song in the setlist, compute how old it was at the time of the show:
+
+```
+song_age = show_year − song.release_year
+```
+
+Then average across the whole setlist and normalize:
+
+```
+nostalgia_score = mean(song_ages) / (show_year − 1989)
+```
+
+The denominator is the maximum possible age at that point in time — the age of *Pretty Hate Machine*, NIN's debut. This makes the score **relative to the era**: a 2025 show playing 1989 songs scores `1.0`, and so does a 1993 show playing 1989 songs. Both are maximally nostalgic *for their time*. A 2025 Hesitation Marks tour show scores `0.04` — nearly all brand new material.
+
+Covers are excluded from this calculation to avoid distortion from the original artist's release year.
+
+**Album distribution (per show)**
+
+A histogram of which albums the songs came from, expressed as fractions:
+
+```
+album_distribution = { "the-downward-spiral": 0.30, "the-fragile": 0.20, ... }
+```
+
+This is simply a count per album divided by total songs in the setlist.
+
+**Show rarity tier (per show)**
+
+Rather than averaging rarity scores across the setlist (which produces a misleading middle value), we count songs in each rarity bucket:
+
+```
+n_unicorn  = songs with rarity > 0.97   (played at <3% of all shows)
+n_deep_cut = songs with rarity in (0.92, 0.97]
+n_staple   = songs with rarity ≤ 0.50
+```
+
+Then classify the show:
+
+```
+if n_unicorn ≥ 2              → "unicorn"    (historic night)
+elif n_unicorn + n_deep_cut ≥ 4 → "deep-cuts"
+elif n_unicorn + n_deep_cut ≥ 2 → "mixed"
+elif n_staple / total > 0.60    → "hits-heavy"
+else                            → "balanced"
+```
+
+### Step 2 — Scoring (matching user preferences to shows)
+
+When a user specifies preferences, they become a **target vector** — the same shape as a show's feature vector, but representing the ideal show rather than a real one.
+
+Each show is then scored against the target:
+
+```
+score = w_nostalgia  × (1 − |show.nostalgia − target.nostalgia|)
+      + w_albums     × album_similarity(show.distribution, target.albums)
+      + w_rarity     × (1 − |show.avg_rarity − target.rarity|)
+      + w_production × exact_match(show.production, target.production)
+      + w_covers     × exact_match(show.has_covers, target.covers)
+```
+
+The weights `w_*` are set based on which dimensions the user actually specified — if they only mentioned album focus, that dimension gets all the weight. `album_similarity` is a dot product between the two album distributions (equivalent to cosine similarity when both sum to 1).
+
+This is scored against all 958 documented shows in milliseconds — the feature vectors are pre-computed and load statically in the browser. No server call needed for the core matching.
+
+### Step 3 — Where Gemini fits in
+
+The scoring function above requires structured input (numbers and choices). Gemini's only job is to bridge the gap when a user types something like *"a stripped-down show heavy on The Fragile with a couple deep cuts"* — it maps that to the target vector the scorer expects. The actual show recommendations always come from real historical data.
+
+This architecture means the recommender works instantly (no API latency) for slider/preset input, and falls back to a Gemini API call only when freeform text is used.
+
+### What this is (and isn't)
+
+| Technique | Used? | Where |
+|---|---|---|
+| Neural network / deep learning | No | — |
+| Collaborative filtering (user ratings) | No | — |
+| Content-based filtering | **Yes** | Core recommender |
+| Feature engineering | **Yes** | All song/show statistics |
+| Nearest-neighbor retrieval | **Yes** | Show scoring |
+| Large language model | **Yes** | Freeform text parsing only |
+
 ## Auto-updates
 
 A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, rebuilds the catalog, and commits any changes. Vercel auto-deploys on push.
