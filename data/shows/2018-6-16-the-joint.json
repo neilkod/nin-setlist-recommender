@@ -196,23 +196,21 @@
     "avg_song_age_at_show": 15.9,
     "album_distribution": {
       "the-fragile": 0.2273,
+      "cover": 0.1818,
       "the-downward-spiral": 0.1364,
       "year-zero": 0.1364,
       "pretty-hate-machine": 0.0909,
       "bad-witch": 0.0909,
       "add-violence": 0.0909,
-      "unknown": 0.0909,
-      "cover": 0.0909,
       "broken": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
       "Trilogy": 0.1818,
+      "Covers": 0.1818,
       "The Downward Spiral": 0.1364,
       "Year Zero": 0.1364,
       "Pretty Hate Machine": 0.0909,
-      "Unknown": 0.0909,
-      "Covers": 0.0909,
       "Broken": 0.0455
     },
     "primary_album": "the-fragile",

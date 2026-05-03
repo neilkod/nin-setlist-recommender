@@ -56,6 +56,7 @@ ALBUM_METADATA = {
 # Songs that are covers of other artists. ninlive doesn't flag these.
 # cover_artist: who originally wrote/recorded it
 KNOWN_COVERS = {
+    # --- Already-catalogued covers (on official NIN releases) ---
     "get-down-make-love":   {"cover_artist": "Queen",        "original_year": 1977},
     "supernaut":            {"cover_artist": "Black Sabbath","original_year": 1972},
     "physical":             {"cover_artist": "Adam Ant",     "original_year": 1981},
@@ -64,11 +65,93 @@ KNOWN_COVERS = {
     "dead-souls":           {"cover_artist": "Joy Division", "original_year": 1980},
     "memorabilia":          {"cover_artist": "Soft Cell",    "original_year": 1981},
     "im-afraid-of-americans": {"cover_artist": "David Bowie","original_year": 1997},
-    "a-minute-to-breathe":  {"cover_artist": "Trent Reznor and Atticus Ross", "original_year": 2013},
-    "gave-up":              {"cover_artist": None, "original_year": None},  # not a cover — remove this entry
+    "a-minute-to-breathe":  {"cover_artist": "Trent Reznor and Atticus Ross", "original_year": 2025},
+
+    # --- David Bowie covers (NIN/Bowie co-headline tour 1995-96 + tribute) ---
+    "hallo-spaceboy":       {"cover_artist": "David Bowie", "original_year": 1995},
+    "scary-monsters":       {"cover_artist": "David Bowie", "original_year": 1980},
+    "subterraneans":        {"cover_artist": "David Bowie", "original_year": 1977},
+    "fashion":              {"cover_artist": "David Bowie", "original_year": 1980},
+    "i-cant-give-everything-away": {"cover_artist": "David Bowie", "original_year": 2016},
+
+    # --- Gary Numan covers ---
+    "cars":                 {"cover_artist": "Gary Numan",   "original_year": 1979},
+    "down-in-the-park":     {"cover_artist": "Tubeway Army","original_year": 1978},
+    "i-die-you-die":        {"cover_artist": "Gary Numan",   "original_year": 1980},
+    "we-take-mystery-to-bed": {"cover_artist": "Gary Numan", "original_year": 1982},
+    "parasite":             {"cover_artist": "How To Destroy Angels", "original_year": 2010},
+
+    # --- Joy Division covers ---
+    "atmosphere":           {"cover_artist": "Joy Division", "original_year": 1980},
+    "digital":              {"cover_artist": "Joy Division", "original_year": 1978},
+    "twenty-four-hours":    {"cover_artist": "Joy Division", "original_year": 1980},
+    "warsaw":               {"cover_artist": "Joy Division", "original_year": 1978},
+
+    # --- Bauhaus covers ---
+    "kick-in-the-eye":      {"cover_artist": "Bauhaus",     "original_year": 1981},
+    "sanity-assassin":      {"cover_artist": "Bauhaus",     "original_year": 1980},
+    "belalugosis-dead":     {"cover_artist": "Bauhaus",     "original_year": 1979},
+
+    # --- How To Destroy Angels covers ---
+    "bbb":                  {"cover_artist": "How To Destroy Angels", "original_year": 2010},
+    "ice-age":              {"cover_artist": "How To Destroy Angels", "original_year": 2012},
+    "on-the-wing":          {"cover_artist": "How To Destroy Angels", "original_year": 2012},
+    "welcome-oblivion":     {"cover_artist": "How To Destroy Angels", "original_year": 2013},
+    "drowning":             {"cover_artist": "How To Destroy Angels", "original_year": 2010},
+    "the-loop-closes":      {"cover_artist": "How To Destroy Angels", "original_year": 2013},
+
+    # --- Saul Williams covers ---
+    "african-student-movement": {"cover_artist": "Saul Williams", "original_year": 2004},
+    "banged-and-blown-through":  {"cover_artist": "Saul Williams", "original_year": 2007},
+    "list-of-demands":      {"cover_artist": "Saul Williams", "original_year": 2004},
+
+    # --- Trent Reznor & Atticus Ross covers (Social Network OST / Peel It Back era) ---
+    "hand-covers-bruise":   {"cover_artist": "Trent Reznor and Atticus Ross", "original_year": 2010},
+    "whatifwecould":        {"cover_artist": "Trent Reznor and Atticus Ross", "original_year": 2013},
+    "you-made-it-feel-like-home": {"cover_artist": "Trent Reznor and Atticus Ross", "original_year": 2026},
+
+    # --- Pop Will Eat Itself covers (Nights of Nothing tour 1996) ---
+    "rvsp":                 {"cover_artist": "Pop Will Eat Itself", "original_year": 1989},
+    "wise-up-sucker":       {"cover_artist": "Pop Will Eat Itself", "original_year": 1992},
+
+    # --- Prick covers (Nights of Nothing tour 1996, Nothing Records showcase) ---
+    "animal":               {"cover_artist": "Prick",        "original_year": 1995},
+    "tough":                {"cover_artist": "Prick",        "original_year": 1995},
+
+    # --- Adam Ant covers ---
+    "beat-my-guest":        {"cover_artist": "Adam and the Ants", "original_year": 1980},
+    "red-scab":             {"cover_artist": "Adam Ant",     "original_year": 1982},
+
+    # --- Other post-punk/industrial covers ---
+    "nightclubbing":        {"cover_artist": "Iggy Pop",     "original_year": 1977},
+    "warm-leatherette":     {"cover_artist": "The Normal",   "original_year": 1978},
+    "final-solution":       {"cover_artist": "Pere Ubu",     "original_year": 1978},
+    "love-like-anthrax":    {"cover_artist": "Gang of Four", "original_year": 1981},
+    "strange-kind-of-love": {"cover_artist": "Peter Murphy", "original_year": 1990},
+    "hey-man-nice-shot":    {"cover_artist": "Filter",       "original_year": 1995},
+    "the-beautiful-people": {"cover_artist": "Marilyn Manson","original_year": 1996},
+    "my-god-is-the-sun":    {"cover_artist": "Queens of the Stone Age", "original_year": 2013},
+    "greensleave":          {"cover_artist": "Traditional",  "original_year": 1500},
 }
 # Clean: remove any accidental non-covers
 KNOWN_COVERS = {k: v for k, v in KNOWN_COVERS.items() if v["cover_artist"]}
+
+# NIN original songs that were performed live but never officially released on any album.
+# approx_year: estimated year first written/performed
+# era_group: the marketing era used for UI display
+UNRELEASED_NIN = {
+    "now-im-nothing":   {"era_group": "Pretty Hate Machine", "approx_year": 1991},
+    "maybe-just-once":  {"era_group": "Pretty Hate Machine", "approx_year": 1988},
+    "twist":            {"era_group": "Pretty Hate Machine", "approx_year": 1988},
+}
+
+# Intro tapes, segue pieces, and ambient transitions performed between songs.
+# These are not songs proper — they have no album attribution.
+INTROS = [
+    "intro",
+    "intro-hate-1990",
+    "pinion-the-eater-of-dreams",
+]
 
 # Songs that appear on remix/live albums where the canonical album attribution
 # differs from ninlive's filing. Key = song slug, value = canonical album slug.
@@ -188,6 +271,30 @@ def build_album_catalog():
                 "era_group": "Covers",
                 "is_cover": True,
                 "cover_artist": cover_info["cover_artist"],
+            }
+
+    # Unreleased NIN originals — performed live but never on any studio/EP release.
+    for slug, info in UNRELEASED_NIN.items():
+        if slug not in song_catalog:
+            song_catalog[slug] = {
+                "album_slug": "unreleased",
+                "album_year": info.get("approx_year"),
+                "album_type": "unreleased",
+                "era_group": info["era_group"],
+                "is_cover": False,
+                "cover_artist": None,
+            }
+
+    # Intro tapes / segues — not proper songs, excluded from nostalgia/rarity math.
+    for slug in INTROS:
+        if slug not in song_catalog:
+            song_catalog[slug] = {
+                "album_slug": "intro",
+                "album_year": None,
+                "album_type": "intro",
+                "era_group": "Intro/Segue",
+                "is_cover": False,
+                "cover_artist": None,
             }
 
     out = {

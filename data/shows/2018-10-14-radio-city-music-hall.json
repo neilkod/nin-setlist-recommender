@@ -183,7 +183,7 @@
       "the-downward-spiral": 0.25,
       "year-zero": 0.15,
       "broken": 0.1,
-      "unknown": 0.05,
+      "cover": 0.05,
       "add-violence": 0.05,
       "not-the-actual-events": 0.05,
       "pretty-hate-machine": 0.05
@@ -194,7 +194,7 @@
       "Year Zero": 0.15,
       "Trilogy": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-fragile",

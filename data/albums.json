@@ -2721,6 +2721,406 @@
       "era_group": "Covers",
       "is_cover": true,
       "cover_artist": "Trent Reznor and Atticus Ross"
+    },
+    "hallo-spaceboy": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "scary-monsters": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "subterraneans": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "fashion": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "i-cant-give-everything-away": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "cars": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Gary Numan"
+    },
+    "down-in-the-park": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Tubeway Army"
+    },
+    "i-die-you-die": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Gary Numan"
+    },
+    "we-take-mystery-to-bed": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Gary Numan"
+    },
+    "parasite": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "atmosphere": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    "digital": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    "twenty-four-hours": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    "warsaw": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    "kick-in-the-eye": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Bauhaus"
+    },
+    "sanity-assassin": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Bauhaus"
+    },
+    "belalugosis-dead": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Bauhaus"
+    },
+    "bbb": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "ice-age": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "on-the-wing": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "welcome-oblivion": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "drowning": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "the-loop-closes": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "How To Destroy Angels"
+    },
+    "african-student-movement": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Saul Williams"
+    },
+    "banged-and-blown-through": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Saul Williams"
+    },
+    "list-of-demands": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Saul Williams"
+    },
+    "hand-covers-bruise": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Trent Reznor and Atticus Ross"
+    },
+    "whatifwecould": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Trent Reznor and Atticus Ross"
+    },
+    "you-made-it-feel-like-home": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Trent Reznor and Atticus Ross"
+    },
+    "rvsp": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Pop Will Eat Itself"
+    },
+    "wise-up-sucker": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Pop Will Eat Itself"
+    },
+    "animal": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Prick"
+    },
+    "tough": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Prick"
+    },
+    "beat-my-guest": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Adam and the Ants"
+    },
+    "red-scab": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Adam Ant"
+    },
+    "nightclubbing": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Iggy Pop"
+    },
+    "warm-leatherette": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "The Normal"
+    },
+    "final-solution": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Pere Ubu"
+    },
+    "love-like-anthrax": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Gang of Four"
+    },
+    "strange-kind-of-love": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Peter Murphy"
+    },
+    "hey-man-nice-shot": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Filter"
+    },
+    "the-beautiful-people": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Marilyn Manson"
+    },
+    "my-god-is-the-sun": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Queens of the Stone Age"
+    },
+    "greensleave": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Traditional"
+    },
+    "now-im-nothing": {
+      "album_slug": "unreleased",
+      "album_year": 1991,
+      "album_type": "unreleased",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "maybe-just-once": {
+      "album_slug": "unreleased",
+      "album_year": 1988,
+      "album_type": "unreleased",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "twist": {
+      "album_slug": "unreleased",
+      "album_year": 1988,
+      "album_type": "unreleased",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "intro": {
+      "album_slug": "intro",
+      "album_year": null,
+      "album_type": "intro",
+      "era_group": "Intro/Segue",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "intro-hate-1990": {
+      "album_slug": "intro",
+      "album_year": null,
+      "album_type": "intro",
+      "era_group": "Intro/Segue",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "pinion-the-eater-of-dreams": {
+      "album_slug": "intro",
+      "album_year": null,
+      "album_type": "intro",
+      "era_group": "Intro/Segue",
+      "is_cover": false,
+      "cover_artist": null
     }
   },
   "known_covers": {
@@ -2758,7 +3158,183 @@
     },
     "a-minute-to-breathe": {
       "cover_artist": "Trent Reznor and Atticus Ross",
+      "original_year": 2025
+    },
+    "hallo-spaceboy": {
+      "cover_artist": "David Bowie",
+      "original_year": 1995
+    },
+    "scary-monsters": {
+      "cover_artist": "David Bowie",
+      "original_year": 1980
+    },
+    "subterraneans": {
+      "cover_artist": "David Bowie",
+      "original_year": 1977
+    },
+    "fashion": {
+      "cover_artist": "David Bowie",
+      "original_year": 1980
+    },
+    "i-cant-give-everything-away": {
+      "cover_artist": "David Bowie",
+      "original_year": 2016
+    },
+    "cars": {
+      "cover_artist": "Gary Numan",
+      "original_year": 1979
+    },
+    "down-in-the-park": {
+      "cover_artist": "Tubeway Army",
+      "original_year": 1978
+    },
+    "i-die-you-die": {
+      "cover_artist": "Gary Numan",
+      "original_year": 1980
+    },
+    "we-take-mystery-to-bed": {
+      "cover_artist": "Gary Numan",
+      "original_year": 1982
+    },
+    "parasite": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2010
+    },
+    "atmosphere": {
+      "cover_artist": "Joy Division",
+      "original_year": 1980
+    },
+    "digital": {
+      "cover_artist": "Joy Division",
+      "original_year": 1978
+    },
+    "twenty-four-hours": {
+      "cover_artist": "Joy Division",
+      "original_year": 1980
+    },
+    "warsaw": {
+      "cover_artist": "Joy Division",
+      "original_year": 1978
+    },
+    "kick-in-the-eye": {
+      "cover_artist": "Bauhaus",
+      "original_year": 1981
+    },
+    "sanity-assassin": {
+      "cover_artist": "Bauhaus",
+      "original_year": 1980
+    },
+    "belalugosis-dead": {
+      "cover_artist": "Bauhaus",
+      "original_year": 1979
+    },
+    "bbb": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2010
+    },
+    "ice-age": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2012
+    },
+    "on-the-wing": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2012
+    },
+    "welcome-oblivion": {
+      "cover_artist": "How To Destroy Angels",
       "original_year": 2013
+    },
+    "drowning": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2010
+    },
+    "the-loop-closes": {
+      "cover_artist": "How To Destroy Angels",
+      "original_year": 2013
+    },
+    "african-student-movement": {
+      "cover_artist": "Saul Williams",
+      "original_year": 2004
+    },
+    "banged-and-blown-through": {
+      "cover_artist": "Saul Williams",
+      "original_year": 2007
+    },
+    "list-of-demands": {
+      "cover_artist": "Saul Williams",
+      "original_year": 2004
+    },
+    "hand-covers-bruise": {
+      "cover_artist": "Trent Reznor and Atticus Ross",
+      "original_year": 2010
+    },
+    "whatifwecould": {
+      "cover_artist": "Trent Reznor and Atticus Ross",
+      "original_year": 2013
+    },
+    "you-made-it-feel-like-home": {
+      "cover_artist": "Trent Reznor and Atticus Ross",
+      "original_year": 2026
+    },
+    "rvsp": {
+      "cover_artist": "Pop Will Eat Itself",
+      "original_year": 1989
+    },
+    "wise-up-sucker": {
+      "cover_artist": "Pop Will Eat Itself",
+      "original_year": 1992
+    },
+    "animal": {
+      "cover_artist": "Prick",
+      "original_year": 1995
+    },
+    "tough": {
+      "cover_artist": "Prick",
+      "original_year": 1995
+    },
+    "beat-my-guest": {
+      "cover_artist": "Adam and the Ants",
+      "original_year": 1980
+    },
+    "red-scab": {
+      "cover_artist": "Adam Ant",
+      "original_year": 1982
+    },
+    "nightclubbing": {
+      "cover_artist": "Iggy Pop",
+      "original_year": 1977
+    },
+    "warm-leatherette": {
+      "cover_artist": "The Normal",
+      "original_year": 1978
+    },
+    "final-solution": {
+      "cover_artist": "Pere Ubu",
+      "original_year": 1978
+    },
+    "love-like-anthrax": {
+      "cover_artist": "Gang of Four",
+      "original_year": 1981
+    },
+    "strange-kind-of-love": {
+      "cover_artist": "Peter Murphy",
+      "original_year": 1990
+    },
+    "hey-man-nice-shot": {
+      "cover_artist": "Filter",
+      "original_year": 1995
+    },
+    "the-beautiful-people": {
+      "cover_artist": "Marilyn Manson",
+      "original_year": 1996
+    },
+    "my-god-is-the-sun": {
+      "cover_artist": "Queens of the Stone Age",
+      "original_year": 2013
+    },
+    "greensleave": {
+      "cover_artist": "Traditional",
+      "original_year": 1500
     }
   }
 }

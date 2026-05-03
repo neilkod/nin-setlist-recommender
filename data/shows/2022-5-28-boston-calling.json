@@ -204,7 +204,7 @@
       "bad-witch": 0.0909,
       "add-violence": 0.0455,
       "year-zero": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.1818,
@@ -215,7 +215,7 @@
       "The Downward Spiral": 0.0909,
       "The Slip": 0.0909,
       "Year Zero": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",

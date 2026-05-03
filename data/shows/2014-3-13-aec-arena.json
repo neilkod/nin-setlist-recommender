@@ -169,7 +169,7 @@
       "hesitation-marks": 0.1111,
       "with-teeth": 0.1111,
       "the-slip": 0.1111,
-      "unknown": 0.0556,
+      "cover": 0.0556,
       "broken": 0.0556
     },
     "era_distribution": {
@@ -179,7 +179,7 @@
       "Hesitation Marks": 0.1111,
       "With Teeth": 0.1111,
       "The Slip": 0.1111,
-      "Unknown": 0.0556,
+      "Covers": 0.0556,
       "Broken": 0.0556
     },
     "primary_album": "year-zero",

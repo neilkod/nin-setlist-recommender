@@ -211,7 +211,7 @@
       "year-zero": 0.087,
       "with-teeth": 0.087,
       "the-slip": 0.0435,
-      "unknown": 0.0435
+      "cover": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.2174,
@@ -222,7 +222,7 @@
       "Year Zero": 0.087,
       "With Teeth": 0.087,
       "The Slip": 0.0435,
-      "Unknown": 0.0435
+      "Covers": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

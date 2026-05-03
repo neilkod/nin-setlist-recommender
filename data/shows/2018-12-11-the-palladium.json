@@ -192,19 +192,18 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:29:42.210237Z",
   "features": {
-    "nostalgia_score": 0.8947,
-    "avg_song_age_at_show": 25.9,
+    "nostalgia_score": 0.8966,
+    "avg_song_age_at_show": 26,
     "album_distribution": {
       "the-downward-spiral": 0.4091,
       "broken": 0.3182,
       "pretty-hate-machine": 0.2273,
-      "unknown": 0.0455
+      "unreleased": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.4091,
       "Broken": 0.3182,
-      "Pretty Hate Machine": 0.2273,
-      "Unknown": 0.0455
+      "Pretty Hate Machine": 0.2727
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

@@ -188,7 +188,7 @@
     "avg_song_age_at_show": 26.2,
     "album_distribution": {
       "the-downward-spiral": 0.381,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "broken": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
@@ -202,7 +202,7 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "Broken": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,

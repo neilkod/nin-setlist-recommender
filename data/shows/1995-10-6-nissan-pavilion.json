@@ -149,14 +149,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",

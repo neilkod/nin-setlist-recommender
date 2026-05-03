@@ -44,11 +44,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
-      "unknown": 0.3333
+      "intro": 0.3333
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.6667,
-      "Unknown": 0.3333
+      "Intro/Segue": 0.3333
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",

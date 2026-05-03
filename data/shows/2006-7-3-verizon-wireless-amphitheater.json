@@ -193,7 +193,7 @@
       "broken": 0.1905,
       "with-teeth": 0.1429,
       "ninja-2009-summer-tour-ep": 0.0476,
-      "unknown": 0.0476
+      "cover": 0.0476
     },
     "era_distribution": {
       "The Fragile": 0.1905,
@@ -202,7 +202,7 @@
       "Broken": 0.1905,
       "With Teeth": 0.1429,
       "The Slip": 0.0476,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",

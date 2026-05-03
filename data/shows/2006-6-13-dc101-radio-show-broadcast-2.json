@@ -43,15 +43,15 @@
     "nostalgia_score": null,
     "avg_song_age_at_show": null,
     "album_distribution": {
-      "unknown": 0.6667,
+      "cover": 0.6667,
       "hesitation-marks": 0.3333
     },
     "era_distribution": {
-      "Unknown": 0.6667,
+      "Covers": 0.6667,
       "Hesitation Marks": 0.3333
     },
-    "primary_album": "unknown",
-    "primary_era": "Unknown",
+    "primary_album": "cover",
+    "primary_era": "Covers",
     "avg_rarity_score": 0.9966,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,

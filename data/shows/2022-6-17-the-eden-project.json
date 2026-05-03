@@ -208,12 +208,11 @@
       "bad-witch": 0.1304,
       "broken": 0.087,
       "hesitation-marks": 0.087,
+      "cover": 0.087,
       "pretty-hate-machine": 0.087,
       "with-teeth": 0.0435,
       "add-violence": 0.0435,
-      "the-perfect-drug": 0.0435,
-      "cover": 0.0435,
-      "unknown": 0.0435
+      "the-perfect-drug": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3043,
@@ -221,10 +220,9 @@
       "The Fragile": 0.1304,
       "Broken": 0.087,
       "Hesitation Marks": 0.087,
+      "Covers": 0.087,
       "Pretty Hate Machine": 0.087,
-      "With Teeth": 0.0435,
-      "Covers": 0.0435,
-      "Unknown": 0.0435
+      "With Teeth": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

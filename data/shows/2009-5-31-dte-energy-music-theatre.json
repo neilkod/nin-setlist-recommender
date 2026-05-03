@@ -184,8 +184,8 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:21:14.008502Z",
   "features": {
-    "nostalgia_score": 0.5211,
-    "avg_song_age_at_show": 10.4,
+    "nostalgia_score": 0.54,
+    "avg_song_age_at_show": 10.8,
     "album_distribution": {
       "the-downward-spiral": 0.1905,
       "pretty-hate-machine": 0.1429,
@@ -194,23 +194,22 @@
       "broken": 0.0952,
       "year-zero": 0.0952,
       "with-teeth": 0.0952,
-      "unknown": 0.0476,
+      "unreleased": 0.0476,
       "ninja-2009-summer-tour-ep": 0.0476,
       "cover": 0.0476
     },
     "era_distribution": {
+      "Pretty Hate Machine": 0.1905,
       "The Downward Spiral": 0.1905,
-      "Pretty Hate Machine": 0.1429,
       "The Fragile": 0.1429,
       "The Slip": 0.1429,
       "Broken": 0.0952,
       "Year Zero": 0.0952,
       "With Teeth": 0.0952,
-      "Unknown": 0.0476,
       "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
-    "primary_era": "The Downward Spiral",
+    "primary_era": "Pretty Hate Machine",
     "avg_rarity_score": 0.6858,
     "rarity_tier": "unicorn",
     "n_unicorn": 2,

@@ -182,13 +182,13 @@
       "the-downward-spiral": 0.45,
       "broken": 0.3,
       "pretty-hate-machine": 0.15,
-      "unknown": 0.1
+      "cover": 0.1
     },
     "era_distribution": {
       "The Downward Spiral": 0.45,
       "Broken": 0.3,
       "Pretty Hate Machine": 0.15,
-      "Unknown": 0.1
+      "Covers": 0.1
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

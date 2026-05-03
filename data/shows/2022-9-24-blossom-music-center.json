@@ -212,7 +212,7 @@
       "hesitation-marks": 0.0435,
       "the-perfect-drug": 0.0435,
       "with-teeth": 0.0435,
-      "unknown": 0.0435
+      "cover": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3478,
@@ -222,7 +222,7 @@
       "Broken": 0.087,
       "Hesitation Marks": 0.0435,
       "With Teeth": 0.0435,
-      "Unknown": 0.0435
+      "Covers": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

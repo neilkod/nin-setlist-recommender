@@ -188,7 +188,7 @@
     "avg_song_age_at_show": 25.6,
     "album_distribution": {
       "the-downward-spiral": 0.3333,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "with-teeth": 0.0952,
       "broken": 0.0952,
       "the-fragile": 0.0952,
@@ -201,7 +201,7 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "With Teeth": 0.0952,
       "Broken": 0.0952,
       "The Fragile": 0.0952,

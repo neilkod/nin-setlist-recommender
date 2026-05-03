@@ -182,14 +182,13 @@
       "the-downward-spiral": 0.35,
       "pretty-hate-machine": 0.1,
       "broken": 0.1,
+      "cover": 0.1,
       "ninja-2009-summer-tour-ep": 0.05,
       "hesitation-marks": 0.05,
       "not-the-actual-events": 0.05,
-      "unknown": 0.05,
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05
     },
     "era_distribution": {
@@ -197,11 +196,10 @@
       "Pretty Hate Machine": 0.1,
       "Broken": 0.1,
       "Trilogy": 0.1,
+      "Covers": 0.1,
       "The Slip": 0.05,
       "Hesitation Marks": 0.05,
-      "Unknown": 0.05,
       "Peel It Back": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05
     },
     "primary_album": "the-downward-spiral",

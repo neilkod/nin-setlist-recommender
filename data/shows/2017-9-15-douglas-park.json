@@ -186,7 +186,7 @@
       "add-violence": 0.1,
       "pretty-hate-machine": 0.1,
       "hesitation-marks": 0.05,
-      "unknown": 0.05,
+      "cover": 0.05,
       "the-slip": 0.05,
       "year-zero": 0.05,
       "with-teeth": 0.05
@@ -198,7 +198,7 @@
       "Broken": 0.1,
       "Pretty Hate Machine": 0.1,
       "Hesitation Marks": 0.05,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "The Slip": 0.05,
       "Year Zero": 0.05,
       "With Teeth": 0.05

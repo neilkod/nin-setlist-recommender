@@ -200,8 +200,8 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:21:16.243884Z",
   "features": {
-    "nostalgia_score": 0.58,
-    "avg_song_age_at_show": 11.6,
+    "nostalgia_score": 0.5952,
+    "avg_song_age_at_show": 11.9,
     "album_distribution": {
       "the-downward-spiral": 0.3043,
       "the-fragile": 0.1739,
@@ -210,18 +210,17 @@
       "broken": 0.087,
       "year-zero": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435,
+      "unreleased": 0.0435,
       "the-slip": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3043,
       "The Fragile": 0.1739,
-      "Pretty Hate Machine": 0.087,
+      "Pretty Hate Machine": 0.1304,
       "Covers": 0.087,
       "Broken": 0.087,
       "Year Zero": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435,
       "The Slip": 0.0435
     },
     "primary_album": "the-downward-spiral",

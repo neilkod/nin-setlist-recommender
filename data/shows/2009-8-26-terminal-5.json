@@ -271,10 +271,9 @@
       "the-fragile": 0.1613,
       "pretty-hate-machine": 0.1613,
       "broken": 0.129,
+      "cover": 0.0968,
       "the-slip": 0.0968,
       "year-zero": 0.0645,
-      "unknown": 0.0645,
-      "cover": 0.0323,
       "ninja-2009-summer-tour-ep": 0.0323,
       "with-teeth": 0.0323
     },
@@ -284,9 +283,8 @@
       "Pretty Hate Machine": 0.1613,
       "Broken": 0.129,
       "The Slip": 0.129,
+      "Covers": 0.0968,
       "Year Zero": 0.0645,
-      "Unknown": 0.0645,
-      "Covers": 0.0323,
       "With Teeth": 0.0323
     },
     "primary_album": "the-downward-spiral",

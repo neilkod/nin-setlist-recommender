@@ -201,7 +201,7 @@
       "broken": 0.1818,
       "with-teeth": 0.1364,
       "ninja-2009-summer-tour-ep": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2273,
@@ -210,7 +210,7 @@
       "Broken": 0.1818,
       "With Teeth": 0.1364,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

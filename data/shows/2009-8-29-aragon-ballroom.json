@@ -252,23 +252,21 @@
     "avg_song_age_at_show": 10.8,
     "album_distribution": {
       "the-downward-spiral": 0.3448,
+      "cover": 0.1379,
       "the-fragile": 0.1379,
       "with-teeth": 0.1034,
       "year-zero": 0.1034,
       "broken": 0.1034,
-      "cover": 0.069,
-      "unknown": 0.069,
       "the-slip": 0.0345,
       "pretty-hate-machine": 0.0345
     },
     "era_distribution": {
       "The Downward Spiral": 0.3448,
+      "Covers": 0.1379,
       "The Fragile": 0.1379,
       "With Teeth": 0.1034,
       "Year Zero": 0.1034,
       "Broken": 0.1034,
-      "Covers": 0.069,
-      "Unknown": 0.069,
       "The Slip": 0.0345,
       "Pretty Hate Machine": 0.0345
     },

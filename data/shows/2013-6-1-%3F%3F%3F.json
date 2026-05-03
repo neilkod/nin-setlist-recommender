@@ -232,11 +232,10 @@
       "the-fragile": 0.1538,
       "pretty-hate-machine": 0.1154,
       "broken": 0.1154,
+      "cover": 0.0769,
       "year-zero": 0.0769,
       "with-teeth": 0.0769,
-      "the-slip": 0.0385,
-      "cover": 0.0385,
-      "unknown": 0.0385
+      "the-slip": 0.0385
     },
     "era_distribution": {
       "The Downward Spiral": 0.1923,
@@ -244,11 +243,10 @@
       "The Fragile": 0.1538,
       "Pretty Hate Machine": 0.1154,
       "Broken": 0.1154,
+      "Covers": 0.0769,
       "Year Zero": 0.0769,
       "With Teeth": 0.0769,
-      "The Slip": 0.0385,
-      "Covers": 0.0385,
-      "Unknown": 0.0385
+      "The Slip": 0.0385
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

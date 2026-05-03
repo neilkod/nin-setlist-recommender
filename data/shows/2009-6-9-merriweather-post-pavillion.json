@@ -209,7 +209,7 @@
       "the-fragile": 0.1304,
       "broken": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435,
+      "intro": 0.0435,
       "year-zero": 0.0435,
       "cover": 0.0435
     },
@@ -220,7 +220,7 @@
       "The Fragile": 0.1304,
       "Broken": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435,
+      "Intro/Segue": 0.0435,
       "Year Zero": 0.0435,
       "Covers": 0.0435
     },

@@ -206,7 +206,7 @@
       "the-downward-spiral": 0.1739,
       "add-violence": 0.1304,
       "bad-witch": 0.1304,
-      "unknown": 0.1304,
+      "cover": 0.1304,
       "not-the-actual-events": 0.087,
       "the-fragile": 0.087,
       "year-zero": 0.087,
@@ -218,7 +218,7 @@
     "era_distribution": {
       "Trilogy": 0.3478,
       "The Downward Spiral": 0.1739,
-      "Unknown": 0.1304,
+      "Covers": 0.1304,
       "The Fragile": 0.087,
       "Year Zero": 0.087,
       "Broken": 0.0435,

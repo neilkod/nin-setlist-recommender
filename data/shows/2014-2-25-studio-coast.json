@@ -185,7 +185,7 @@
       "with-teeth": 0.15,
       "year-zero": 0.1,
       "broken": 0.1,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "Hesitation Marks": 0.25,
@@ -194,7 +194,7 @@
       "With Teeth": 0.15,
       "Year Zero": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",

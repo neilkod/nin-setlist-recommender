@@ -193,7 +193,7 @@
       "the-fragile": 0.1429,
       "year-zero": 0.0952,
       "broken": 0.0952,
-      "unknown": 0.0476,
+      "intro": 0.0476,
       "with-teeth": 0.0476
     },
     "era_distribution": {
@@ -203,7 +203,7 @@
       "The Fragile": 0.1429,
       "Year Zero": 0.0952,
       "Broken": 0.0952,
-      "Unknown": 0.0476,
+      "Intro/Segue": 0.0476,
       "With Teeth": 0.0476
     },
     "primary_album": "the-downward-spiral",

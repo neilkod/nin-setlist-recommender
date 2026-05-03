@@ -36,11 +36,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "hesitation-marks": 0.5,
-      "unknown": 0.5
+      "cover": 0.5
     },
     "era_distribution": {
       "Hesitation Marks": 0.5,
-      "Unknown": 0.5
+      "Covers": 0.5
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",

@@ -234,7 +234,7 @@
       "the-slip": 0.0385,
       "broken": 0.0385,
       "with-teeth": 0.0385,
-      "unknown": 0.0385
+      "cover": 0.0385
     },
     "era_distribution": {
       "Hesitation Marks": 0.3462,
@@ -244,7 +244,7 @@
       "The Slip": 0.0385,
       "Broken": 0.0385,
       "With Teeth": 0.0385,
-      "Unknown": 0.0385
+      "Covers": 0.0385
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",

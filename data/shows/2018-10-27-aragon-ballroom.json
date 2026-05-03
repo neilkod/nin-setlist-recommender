@@ -184,26 +184,27 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:29:14.640903Z",
   "features": {
-    "nostalgia_score": 0.6973,
-    "avg_song_age_at_show": 20.2,
+    "nostalgia_score": 0.7096,
+    "avg_song_age_at_show": 20.6,
     "album_distribution": {
       "pretty-hate-machine": 0.1905,
-      "unknown": 0.1429,
       "broken": 0.1429,
       "the-downward-spiral": 0.1429,
       "the-fragile": 0.1429,
       "the-slip": 0.0952,
       "bad-witch": 0.0952,
+      "cover": 0.0952,
+      "unreleased": 0.0476,
       "the-perfect-drug": 0.0476
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.1905,
+      "Pretty Hate Machine": 0.2381,
       "The Downward Spiral": 0.1905,
-      "Unknown": 0.1429,
       "Broken": 0.1429,
       "The Fragile": 0.1429,
       "The Slip": 0.0952,
-      "Trilogy": 0.0952
+      "Trilogy": 0.0952,
+      "Covers": 0.0952
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",

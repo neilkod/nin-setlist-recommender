@@ -197,7 +197,7 @@
       "broken": 0.0476,
       "hesitation-marks": 0.0476,
       "the-slip": 0.0476,
-      "unknown": 0.0476
+      "cover": 0.0476
     },
     "era_distribution": {
       "Trilogy": 0.1905,
@@ -209,7 +209,7 @@
       "Broken": 0.0476,
       "Hesitation Marks": 0.0476,
       "The Slip": 0.0476,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "Trilogy",

@@ -209,8 +209,7 @@
       "broken": 0.1304,
       "the-slip": 0.087,
       "the-fragile": 0.087,
-      "cover": 0.0435,
-      "unknown": 0.0435,
+      "cover": 0.087,
       "pretty-hate-machine": 0.0435
     },
     "era_distribution": {
@@ -220,8 +219,7 @@
       "Broken": 0.1304,
       "The Slip": 0.087,
       "The Fragile": 0.087,
-      "Covers": 0.0435,
-      "Unknown": 0.0435,
+      "Covers": 0.087,
       "Pretty Hate Machine": 0.0435
     },
     "primary_album": "the-downward-spiral",

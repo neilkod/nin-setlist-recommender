@@ -184,9 +184,8 @@
       "broken": 0.1,
       "the-fragile": 0.1,
       "hesitation-marks": 0.1,
+      "cover": 0.1,
       "year-zero": 0.05,
-      "unknown": 0.05,
-      "cover": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
@@ -195,9 +194,8 @@
       "Broken": 0.1,
       "The Fragile": 0.1,
       "Hesitation Marks": 0.1,
+      "Covers": 0.1,
       "Year Zero": 0.05,
-      "Unknown": 0.05,
-      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-downward-spiral",

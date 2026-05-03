@@ -104,17 +104,16 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:00:03.319100Z",
   "features": {
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6364,
       "broken": 0.2727,
-      "unknown": 0.0909
+      "unreleased": 0.0909
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6364,
-      "Broken": 0.2727,
-      "Unknown": 0.0909
+      "Pretty Hate Machine": 0.7273,
+      "Broken": 0.2727
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",

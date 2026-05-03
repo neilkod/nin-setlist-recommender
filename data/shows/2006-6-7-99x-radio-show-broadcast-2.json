@@ -44,12 +44,12 @@
     "avg_song_age_at_show": 14.5,
     "album_distribution": {
       "pretty-hate-machine": 0.3333,
-      "unknown": 0.3333,
+      "cover": 0.3333,
       "the-downward-spiral": 0.3333
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.3333,
-      "Unknown": 0.3333,
+      "Covers": 0.3333,
       "The Downward Spiral": 0.3333
     },
     "primary_album": "pretty-hate-machine",

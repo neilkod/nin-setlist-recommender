@@ -180,8 +180,8 @@
     "avg_song_age_at_show": 25.8,
     "album_distribution": {
       "the-downward-spiral": 0.35,
+      "cover": 0.1,
       "broken": 0.1,
-      "unknown": 0.05,
       "ninja-2009-summer-tour-ep": 0.05,
       "the-fragile": 0.05,
       "hesitation-marks": 0.05,
@@ -189,21 +189,19 @@
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.4,
+      "Covers": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05,
       "The Slip": 0.05,
       "The Fragile": 0.05,
       "Hesitation Marks": 0.05,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05,
       "Pretty Hate Machine": 0.05
     },

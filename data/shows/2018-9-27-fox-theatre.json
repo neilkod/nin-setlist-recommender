@@ -192,29 +192,30 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:28:45.977789Z",
   "features": {
-    "nostalgia_score": 0.6828,
-    "avg_song_age_at_show": 19.8,
+    "nostalgia_score": 0.6946,
+    "avg_song_age_at_show": 20.1,
     "album_distribution": {
       "the-downward-spiral": 0.2273,
       "broken": 0.1818,
       "the-fragile": 0.1818,
-      "unknown": 0.0909,
       "pretty-hate-machine": 0.0909,
       "year-zero": 0.0909,
+      "unreleased": 0.0455,
       "the-slip": 0.0455,
       "add-violence": 0.0455,
-      "hesitation-marks": 0.0455
+      "hesitation-marks": 0.0455,
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2273,
       "Broken": 0.1818,
       "The Fragile": 0.1818,
-      "Unknown": 0.0909,
-      "Pretty Hate Machine": 0.0909,
+      "Pretty Hate Machine": 0.1364,
       "Year Zero": 0.0909,
       "The Slip": 0.0455,
       "Trilogy": 0.0455,
-      "Hesitation Marks": 0.0455
+      "Hesitation Marks": 0.0455,
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

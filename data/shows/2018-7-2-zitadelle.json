@@ -176,10 +176,9 @@
       "broken": 0.1053,
       "add-violence": 0.1053,
       "the-fragile": 0.1053,
+      "cover": 0.1053,
       "not-the-actual-events": 0.0526,
       "hesitation-marks": 0.0526,
-      "cover": 0.0526,
-      "unknown": 0.0526,
       "with-teeth": 0.0526,
       "pretty-hate-machine": 0.0526
     },
@@ -188,9 +187,8 @@
       "The Downward Spiral": 0.2105,
       "Broken": 0.1053,
       "The Fragile": 0.1053,
+      "Covers": 0.1053,
       "Hesitation Marks": 0.0526,
-      "Covers": 0.0526,
-      "Unknown": 0.0526,
       "With Teeth": 0.0526,
       "Pretty Hate Machine": 0.0526
     },

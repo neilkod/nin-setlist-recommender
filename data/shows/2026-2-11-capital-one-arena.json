@@ -180,7 +180,7 @@
     "avg_song_age_at_show": 24.9,
     "album_distribution": {
       "the-downward-spiral": 0.3,
-      "unknown": 0.1,
+      "cover": 0.15,
       "with-teeth": 0.1,
       "broken": 0.1,
       "hesitation-marks": 0.1,
@@ -188,19 +188,17 @@
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.35,
-      "Unknown": 0.1,
+      "Covers": 0.15,
       "With Teeth": 0.1,
       "Broken": 0.1,
       "Hesitation Marks": 0.1,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-downward-spiral",

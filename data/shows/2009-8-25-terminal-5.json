@@ -257,10 +257,9 @@
       "the-slip": 0.1034,
       "pretty-hate-machine": 0.069,
       "year-zero": 0.069,
+      "cover": 0.069,
       "broken": 0.069,
-      "cover": 0.0345,
-      "ninja-2009-summer-tour-ep": 0.0345,
-      "unknown": 0.0345
+      "ninja-2009-summer-tour-ep": 0.0345
     },
     "era_distribution": {
       "The Downward Spiral": 0.2414,
@@ -269,9 +268,8 @@
       "With Teeth": 0.1034,
       "Pretty Hate Machine": 0.069,
       "Year Zero": 0.069,
-      "Broken": 0.069,
-      "Covers": 0.0345,
-      "Unknown": 0.0345
+      "Covers": 0.069,
+      "Broken": 0.069
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

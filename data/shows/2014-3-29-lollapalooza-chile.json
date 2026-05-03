@@ -187,7 +187,7 @@
       "with-teeth": 0.1,
       "broken": 0.05,
       "the-fragile": 0.05,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.2,
@@ -198,7 +198,7 @@
       "With Teeth": 0.1,
       "Broken": 0.05,
       "The Fragile": 0.05,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",

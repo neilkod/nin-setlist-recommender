@@ -221,25 +221,23 @@
     "album_distribution": {
       "the-downward-spiral": 0.24,
       "the-fragile": 0.2,
+      "cover": 0.12,
       "with-teeth": 0.08,
       "pretty-hate-machine": 0.08,
       "the-slip": 0.08,
-      "cover": 0.08,
       "broken": 0.08,
       "year-zero": 0.08,
-      "unknown": 0.04,
       "ninja-2009-summer-tour-ep": 0.04
     },
     "era_distribution": {
       "The Downward Spiral": 0.24,
       "The Fragile": 0.2,
       "The Slip": 0.12,
+      "Covers": 0.12,
       "With Teeth": 0.08,
       "Pretty Hate Machine": 0.08,
-      "Covers": 0.08,
       "Broken": 0.08,
-      "Year Zero": 0.08,
-      "Unknown": 0.04
+      "Year Zero": 0.08
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",

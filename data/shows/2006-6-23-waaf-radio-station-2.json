@@ -51,15 +51,15 @@
     "nostalgia_score": 0.7059,
     "avg_song_age_at_show": 12,
     "album_distribution": {
-      "unknown": 0.75,
+      "cover": 0.75,
       "the-downward-spiral": 0.25
     },
     "era_distribution": {
-      "Unknown": 0.75,
+      "Covers": 0.75,
       "The Downward Spiral": 0.25
     },
-    "primary_album": "unknown",
-    "primary_era": "Unknown",
+    "primary_album": "cover",
+    "primary_era": "Covers",
     "avg_rarity_score": 0.9028,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,
@@ -67,8 +67,8 @@
     "n_album_track": 0,
     "n_familiar": 1,
     "n_staple": 0,
-    "cover_count": 2,
-    "cover_fraction": 0.5,
+    "cover_count": 3,
+    "cover_fraction": 0.75,
     "special_notes_count": 2,
     "special_fraction": 0.5,
     "production_style": "full",

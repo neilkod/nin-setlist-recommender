@@ -8,15 +8,14 @@
     "country": "United States",
     "tour": "Skinny Puppy's VIVIsectVI Tour",
     "era_slug": "skinny-puppys-vivisectvi-tour",
-    "nostalgia_score": null,
-    "avg_song_age_at_show": null,
+    "nostalgia_score": 0.0,
+    "avg_song_age_at_show": 0,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
-      "unknown": 0.3333
+      "unreleased": 0.3333
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Unknown": 0.3333
+      "Pretty Hate Machine": 1.0
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -52,11 +51,11 @@
     "avg_song_age_at_show": 0,
     "album_distribution": {
       "pretty-hate-machine": 0.9167,
-      "unknown": 0.0833
+      "intro": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.9167,
-      "Unknown": 0.0833
+      "Intro/Segue": 0.0833
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -92,11 +91,11 @@
     "avg_song_age_at_show": 0,
     "album_distribution": {
       "pretty-hate-machine": 0.9167,
-      "unknown": 0.0833
+      "intro": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.9167,
-      "Unknown": 0.0833
+      "Intro/Segue": 0.0833
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -132,11 +131,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.9091,
-      "unknown": 0.0909
+      "intro": 0.0909
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.9091,
-      "Unknown": 0.0909
+      "Intro/Segue": 0.0909
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -172,11 +171,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -212,11 +211,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -252,11 +251,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.875,
-      "unknown": 0.125
+      "intro": 0.125
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.875,
-      "Unknown": 0.125
+      "Intro/Segue": 0.125
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -292,11 +291,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -332,11 +331,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -372,11 +371,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -412,11 +411,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -452,11 +451,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -492,11 +491,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -532,11 +531,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -572,11 +571,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.875,
-      "unknown": 0.125
+      "intro": 0.125
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.875,
-      "Unknown": 0.125
+      "Intro/Segue": 0.125
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -612,11 +611,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -652,11 +651,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -692,11 +691,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -732,11 +731,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -772,11 +771,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8889,
-      "unknown": 0.1111
+      "intro": 0.1111
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8889,
-      "Unknown": 0.1111
+      "Intro/Segue": 0.1111
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -812,11 +811,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.875,
-      "unknown": 0.125
+      "intro": 0.125
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.875,
-      "Unknown": 0.125
+      "Intro/Segue": 0.125
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -852,12 +851,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -894,12 +893,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -976,12 +975,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8182,
-      "unknown": 0.0909,
+      "intro": 0.0909,
       "broken": 0.0909
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8182,
-      "Unknown": 0.0909,
+      "Intro/Segue": 0.0909,
       "Broken": 0.0909
     },
     "primary_album": "pretty-hate-machine",
@@ -1018,11 +1017,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
-      "unknown": 0.3333
+      "intro": 0.3333
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.6667,
-      "Unknown": 0.3333
+      "Intro/Segue": 0.3333
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -1058,12 +1057,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1100,12 +1099,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1142,12 +1141,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1184,12 +1183,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1226,12 +1225,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1268,12 +1267,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1310,12 +1309,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1352,12 +1351,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1394,12 +1393,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1436,12 +1435,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1478,12 +1477,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1520,12 +1519,12 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "pretty-hate-machine": 0.8333,
-      "unknown": 0.0833,
+      "intro": 0.0833,
       "broken": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.8333,
-      "Unknown": 0.0833,
+      "Intro/Segue": 0.0833,
       "Broken": 0.0833
     },
     "primary_album": "pretty-hate-machine",
@@ -1798,17 +1797,16 @@
     "country": "United States",
     "tour": "Lollapalooza (Warm Up)",
     "era_slug": "lollapalooza-warm-up",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.875,
+    "avg_song_age_at_show": 1.8,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.25,
-      "unknown": 0.0833
+      "unreleased": 0.0833
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.25,
-      "Unknown": 0.0833
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -1840,15 +1838,14 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.6667,
+    "avg_song_age_at_show": 1.3,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
-      "unknown": 0.3333
+      "unreleased": 0.3333
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Unknown": 0.3333
+      "Pretty Hate Machine": 1.0
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -1880,17 +1877,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -1922,17 +1918,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -1964,17 +1959,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2006,17 +2000,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2048,17 +2041,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2090,17 +2082,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2132,17 +2123,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2174,17 +2164,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2216,17 +2205,16 @@
     "country": "Canada",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2258,17 +2246,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.7,
       "broken": 0.2,
-      "unknown": 0.1
+      "unreleased": 0.1
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.7,
-      "Broken": 0.2,
-      "Unknown": 0.1
+      "Pretty Hate Machine": 0.8,
+      "Broken": 0.2
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2300,17 +2287,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.7,
       "broken": 0.2,
-      "unknown": 0.1
+      "unreleased": 0.1
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.7,
-      "Broken": 0.2,
-      "Unknown": 0.1
+      "Pretty Hate Machine": 0.8,
+      "Broken": 0.2
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2342,17 +2328,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2384,17 +2369,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2426,17 +2410,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.625,
       "broken": 0.25,
-      "unknown": 0.125
+      "unreleased": 0.125
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.625,
-      "Broken": 0.25,
-      "Unknown": 0.125
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2468,17 +2451,16 @@
     "country": "United States",
     "tour": "Lollapalooza",
     "era_slug": "lollapalooza",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2510,17 +2492,16 @@
     "country": "Germany",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.625,
       "broken": 0.25,
-      "unknown": 0.125
+      "unreleased": 0.125
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.625,
-      "Broken": 0.25,
-      "Unknown": 0.125
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2552,17 +2533,16 @@
     "country": "Netherlands",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.2222,
-      "unknown": 0.1111
+      "unreleased": 0.1111
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.2222,
-      "Unknown": 0.1111
+      "Pretty Hate Machine": 0.7778,
+      "Broken": 0.2222
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2594,17 +2574,16 @@
     "country": "Belgium",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.625,
       "broken": 0.25,
-      "unknown": 0.125
+      "unreleased": 0.125
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.625,
-      "Broken": 0.25,
-      "Unknown": 0.125
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2636,17 +2615,16 @@
     "country": "France",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8333,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.625,
       "broken": 0.25,
-      "unknown": 0.125
+      "unreleased": 0.125
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.625,
-      "Broken": 0.25,
-      "Unknown": 0.125
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2678,17 +2656,16 @@
     "country": "United Kingdom",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.875,
+    "avg_song_age_at_show": 1.8,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.25,
-      "unknown": 0.0833
+      "unreleased": 0.0833
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.25,
-      "Unknown": 0.0833
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2720,17 +2697,16 @@
     "country": "United Kingdom",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.8571,
+    "avg_song_age_at_show": 1.7,
     "album_distribution": {
       "pretty-hate-machine": 0.6364,
       "broken": 0.2727,
-      "unknown": 0.0909
+      "unreleased": 0.0909
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6364,
-      "Broken": 0.2727,
-      "Unknown": 0.0909
+      "Pretty Hate Machine": 0.7273,
+      "Broken": 0.2727
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -2762,17 +2738,16 @@
     "country": "United Kingdom",
     "tour": "Europe - 1991",
     "era_slug": "europe-1991",
-    "nostalgia_score": 1.0,
-    "avg_song_age_at_show": 2,
+    "nostalgia_score": 0.875,
+    "avg_song_age_at_show": 1.8,
     "album_distribution": {
       "pretty-hate-machine": 0.6667,
       "broken": 0.25,
-      "unknown": 0.0833
+      "unreleased": 0.0833
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.6667,
-      "Broken": 0.25,
-      "Unknown": 0.0833
+      "Pretty Hate Machine": 0.75,
+      "Broken": 0.25
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -6412,13 +6387,13 @@
       "the-downward-spiral": 0.45,
       "broken": 0.3,
       "pretty-hate-machine": 0.15,
-      "unknown": 0.1
+      "cover": 0.1
     },
     "era_distribution": {
       "The Downward Spiral": 0.45,
       "Broken": 0.3,
       "Pretty Hate Machine": 0.15,
-      "Unknown": 0.1
+      "Covers": 0.1
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -6456,13 +6431,13 @@
       "the-downward-spiral": 0.4545,
       "broken": 0.2727,
       "pretty-hate-machine": 0.1818,
-      "unknown": 0.0909
+      "cover": 0.0909
     },
     "era_distribution": {
       "The Downward Spiral": 0.4545,
       "Broken": 0.2727,
       "Pretty Hate Machine": 0.1818,
-      "Unknown": 0.0909
+      "Covers": 0.0909
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -7044,13 +7019,13 @@
     "avg_song_age_at_show": 2.4,
     "album_distribution": {
       "the-downward-spiral": 0.375,
-      "unknown": 0.375,
+      "cover": 0.375,
       "broken": 0.125,
       "pretty-hate-machine": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.375,
-      "Unknown": 0.375,
+      "Covers": 0.375,
       "Broken": 0.125,
       "Pretty Hate Machine": 0.125
     },
@@ -7089,14 +7064,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7134,14 +7109,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7179,14 +7154,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7224,14 +7199,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7269,14 +7244,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7314,14 +7289,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7359,14 +7334,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7404,14 +7379,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7449,14 +7424,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7494,13 +7469,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7538,13 +7513,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7582,13 +7557,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7626,14 +7601,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7671,13 +7646,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7715,13 +7690,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7759,13 +7734,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7803,13 +7778,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7847,13 +7822,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7891,13 +7866,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7935,14 +7910,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -7980,13 +7955,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8024,13 +7999,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8068,14 +8043,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8113,13 +8088,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8157,14 +8132,14 @@
     "album_distribution": {
       "the-downward-spiral": 0.4375,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125,
       "closer-to-god": 0.0625
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8202,13 +8177,13 @@
     "album_distribution": {
       "the-downward-spiral": 0.5,
       "pretty-hate-machine": 0.1875,
-      "unknown": 0.1875,
+      "cover": 0.1875,
       "broken": 0.125
     },
     "era_distribution": {
       "The Downward Spiral": 0.5,
       "Pretty Hate Machine": 0.1875,
-      "Unknown": 0.1875,
+      "Covers": 0.1875,
       "Broken": 0.125
     },
     "primary_album": "the-downward-spiral",
@@ -8287,13 +8262,13 @@
     "avg_song_age_at_show": 5.9,
     "album_distribution": {
       "pretty-hate-machine": 0.4167,
-      "unknown": 0.3333,
+      "cover": 0.3333,
       "broken": 0.1667,
       "the-downward-spiral": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.4167,
-      "Unknown": 0.3333,
+      "Covers": 0.3333,
       "Broken": 0.1667,
       "The Downward Spiral": 0.0833
     },
@@ -8331,13 +8306,13 @@
     "avg_song_age_at_show": 5.9,
     "album_distribution": {
       "pretty-hate-machine": 0.4167,
-      "unknown": 0.3333,
+      "cover": 0.3333,
       "broken": 0.1667,
       "the-downward-spiral": 0.0833
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.4167,
-      "Unknown": 0.3333,
+      "Covers": 0.3333,
       "Broken": 0.1667,
       "The Downward Spiral": 0.0833
     },
@@ -8375,13 +8350,13 @@
     "avg_song_age_at_show": 5.9,
     "album_distribution": {
       "pretty-hate-machine": 0.3846,
-      "unknown": 0.3077,
+      "cover": 0.3077,
       "the-downward-spiral": 0.1538,
       "broken": 0.1538
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.3846,
-      "Unknown": 0.3077,
+      "Covers": 0.3077,
       "The Downward Spiral": 0.1538,
       "Broken": 0.1538
     },
@@ -10306,14 +10281,14 @@
       "the-downward-spiral": 0.2105,
       "pretty-hate-machine": 0.1579,
       "broken": 0.1579,
-      "unknown": 0.0526
+      "cover": 0.0526
     },
     "era_distribution": {
       "The Fragile": 0.4211,
       "The Downward Spiral": 0.2105,
       "Pretty Hate Machine": 0.1579,
       "Broken": 0.1579,
-      "Unknown": 0.0526
+      "Covers": 0.0526
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -15577,7 +15552,7 @@
       "broken": 0.1765,
       "with-teeth": 0.1765,
       "the-fragile": 0.1176,
-      "unknown": 0.1176
+      "cover": 0.1176
     },
     "era_distribution": {
       "The Downward Spiral": 0.2353,
@@ -15585,7 +15560,7 @@
       "Broken": 0.1765,
       "With Teeth": 0.1765,
       "The Fragile": 0.1176,
-      "Unknown": 0.1176
+      "Covers": 0.1176
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -15625,7 +15600,7 @@
       "broken": 0.1765,
       "with-teeth": 0.1765,
       "the-fragile": 0.1176,
-      "unknown": 0.1176
+      "cover": 0.1176
     },
     "era_distribution": {
       "The Downward Spiral": 0.2353,
@@ -15633,7 +15608,7 @@
       "Broken": 0.1765,
       "With Teeth": 0.1765,
       "The Fragile": 0.1176,
-      "Unknown": 0.1176
+      "Covers": 0.1176
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -18538,12 +18513,12 @@
     "avg_song_age_at_show": 14.5,
     "album_distribution": {
       "pretty-hate-machine": 0.3333,
-      "unknown": 0.3333,
+      "cover": 0.3333,
       "the-downward-spiral": 0.3333
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.3333,
-      "Unknown": 0.3333,
+      "Covers": 0.3333,
       "The Downward Spiral": 0.3333
     },
     "primary_album": "pretty-hate-machine",
@@ -18771,15 +18746,15 @@
     "nostalgia_score": null,
     "avg_song_age_at_show": null,
     "album_distribution": {
-      "unknown": 0.6667,
+      "cover": 0.6667,
       "hesitation-marks": 0.3333
     },
     "era_distribution": {
-      "Unknown": 0.6667,
+      "Covers": 0.6667,
       "Hesitation Marks": 0.3333
     },
-    "primary_album": "unknown",
-    "primary_era": "Unknown",
+    "primary_album": "cover",
+    "primary_era": "Covers",
     "avg_rarity_score": 0.9966,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,
@@ -19195,15 +19170,15 @@
     "nostalgia_score": 0.7059,
     "avg_song_age_at_show": 12,
     "album_distribution": {
-      "unknown": 0.75,
+      "cover": 0.75,
       "the-downward-spiral": 0.25
     },
     "era_distribution": {
-      "Unknown": 0.75,
+      "Covers": 0.75,
       "The Downward Spiral": 0.25
     },
-    "primary_album": "unknown",
-    "primary_era": "Unknown",
+    "primary_album": "cover",
+    "primary_era": "Covers",
     "avg_rarity_score": 0.9028,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,
@@ -19211,8 +19186,8 @@
     "n_album_track": 0,
     "n_familiar": 1,
     "n_staple": 0,
-    "cover_count": 2,
-    "cover_fraction": 0.5,
+    "cover_count": 3,
+    "cover_fraction": 0.75,
     "special_notes_count": 2,
     "special_fraction": 0.5,
     "production_style": "full",
@@ -19433,7 +19408,7 @@
       "broken": 0.1818,
       "with-teeth": 0.1364,
       "ninja-2009-summer-tour-ep": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
@@ -19442,7 +19417,7 @@
       "Broken": 0.1818,
       "With Teeth": 0.1364,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -19482,7 +19457,7 @@
       "the-downward-spiral": 0.1818,
       "broken": 0.1818,
       "with-teeth": 0.1364,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
@@ -19490,7 +19465,7 @@
       "The Downward Spiral": 0.1818,
       "Broken": 0.1818,
       "With Teeth": 0.1364,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -19525,15 +19500,15 @@
     "nostalgia_score": null,
     "avg_song_age_at_show": null,
     "album_distribution": {
-      "unknown": 0.75,
+      "cover": 0.75,
       "the-downward-spiral": 0.25
     },
     "era_distribution": {
-      "Unknown": 0.75,
+      "Covers": 0.75,
       "The Downward Spiral": 0.25
     },
-    "primary_album": "unknown",
-    "primary_era": "Unknown",
+    "primary_album": "cover",
+    "primary_era": "Covers",
     "avg_rarity_score": 0.9613,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,
@@ -19571,7 +19546,7 @@
       "broken": 0.1818,
       "with-teeth": 0.1364,
       "ninja-2009-summer-tour-ep": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
@@ -19580,7 +19555,7 @@
       "Broken": 0.1818,
       "With Teeth": 0.1364,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -19621,7 +19596,7 @@
       "broken": 0.1905,
       "with-teeth": 0.1429,
       "ninja-2009-summer-tour-ep": 0.0476,
-      "unknown": 0.0476
+      "cover": 0.0476
     },
     "era_distribution": {
       "The Fragile": 0.1905,
@@ -19630,7 +19605,7 @@
       "Broken": 0.1905,
       "With Teeth": 0.1429,
       "The Slip": 0.0476,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -19671,7 +19646,7 @@
       "broken": 0.1818,
       "with-teeth": 0.1364,
       "ninja-2009-summer-tour-ep": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
@@ -19680,7 +19655,7 @@
       "Broken": 0.1818,
       "With Teeth": 0.1364,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -19721,7 +19696,7 @@
       "broken": 0.1818,
       "with-teeth": 0.1364,
       "ninja-2009-summer-tour-ep": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2273,
@@ -19730,7 +19705,7 @@
       "Broken": 0.1818,
       "With Teeth": 0.1364,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -27099,7 +27074,7 @@
       "the-fragile": 0.1429,
       "year-zero": 0.0952,
       "broken": 0.0952,
-      "unknown": 0.0476,
+      "intro": 0.0476,
       "with-teeth": 0.0476
     },
     "era_distribution": {
@@ -27109,7 +27084,7 @@
       "The Fragile": 0.1429,
       "Year Zero": 0.0952,
       "Broken": 0.0952,
-      "Unknown": 0.0476,
+      "Intro/Segue": 0.0476,
       "With Teeth": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -27151,7 +27126,7 @@
       "pretty-hate-machine": 0.1,
       "year-zero": 0.1,
       "the-fragile": 0.1,
-      "unknown": 0.05,
+      "intro": 0.05,
       "ninja-2009-summer-tour-ep": 0.05,
       "with-teeth": 0.05
     },
@@ -27162,7 +27137,7 @@
       "Pretty Hate Machine": 0.1,
       "Year Zero": 0.1,
       "The Fragile": 0.1,
-      "Unknown": 0.05,
+      "Intro/Segue": 0.05,
       "With Teeth": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -27307,7 +27282,7 @@
       "the-slip": 0.087,
       "broken": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435
+      "intro": 0.0435
     },
     "era_distribution": {
       "The Fragile": 0.2174,
@@ -27317,7 +27292,7 @@
       "The Slip": 0.087,
       "Broken": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435
+      "Intro/Segue": 0.0435
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -27503,8 +27478,8 @@
     "country": "United States",
     "tour": "NIN|JA Tour",
     "era_slug": "ninja-tour",
-    "nostalgia_score": 0.525,
-    "avg_song_age_at_show": 10.5,
+    "nostalgia_score": 0.5413,
+    "avg_song_age_at_show": 10.8,
     "album_distribution": {
       "the-downward-spiral": 0.2174,
       "pretty-hate-machine": 0.1739,
@@ -27512,22 +27487,21 @@
       "the-fragile": 0.1304,
       "year-zero": 0.087,
       "broken": 0.087,
-      "unknown": 0.0435,
+      "unreleased": 0.0435,
       "ninja-2009-summer-tour-ep": 0.0435,
       "with-teeth": 0.0435
     },
     "era_distribution": {
+      "Pretty Hate Machine": 0.2174,
       "The Downward Spiral": 0.2174,
       "The Slip": 0.2174,
-      "Pretty Hate Machine": 0.1739,
       "The Fragile": 0.1304,
       "Year Zero": 0.087,
       "Broken": 0.087,
-      "Unknown": 0.0435,
       "With Teeth": 0.0435
     },
     "primary_album": "the-downward-spiral",
-    "primary_era": "The Downward Spiral",
+    "primary_era": "Pretty Hate Machine",
     "avg_rarity_score": 0.7169,
     "rarity_tier": "unicorn",
     "n_unicorn": 3,
@@ -27562,22 +27536,22 @@
       "the-downward-spiral": 0.2917,
       "broken": 0.125,
       "pretty-hate-machine": 0.125,
-      "unknown": 0.0833,
+      "cover": 0.125,
       "the-slip": 0.0833,
-      "cover": 0.0833,
       "the-fragile": 0.0833,
       "with-teeth": 0.0833,
+      "intro": 0.0417,
       "year-zero": 0.0417
     },
     "era_distribution": {
       "The Downward Spiral": 0.2917,
       "Broken": 0.125,
       "Pretty Hate Machine": 0.125,
-      "Unknown": 0.0833,
+      "Covers": 0.125,
       "The Slip": 0.0833,
-      "Covers": 0.0833,
       "The Fragile": 0.0833,
       "With Teeth": 0.0833,
+      "Intro/Segue": 0.0417,
       "Year Zero": 0.0417
     },
     "primary_album": "the-downward-spiral",
@@ -27722,7 +27696,7 @@
       "with-teeth": 0.0952,
       "the-slip": 0.0952,
       "year-zero": 0.0952,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "the-fragile": 0.0476
     },
     "era_distribution": {
@@ -27732,7 +27706,7 @@
       "With Teeth": 0.0952,
       "The Slip": 0.0952,
       "Year Zero": 0.0952,
-      "Unknown": 0.0476,
+      "Covers": 0.0476,
       "The Fragile": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -27865,14 +27839,14 @@
     "country": "United States",
     "tour": "NIN|JA Tour",
     "era_slug": "ninja-tour",
-    "nostalgia_score": 0.5625,
-    "avg_song_age_at_show": 11.2,
+    "nostalgia_score": 0.5824,
+    "avg_song_age_at_show": 11.6,
     "album_distribution": {
       "the-downward-spiral": 0.2778,
       "the-fragile": 0.2222,
       "pretty-hate-machine": 0.1111,
       "the-slip": 0.1111,
-      "unknown": 0.0556,
+      "unreleased": 0.0556,
       "cover": 0.0556,
       "year-zero": 0.0556,
       "broken": 0.0556,
@@ -27881,9 +27855,8 @@
     "era_distribution": {
       "The Downward Spiral": 0.2778,
       "The Fragile": 0.2222,
-      "Pretty Hate Machine": 0.1111,
+      "Pretty Hate Machine": 0.1667,
       "The Slip": 0.1111,
-      "Unknown": 0.0556,
       "Covers": 0.0556,
       "Year Zero": 0.0556,
       "Broken": 0.0556,
@@ -28128,25 +28101,24 @@
     "country": "United States",
     "tour": "NIN|JA Tour",
     "era_slug": "ninja-tour",
-    "nostalgia_score": 0.5944,
-    "avg_song_age_at_show": 11.9,
+    "nostalgia_score": 0.6105,
+    "avg_song_age_at_show": 12.2,
     "album_distribution": {
       "the-downward-spiral": 0.2632,
       "the-fragile": 0.2105,
       "broken": 0.1579,
       "pretty-hate-machine": 0.1053,
       "the-slip": 0.1053,
-      "unknown": 0.0526,
+      "unreleased": 0.0526,
       "year-zero": 0.0526,
       "with-teeth": 0.0526
     },
     "era_distribution": {
       "The Downward Spiral": 0.2632,
       "The Fragile": 0.2105,
+      "Pretty Hate Machine": 0.1579,
       "Broken": 0.1579,
-      "Pretty Hate Machine": 0.1053,
       "The Slip": 0.1053,
-      "Unknown": 0.0526,
       "Year Zero": 0.0526,
       "With Teeth": 0.0526
     },
@@ -28286,8 +28258,8 @@
     "country": "United States",
     "tour": "NIN|JA Tour",
     "era_slug": "ninja-tour",
-    "nostalgia_score": 0.5211,
-    "avg_song_age_at_show": 10.4,
+    "nostalgia_score": 0.54,
+    "avg_song_age_at_show": 10.8,
     "album_distribution": {
       "the-downward-spiral": 0.1905,
       "pretty-hate-machine": 0.1429,
@@ -28296,23 +28268,22 @@
       "broken": 0.0952,
       "year-zero": 0.0952,
       "with-teeth": 0.0952,
-      "unknown": 0.0476,
+      "unreleased": 0.0476,
       "ninja-2009-summer-tour-ep": 0.0476,
       "cover": 0.0476
     },
     "era_distribution": {
+      "Pretty Hate Machine": 0.1905,
       "The Downward Spiral": 0.1905,
-      "Pretty Hate Machine": 0.1429,
       "The Fragile": 0.1429,
       "The Slip": 0.1429,
       "Broken": 0.0952,
       "Year Zero": 0.0952,
       "With Teeth": 0.0952,
-      "Unknown": 0.0476,
       "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
-    "primary_era": "The Downward Spiral",
+    "primary_era": "Pretty Hate Machine",
     "avg_rarity_score": 0.6858,
     "rarity_tier": "unicorn",
     "n_unicorn": 2,
@@ -28341,8 +28312,8 @@
     "country": "Canada",
     "tour": "NIN|JA Tour",
     "era_slug": "ninja-tour",
-    "nostalgia_score": 0.58,
-    "avg_song_age_at_show": 11.6,
+    "nostalgia_score": 0.5952,
+    "avg_song_age_at_show": 11.9,
     "album_distribution": {
       "the-downward-spiral": 0.3043,
       "the-fragile": 0.1739,
@@ -28351,18 +28322,17 @@
       "broken": 0.087,
       "year-zero": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435,
+      "unreleased": 0.0435,
       "the-slip": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3043,
       "The Fragile": 0.1739,
-      "Pretty Hate Machine": 0.087,
+      "Pretty Hate Machine": 0.1304,
       "Covers": 0.087,
       "Broken": 0.087,
       "Year Zero": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435,
       "The Slip": 0.0435
     },
     "primary_album": "the-downward-spiral",
@@ -28454,8 +28424,7 @@
       "broken": 0.1304,
       "the-slip": 0.087,
       "the-fragile": 0.087,
-      "cover": 0.0435,
-      "unknown": 0.0435,
+      "cover": 0.087,
       "pretty-hate-machine": 0.0435
     },
     "era_distribution": {
@@ -28465,8 +28434,7 @@
       "Broken": 0.1304,
       "The Slip": 0.087,
       "The Fragile": 0.087,
-      "Covers": 0.0435,
-      "Unknown": 0.0435,
+      "Covers": 0.087,
       "Pretty Hate Machine": 0.0435
     },
     "primary_album": "the-downward-spiral",
@@ -28557,25 +28525,23 @@
     "album_distribution": {
       "the-downward-spiral": 0.2917,
       "the-fragile": 0.2083,
+      "cover": 0.125,
       "broken": 0.125,
       "pretty-hate-machine": 0.0833,
-      "cover": 0.0833,
       "year-zero": 0.0417,
       "the-slip": 0.0417,
       "with-teeth": 0.0417,
-      "unknown": 0.0417,
       "ninja-2009-summer-tour-ep": 0.0417
     },
     "era_distribution": {
       "The Downward Spiral": 0.2917,
       "The Fragile": 0.2083,
+      "Covers": 0.125,
       "Broken": 0.125,
       "Pretty Hate Machine": 0.0833,
-      "Covers": 0.0833,
       "The Slip": 0.0833,
       "Year Zero": 0.0417,
-      "With Teeth": 0.0417,
-      "Unknown": 0.0417
+      "With Teeth": 0.0417
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -28586,8 +28552,8 @@
     "n_album_track": 5,
     "n_familiar": 6,
     "n_staple": 7,
-    "cover_count": 3,
-    "cover_fraction": 0.125,
+    "cover_count": 4,
+    "cover_fraction": 0.1667,
     "special_notes_count": 2,
     "special_fraction": 0.0833,
     "production_style": "full",
@@ -28616,7 +28582,7 @@
       "the-fragile": 0.1304,
       "broken": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435,
+      "intro": 0.0435,
       "year-zero": 0.0435,
       "cover": 0.0435
     },
@@ -28627,7 +28593,7 @@
       "The Fragile": 0.1304,
       "Broken": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435,
+      "Intro/Segue": 0.0435,
       "Year Zero": 0.0435,
       "Covers": 0.0435
     },
@@ -28719,24 +28685,22 @@
       "the-fragile": 0.2083,
       "the-downward-spiral": 0.2083,
       "broken": 0.125,
+      "cover": 0.125,
       "year-zero": 0.125,
       "with-teeth": 0.0833,
-      "cover": 0.0833,
       "the-slip": 0.0417,
       "ninja-2009-summer-tour-ep": 0.0417,
-      "pretty-hate-machine": 0.0417,
-      "unknown": 0.0417
+      "pretty-hate-machine": 0.0417
     },
     "era_distribution": {
       "The Fragile": 0.2083,
       "The Downward Spiral": 0.2083,
       "Broken": 0.125,
+      "Covers": 0.125,
       "Year Zero": 0.125,
       "With Teeth": 0.0833,
-      "Covers": 0.0833,
       "The Slip": 0.0833,
-      "Pretty Hate Machine": 0.0417,
-      "Unknown": 0.0417
+      "Pretty Hate Machine": 0.0417
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -28747,8 +28711,8 @@
     "n_album_track": 5,
     "n_familiar": 6,
     "n_staple": 6,
-    "cover_count": 3,
-    "cover_fraction": 0.125,
+    "cover_count": 4,
+    "cover_fraction": 0.1667,
     "special_notes_count": 4,
     "special_fraction": 0.1667,
     "production_style": "full",
@@ -28773,25 +28737,23 @@
     "album_distribution": {
       "the-downward-spiral": 0.3077,
       "the-fragile": 0.1923,
+      "cover": 0.1154,
       "with-teeth": 0.0769,
       "the-slip": 0.0769,
-      "cover": 0.0769,
       "broken": 0.0769,
       "year-zero": 0.0769,
       "pretty-hate-machine": 0.0385,
-      "unknown": 0.0385,
       "ninja-2009-summer-tour-ep": 0.0385
     },
     "era_distribution": {
       "The Downward Spiral": 0.3077,
       "The Fragile": 0.1923,
       "The Slip": 0.1154,
+      "Covers": 0.1154,
       "With Teeth": 0.0769,
-      "Covers": 0.0769,
       "Broken": 0.0769,
       "Year Zero": 0.0769,
-      "Pretty Hate Machine": 0.0385,
-      "Unknown": 0.0385
+      "Pretty Hate Machine": 0.0385
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -28981,25 +28943,23 @@
     "album_distribution": {
       "the-downward-spiral": 0.24,
       "the-fragile": 0.2,
+      "cover": 0.12,
       "with-teeth": 0.08,
       "pretty-hate-machine": 0.08,
       "the-slip": 0.08,
-      "cover": 0.08,
       "broken": 0.08,
       "year-zero": 0.08,
-      "unknown": 0.04,
       "ninja-2009-summer-tour-ep": 0.04
     },
     "era_distribution": {
       "The Downward Spiral": 0.24,
       "The Fragile": 0.2,
       "The Slip": 0.12,
+      "Covers": 0.12,
       "With Teeth": 0.08,
       "Pretty Hate Machine": 0.08,
-      "Covers": 0.08,
       "Broken": 0.08,
-      "Year Zero": 0.08,
-      "Unknown": 0.04
+      "Year Zero": 0.08
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -29750,15 +29710,15 @@
     "country": "United Kingdom",
     "tour": "European + Pacific Festivals",
     "era_slug": "european-pacific-festivals",
-    "nostalgia_score": 0.6211,
-    "avg_song_age_at_show": 12.4,
+    "nostalgia_score": 0.635,
+    "avg_song_age_at_show": 12.7,
     "album_distribution": {
       "the-downward-spiral": 0.3043,
       "pretty-hate-machine": 0.1304,
+      "cover": 0.1304,
       "the-fragile": 0.1304,
-      "unknown": 0.087,
-      "cover": 0.087,
       "broken": 0.087,
+      "unreleased": 0.0435,
       "the-slip": 0.0435,
       "ninja-2009-summer-tour-ep": 0.0435,
       "year-zero": 0.0435,
@@ -29766,11 +29726,10 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.3043,
-      "Pretty Hate Machine": 0.1304,
+      "Pretty Hate Machine": 0.1739,
+      "Covers": 0.1304,
       "The Fragile": 0.1304,
-      "Unknown": 0.087,
       "The Slip": 0.087,
-      "Covers": 0.087,
       "Broken": 0.087,
       "Year Zero": 0.0435,
       "With Teeth": 0.0435
@@ -30124,7 +30083,7 @@
       "pretty-hate-machine": 0.0952,
       "the-fragile": 0.0952,
       "the-slip": 0.0476,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "ninja-2009-summer-tour-ep": 0.0476
     },
     "era_distribution": {
@@ -30135,7 +30094,7 @@
       "The Slip": 0.0952,
       "Pretty Hate Machine": 0.0952,
       "The Fragile": 0.0952,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -30531,7 +30490,7 @@
       "pretty-hate-machine": 0.1111,
       "with-teeth": 0.0741,
       "the-slip": 0.0741,
-      "unknown": 0.037,
+      "cover": 0.037,
       "ninja-2009-summer-tour-ep": 0.037
     },
     "era_distribution": {
@@ -30542,7 +30501,7 @@
       "The Slip": 0.1111,
       "Pretty Hate Machine": 0.1111,
       "With Teeth": 0.0741,
-      "Unknown": 0.037
+      "Covers": 0.037
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -30631,10 +30590,9 @@
       "the-slip": 0.1034,
       "pretty-hate-machine": 0.069,
       "year-zero": 0.069,
+      "cover": 0.069,
       "broken": 0.069,
-      "cover": 0.0345,
-      "ninja-2009-summer-tour-ep": 0.0345,
-      "unknown": 0.0345
+      "ninja-2009-summer-tour-ep": 0.0345
     },
     "era_distribution": {
       "The Downward Spiral": 0.2414,
@@ -30643,9 +30601,8 @@
       "With Teeth": 0.1034,
       "Pretty Hate Machine": 0.069,
       "Year Zero": 0.069,
-      "Broken": 0.069,
-      "Covers": 0.0345,
-      "Unknown": 0.0345
+      "Covers": 0.069,
+      "Broken": 0.069
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -30684,10 +30641,9 @@
       "the-fragile": 0.1613,
       "pretty-hate-machine": 0.1613,
       "broken": 0.129,
+      "cover": 0.0968,
       "the-slip": 0.0968,
       "year-zero": 0.0645,
-      "unknown": 0.0645,
-      "cover": 0.0323,
       "ninja-2009-summer-tour-ep": 0.0323,
       "with-teeth": 0.0323
     },
@@ -30697,9 +30653,8 @@
       "Pretty Hate Machine": 0.1613,
       "Broken": 0.129,
       "The Slip": 0.129,
+      "Covers": 0.0968,
       "Year Zero": 0.0645,
-      "Unknown": 0.0645,
-      "Covers": 0.0323,
       "With Teeth": 0.0323
     },
     "primary_album": "the-downward-spiral",
@@ -30740,7 +30695,7 @@
       "the-fragile": 0.1667,
       "pretty-hate-machine": 0.1333,
       "broken": 0.1,
-      "unknown": 0.1,
+      "cover": 0.1,
       "ninja-2009-summer-tour-ep": 0.0333,
       "year-zero": 0.0333,
       "with-teeth": 0.0333
@@ -30751,7 +30706,7 @@
       "The Fragile": 0.1667,
       "Pretty Hate Machine": 0.1333,
       "Broken": 0.1,
-      "Unknown": 0.1,
+      "Covers": 0.1,
       "Year Zero": 0.0333,
       "With Teeth": 0.0333
     },
@@ -30789,23 +30744,21 @@
     "avg_song_age_at_show": 10.8,
     "album_distribution": {
       "the-downward-spiral": 0.3448,
+      "cover": 0.1379,
       "the-fragile": 0.1379,
       "with-teeth": 0.1034,
       "year-zero": 0.1034,
       "broken": 0.1034,
-      "cover": 0.069,
-      "unknown": 0.069,
       "the-slip": 0.0345,
       "pretty-hate-machine": 0.0345
     },
     "era_distribution": {
       "The Downward Spiral": 0.3448,
+      "Covers": 0.1379,
       "The Fragile": 0.1379,
       "With Teeth": 0.1034,
       "Year Zero": 0.1034,
       "Broken": 0.1034,
-      "Covers": 0.069,
-      "Unknown": 0.069,
       "The Slip": 0.0345,
       "Pretty Hate Machine": 0.0345
     },
@@ -30894,8 +30847,7 @@
       "the-slip": 0.0833,
       "pretty-hate-machine": 0.0833,
       "broken": 0.0833,
-      "cover": 0.0417,
-      "unknown": 0.0417,
+      "cover": 0.0833,
       "with-teeth": 0.0417
     },
     "era_distribution": {
@@ -30903,8 +30855,7 @@
       "The Slip": 0.0833,
       "Pretty Hate Machine": 0.0833,
       "Broken": 0.0833,
-      "Covers": 0.0417,
-      "Unknown": 0.0417,
+      "Covers": 0.0833,
       "With Teeth": 0.0417
     },
     "primary_album": "the-downward-spiral",
@@ -30947,9 +30898,8 @@
       "year-zero": 0.0714,
       "with-teeth": 0.0714,
       "the-slip": 0.0714,
-      "ninja-2009-summer-tour-ep": 0.0357,
-      "cover": 0.0357,
-      "unknown": 0.0357
+      "cover": 0.0714,
+      "ninja-2009-summer-tour-ep": 0.0357
     },
     "era_distribution": {
       "The Fragile": 0.25,
@@ -30959,8 +30909,7 @@
       "Broken": 0.1071,
       "Year Zero": 0.0714,
       "With Teeth": 0.0714,
-      "Covers": 0.0357,
-      "Unknown": 0.0357
+      "Covers": 0.0714
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -30996,10 +30945,9 @@
     "avg_song_age_at_show": 11.9,
     "album_distribution": {
       "the-downward-spiral": 0.3438,
-      "unknown": 0.1562,
+      "cover": 0.2188,
       "pretty-hate-machine": 0.125,
       "the-slip": 0.125,
-      "cover": 0.0625,
       "broken": 0.0625,
       "the-fragile": 0.0625,
       "year-zero": 0.0312,
@@ -31007,10 +30955,9 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.3438,
-      "Unknown": 0.1562,
+      "Covers": 0.2188,
       "Pretty Hate Machine": 0.125,
       "The Slip": 0.125,
-      "Covers": 0.0625,
       "Broken": 0.0625,
       "The Fragile": 0.0625,
       "Year Zero": 0.0312,
@@ -31051,24 +30998,22 @@
     "album_distribution": {
       "the-downward-spiral": 0.2368,
       "the-fragile": 0.1579,
+      "cover": 0.1316,
       "year-zero": 0.1316,
       "the-slip": 0.1053,
-      "unknown": 0.1053,
       "with-teeth": 0.0789,
       "pretty-hate-machine": 0.0789,
-      "broken": 0.0789,
-      "cover": 0.0263
+      "broken": 0.0789
     },
     "era_distribution": {
       "The Downward Spiral": 0.2368,
       "The Fragile": 0.1579,
+      "Covers": 0.1316,
       "Year Zero": 0.1316,
       "The Slip": 0.1053,
-      "Unknown": 0.1053,
       "With Teeth": 0.0789,
       "Pretty Hate Machine": 0.0789,
-      "Broken": 0.0789,
-      "Covers": 0.0263
+      "Broken": 0.0789
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -31108,11 +31053,10 @@
       "the-fragile": 0.1538,
       "pretty-hate-machine": 0.1154,
       "broken": 0.1154,
+      "cover": 0.0769,
       "year-zero": 0.0769,
       "with-teeth": 0.0769,
-      "the-slip": 0.0385,
-      "cover": 0.0385,
-      "unknown": 0.0385
+      "the-slip": 0.0385
     },
     "era_distribution": {
       "The Downward Spiral": 0.1923,
@@ -31120,11 +31064,10 @@
       "The Fragile": 0.1538,
       "Pretty Hate Machine": 0.1154,
       "Broken": 0.1154,
+      "Covers": 0.0769,
       "Year Zero": 0.0769,
       "With Teeth": 0.0769,
-      "The Slip": 0.0385,
-      "Covers": 0.0385,
-      "Unknown": 0.0385
+      "The Slip": 0.0385
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -31219,7 +31162,7 @@
       "year-zero": 0.0909,
       "with-teeth": 0.0909,
       "the-slip": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2273,
@@ -31230,7 +31173,7 @@
       "Year Zero": 0.0909,
       "With Teeth": 0.0909,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -31273,7 +31216,7 @@
       "year-zero": 0.0909,
       "with-teeth": 0.0909,
       "the-slip": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.1818,
@@ -31284,7 +31227,7 @@
       "Year Zero": 0.0909,
       "With Teeth": 0.0909,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -31430,7 +31373,7 @@
       "with-teeth": 0.1111,
       "the-slip": 0.0556,
       "year-zero": 0.0556,
-      "unknown": 0.0556,
+      "cover": 0.0556,
       "the-fragile": 0.0556
     },
     "era_distribution": {
@@ -31441,7 +31384,7 @@
       "With Teeth": 0.1111,
       "The Slip": 0.0556,
       "Year Zero": 0.0556,
-      "Unknown": 0.0556,
+      "Covers": 0.0556,
       "The Fragile": 0.0556
     },
     "primary_album": "the-downward-spiral",
@@ -31589,7 +31532,7 @@
       "year-zero": 0.087,
       "with-teeth": 0.087,
       "the-slip": 0.0435,
-      "unknown": 0.0435
+      "cover": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.2174,
@@ -31600,7 +31543,7 @@
       "Year Zero": 0.087,
       "With Teeth": 0.087,
       "The Slip": 0.0435,
-      "Unknown": 0.0435
+      "Covers": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -31791,10 +31734,9 @@
       "pretty-hate-machine": 0.12,
       "the-fragile": 0.12,
       "broken": 0.12,
+      "cover": 0.08,
       "with-teeth": 0.08,
-      "the-slip": 0.04,
-      "cover": 0.04,
-      "unknown": 0.04
+      "the-slip": 0.04
     },
     "era_distribution": {
       "The Downward Spiral": 0.16,
@@ -31803,10 +31745,9 @@
       "Pretty Hate Machine": 0.12,
       "The Fragile": 0.12,
       "Broken": 0.12,
+      "Covers": 0.08,
       "With Teeth": 0.08,
-      "The Slip": 0.04,
-      "Covers": 0.04,
-      "Unknown": 0.04
+      "The Slip": 0.04
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -32946,7 +32887,7 @@
       "the-slip": 0.0385,
       "broken": 0.0385,
       "with-teeth": 0.0385,
-      "unknown": 0.0385
+      "cover": 0.0385
     },
     "era_distribution": {
       "Hesitation Marks": 0.3462,
@@ -32956,7 +32897,7 @@
       "The Slip": 0.0385,
       "Broken": 0.0385,
       "With Teeth": 0.0385,
-      "Unknown": 0.0385
+      "Covers": 0.0385
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",
@@ -32999,7 +32940,7 @@
       "year-zero": 0.0385,
       "broken": 0.0385,
       "with-teeth": 0.0385,
-      "unknown": 0.0385
+      "cover": 0.0385
     },
     "era_distribution": {
       "Hesitation Marks": 0.3462,
@@ -33010,7 +32951,7 @@
       "Year Zero": 0.0385,
       "Broken": 0.0385,
       "With Teeth": 0.0385,
-      "Unknown": 0.0385
+      "Covers": 0.0385
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",
@@ -33868,11 +33809,11 @@
     "avg_song_age_at_show": 1,
     "album_distribution": {
       "hesitation-marks": 0.5,
-      "unknown": 0.5
+      "cover": 0.5
     },
     "era_distribution": {
       "Hesitation Marks": 0.5,
-      "Unknown": 0.5
+      "Covers": 0.5
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",
@@ -33913,7 +33854,7 @@
       "with-teeth": 0.15,
       "year-zero": 0.1,
       "broken": 0.1,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "Hesitation Marks": 0.25,
@@ -33922,7 +33863,7 @@
       "With Teeth": 0.15,
       "Year Zero": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",
@@ -33963,7 +33904,7 @@
       "pretty-hate-machine": 0.1,
       "year-zero": 0.1,
       "broken": 0.1,
-      "unknown": 0.1,
+      "cover": 0.1,
       "ghosts-i-iv": 0.05,
       "with-teeth": 0.05
     },
@@ -33974,7 +33915,7 @@
       "Pretty Hate Machine": 0.1,
       "Year Zero": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.1,
+      "Covers": 0.1,
       "Ghosts": 0.05,
       "With Teeth": 0.05
     },
@@ -34016,7 +33957,7 @@
       "with-teeth": 0.1429,
       "pretty-hate-machine": 0.0952,
       "the-slip": 0.0952,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "broken": 0.0476,
       "the-downward-spiral": 0.0476
     },
@@ -34026,7 +33967,7 @@
       "With Teeth": 0.1429,
       "Pretty Hate Machine": 0.0952,
       "The Slip": 0.0952,
-      "Unknown": 0.0476,
+      "Covers": 0.0476,
       "Broken": 0.0476,
       "The Downward Spiral": 0.0476
     },
@@ -34121,7 +34062,7 @@
       "year-zero": 0.1111,
       "pretty-hate-machine": 0.1111,
       "broken": 0.1111,
-      "unknown": 0.1111,
+      "cover": 0.1111,
       "with-teeth": 0.0556
     },
     "era_distribution": {
@@ -34131,7 +34072,7 @@
       "Year Zero": 0.1111,
       "Pretty Hate Machine": 0.1111,
       "Broken": 0.1111,
-      "Unknown": 0.1111,
+      "Covers": 0.1111,
       "With Teeth": 0.0556
     },
     "primary_album": "hesitation-marks",
@@ -34222,7 +34163,7 @@
       "pretty-hate-machine": 0.1111,
       "with-teeth": 0.1111,
       "the-fragile": 0.1111,
-      "unknown": 0.1111,
+      "cover": 0.1111,
       "the-slip": 0.1111,
       "year-zero": 0.0556,
       "broken": 0.0556
@@ -34233,7 +34174,7 @@
       "Pretty Hate Machine": 0.1111,
       "With Teeth": 0.1111,
       "The Fragile": 0.1111,
-      "Unknown": 0.1111,
+      "Covers": 0.1111,
       "The Slip": 0.1111,
       "Year Zero": 0.0556,
       "Broken": 0.0556
@@ -34277,7 +34218,7 @@
       "hesitation-marks": 0.1111,
       "with-teeth": 0.1111,
       "the-slip": 0.1111,
-      "unknown": 0.0556,
+      "cover": 0.0556,
       "broken": 0.0556
     },
     "era_distribution": {
@@ -34287,7 +34228,7 @@
       "Hesitation Marks": 0.1111,
       "With Teeth": 0.1111,
       "The Slip": 0.1111,
-      "Unknown": 0.0556,
+      "Covers": 0.0556,
       "Broken": 0.0556
     },
     "primary_album": "year-zero",
@@ -34329,7 +34270,7 @@
       "year-zero": 0.1111,
       "pretty-hate-machine": 0.1111,
       "broken": 0.1111,
-      "unknown": 0.1111,
+      "cover": 0.1111,
       "with-teeth": 0.0556
     },
     "era_distribution": {
@@ -34339,7 +34280,7 @@
       "Year Zero": 0.1111,
       "Pretty Hate Machine": 0.1111,
       "Broken": 0.1111,
-      "Unknown": 0.1111,
+      "Covers": 0.1111,
       "With Teeth": 0.0556
     },
     "primary_album": "hesitation-marks",
@@ -34383,7 +34324,7 @@
       "with-teeth": 0.1111,
       "the-fragile": 0.0556,
       "the-slip": 0.0556,
-      "unknown": 0.0556
+      "cover": 0.0556
     },
     "era_distribution": {
       "The Downward Spiral": 0.2222,
@@ -34394,7 +34335,7 @@
       "With Teeth": 0.1111,
       "The Fragile": 0.0556,
       "The Slip": 0.0556,
-      "Unknown": 0.0556
+      "Covers": 0.0556
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -34436,7 +34377,7 @@
       "with-teeth": 0.1111,
       "broken": 0.1111,
       "the-fragile": 0.0556,
-      "unknown": 0.0556
+      "cover": 0.0556
     },
     "era_distribution": {
       "The Downward Spiral": 0.2222,
@@ -34446,7 +34387,7 @@
       "With Teeth": 0.1111,
       "Broken": 0.1111,
       "The Fragile": 0.0556,
-      "Unknown": 0.0556
+      "Covers": 0.0556
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -34485,7 +34426,7 @@
       "hesitation-marks": 0.1765,
       "pretty-hate-machine": 0.1765,
       "broken": 0.1176,
-      "unknown": 0.1176,
+      "cover": 0.1176,
       "year-zero": 0.0588,
       "the-fragile": 0.0588,
       "with-teeth": 0.0588
@@ -34495,7 +34436,7 @@
       "Hesitation Marks": 0.1765,
       "Pretty Hate Machine": 0.1765,
       "Broken": 0.1176,
-      "Unknown": 0.1176,
+      "Covers": 0.1176,
       "Year Zero": 0.0588,
       "The Fragile": 0.0588,
       "With Teeth": 0.0588
@@ -34540,7 +34481,7 @@
       "the-fragile": 0.1176,
       "with-teeth": 0.1176,
       "the-slip": 0.0588,
-      "unknown": 0.0588,
+      "cover": 0.0588,
       "hesitation-marks": 0.0588
     },
     "era_distribution": {
@@ -34551,7 +34492,7 @@
       "The Fragile": 0.1176,
       "With Teeth": 0.1176,
       "The Slip": 0.0588,
-      "Unknown": 0.0588,
+      "Covers": 0.0588,
       "Hesitation Marks": 0.0588
     },
     "primary_album": "the-downward-spiral",
@@ -34594,7 +34535,7 @@
       "with-teeth": 0.1053,
       "the-fragile": 0.0526,
       "the-slip": 0.0526,
-      "unknown": 0.0526,
+      "cover": 0.0526,
       "broken": 0.0526
     },
     "era_distribution": {
@@ -34605,7 +34546,7 @@
       "With Teeth": 0.1053,
       "The Fragile": 0.0526,
       "The Slip": 0.0526,
-      "Unknown": 0.0526,
+      "Covers": 0.0526,
       "Broken": 0.0526
     },
     "primary_album": "the-downward-spiral",
@@ -34649,7 +34590,7 @@
       "with-teeth": 0.0952,
       "the-fragile": 0.0476,
       "the-slip": 0.0476,
-      "unknown": 0.0476
+      "cover": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.2381,
@@ -34660,7 +34601,7 @@
       "With Teeth": 0.0952,
       "The Fragile": 0.0476,
       "The Slip": 0.0476,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -34703,7 +34644,7 @@
       "with-teeth": 0.1,
       "broken": 0.05,
       "the-fragile": 0.05,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "Pretty Hate Machine": 0.2,
@@ -34714,7 +34655,7 @@
       "With Teeth": 0.1,
       "Broken": 0.05,
       "The Fragile": 0.05,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -34807,7 +34748,7 @@
       "the-fragile": 0.1053,
       "with-teeth": 0.1053,
       "the-slip": 0.0526,
-      "unknown": 0.0526
+      "cover": 0.0526
     },
     "era_distribution": {
       "Year Zero": 0.1579,
@@ -34818,7 +34759,7 @@
       "The Fragile": 0.1053,
       "With Teeth": 0.1053,
       "The Slip": 0.0526,
-      "Unknown": 0.0526
+      "Covers": 0.0526
     },
     "primary_album": "year-zero",
     "primary_era": "Year Zero",
@@ -34861,7 +34802,7 @@
       "with-teeth": 0.1053,
       "the-slip": 0.0526,
       "the-fragile": 0.0526,
-      "unknown": 0.0526
+      "cover": 0.0526
     },
     "era_distribution": {
       "The Downward Spiral": 0.2105,
@@ -34872,7 +34813,7 @@
       "With Teeth": 0.1053,
       "The Slip": 0.0526,
       "The Fragile": 0.0526,
-      "Unknown": 0.0526
+      "Covers": 0.0526
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -34913,7 +34854,7 @@
       "the-fragile": 0.0952,
       "broken": 0.0952,
       "year-zero": 0.0952,
-      "unknown": 0.0476,
+      "intro": 0.0476,
       "the-slip": 0.0476,
       "with-teeth": 0.0476
     },
@@ -34924,7 +34865,7 @@
       "The Fragile": 0.0952,
       "Broken": 0.0952,
       "Year Zero": 0.0952,
-      "Unknown": 0.0476,
+      "Intro/Segue": 0.0476,
       "The Slip": 0.0476,
       "With Teeth": 0.0476
     },
@@ -34968,7 +34909,7 @@
       "year-zero": 0.1,
       "with-teeth": 0.1,
       "the-slip": 0.05,
-      "unknown": 0.05,
+      "cover": 0.05,
       "the-fragile": 0.05
     },
     "era_distribution": {
@@ -34979,7 +34920,7 @@
       "Year Zero": 0.1,
       "With Teeth": 0.1,
       "The Slip": 0.05,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "The Fragile": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -35074,7 +35015,7 @@
       "broken": 0.087,
       "pretty-hate-machine": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435
+      "cover": 0.0435
     },
     "era_distribution": {
       "Hesitation Marks": 0.2174,
@@ -35084,7 +35025,7 @@
       "Broken": 0.087,
       "Pretty Hate Machine": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435
+      "Covers": 0.0435
     },
     "primary_album": "hesitation-marks",
     "primary_era": "Hesitation Marks",
@@ -35176,7 +35117,7 @@
       "the-downward-spiral": 0.2174,
       "pretty-hate-machine": 0.087,
       "with-teeth": 0.087,
-      "unknown": 0.0435,
+      "cover": 0.0435,
       "broken": 0.0435,
       "the-fragile": 0.0435
     },
@@ -35186,7 +35127,7 @@
       "The Downward Spiral": 0.2174,
       "Pretty Hate Machine": 0.087,
       "With Teeth": 0.087,
-      "Unknown": 0.0435,
+      "Covers": 0.0435,
       "Broken": 0.0435,
       "The Fragile": 0.0435
     },
@@ -35384,7 +35325,7 @@
       "broken": 0.1,
       "with-teeth": 0.1,
       "the-slip": 0.05,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.25,
@@ -35394,7 +35335,7 @@
       "Broken": 0.1,
       "With Teeth": 0.1,
       "The Slip": 0.05,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -35641,7 +35582,7 @@
       "broken": 0.0909,
       "pretty-hate-machine": 0.0909,
       "with-teeth": 0.0909,
-      "unknown": 0.0455,
+      "cover": 0.0455,
       "the-fragile": 0.0455
     },
     "era_distribution": {
@@ -35651,7 +35592,7 @@
       "Broken": 0.0909,
       "Pretty Hate Machine": 0.0909,
       "With Teeth": 0.0909,
-      "Unknown": 0.0455,
+      "Covers": 0.0455,
       "The Fragile": 0.0455
     },
     "primary_album": "the-downward-spiral",
@@ -35792,7 +35733,7 @@
       "hesitation-marks": 0.15,
       "pretty-hate-machine": 0.15,
       "with-teeth": 0.1,
-      "unknown": 0.05,
+      "cover": 0.05,
       "broken": 0.05,
       "the-fragile": 0.05
     },
@@ -35802,7 +35743,7 @@
       "Hesitation Marks": 0.15,
       "Pretty Hate Machine": 0.15,
       "With Teeth": 0.1,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "Broken": 0.05,
       "The Fragile": 0.05
     },
@@ -37611,7 +37552,7 @@
       "not-the-actual-events": 0.0952,
       "add-violence": 0.0952,
       "the-fragile": 0.0952,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "broken": 0.0952,
       "year-zero": 0.0952,
       "hesitation-marks": 0.0476,
@@ -37622,7 +37563,7 @@
       "The Downward Spiral": 0.2857,
       "Trilogy": 0.1905,
       "The Fragile": 0.0952,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "Broken": 0.0952,
       "Year Zero": 0.0952,
       "Hesitation Marks": 0.0476,
@@ -37669,7 +37610,7 @@
       "pretty-hate-machine": 0.1111,
       "the-fragile": 0.1111,
       "hesitation-marks": 0.0556,
-      "unknown": 0.0556,
+      "cover": 0.0556,
       "year-zero": 0.0556,
       "with-teeth": 0.0556
     },
@@ -37680,7 +37621,7 @@
       "Pretty Hate Machine": 0.1111,
       "The Fragile": 0.1111,
       "Hesitation Marks": 0.0556,
-      "Unknown": 0.0556,
+      "Covers": 0.0556,
       "Year Zero": 0.0556,
       "With Teeth": 0.0556
     },
@@ -37724,7 +37665,7 @@
       "pretty-hate-machine": 0.1111,
       "the-fragile": 0.1111,
       "hesitation-marks": 0.0556,
-      "unknown": 0.0556,
+      "cover": 0.0556,
       "year-zero": 0.0556,
       "with-teeth": 0.0556
     },
@@ -37735,7 +37676,7 @@
       "Pretty Hate Machine": 0.1111,
       "The Fragile": 0.1111,
       "Hesitation Marks": 0.0556,
-      "Unknown": 0.0556,
+      "Covers": 0.0556,
       "Year Zero": 0.0556,
       "With Teeth": 0.0556
     },
@@ -37780,7 +37721,7 @@
       "broken": 0.1,
       "not-the-actual-events": 0.1,
       "the-slip": 0.05,
-      "unknown": 0.05
+      "cover": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.25,
@@ -37790,7 +37731,7 @@
       "Year Zero": 0.1,
       "Broken": 0.1,
       "The Slip": 0.05,
-      "Unknown": 0.05
+      "Covers": 0.05
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -37832,7 +37773,7 @@
       "add-violence": 0.1,
       "pretty-hate-machine": 0.1,
       "hesitation-marks": 0.05,
-      "unknown": 0.05,
+      "cover": 0.05,
       "the-slip": 0.05,
       "year-zero": 0.05,
       "with-teeth": 0.05
@@ -37844,7 +37785,7 @@
       "Broken": 0.1,
       "Pretty Hate Machine": 0.1,
       "Hesitation Marks": 0.05,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "The Slip": 0.05,
       "Year Zero": 0.05,
       "With Teeth": 0.05
@@ -37890,7 +37831,7 @@
       "add-violence": 0.1,
       "year-zero": 0.1,
       "hesitation-marks": 0.05,
-      "unknown": 0.05,
+      "cover": 0.05,
       "with-teeth": 0.05
     },
     "era_distribution": {
@@ -37901,7 +37842,7 @@
       "Pretty Hate Machine": 0.1,
       "Year Zero": 0.1,
       "Hesitation Marks": 0.05,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "With Teeth": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -37944,7 +37885,7 @@
       "pretty-hate-machine": 0.1053,
       "the-fragile": 0.1053,
       "add-violence": 0.1053,
-      "unknown": 0.0526,
+      "cover": 0.0526,
       "year-zero": 0.0526,
       "with-teeth": 0.0526
     },
@@ -37955,7 +37896,7 @@
       "The Slip": 0.1053,
       "Pretty Hate Machine": 0.1053,
       "The Fragile": 0.1053,
-      "Unknown": 0.0526,
+      "Covers": 0.0526,
       "Year Zero": 0.0526,
       "With Teeth": 0.0526
     },
@@ -38106,7 +38047,7 @@
       "broken": 0.0476,
       "hesitation-marks": 0.0476,
       "the-slip": 0.0476,
-      "unknown": 0.0476
+      "cover": 0.0476
     },
     "era_distribution": {
       "Trilogy": 0.1905,
@@ -38118,7 +38059,7 @@
       "Broken": 0.0476,
       "Hesitation Marks": 0.0476,
       "The Slip": 0.0476,
-      "Unknown": 0.0476
+      "Covers": 0.0476
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "Trilogy",
@@ -38154,23 +38095,21 @@
     "avg_song_age_at_show": 15.9,
     "album_distribution": {
       "the-fragile": 0.2273,
+      "cover": 0.1818,
       "the-downward-spiral": 0.1364,
       "year-zero": 0.1364,
       "pretty-hate-machine": 0.0909,
       "bad-witch": 0.0909,
       "add-violence": 0.0909,
-      "unknown": 0.0909,
-      "cover": 0.0909,
       "broken": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.2273,
       "Trilogy": 0.1818,
+      "Covers": 0.1818,
       "The Downward Spiral": 0.1364,
       "Year Zero": 0.1364,
       "Pretty Hate Machine": 0.0909,
-      "Unknown": 0.0909,
-      "Covers": 0.0909,
       "Broken": 0.0455
     },
     "primary_album": "the-fragile",
@@ -38260,7 +38199,7 @@
       "the-downward-spiral": 0.1739,
       "add-violence": 0.1304,
       "bad-witch": 0.1304,
-      "unknown": 0.1304,
+      "cover": 0.1304,
       "not-the-actual-events": 0.087,
       "the-fragile": 0.087,
       "year-zero": 0.087,
@@ -38272,7 +38211,7 @@
     "era_distribution": {
       "Trilogy": 0.3478,
       "The Downward Spiral": 0.1739,
-      "Unknown": 0.1304,
+      "Covers": 0.1304,
       "The Fragile": 0.087,
       "Year Zero": 0.087,
       "Broken": 0.0435,
@@ -38540,10 +38479,9 @@
       "broken": 0.1053,
       "add-violence": 0.1053,
       "the-fragile": 0.1053,
+      "cover": 0.1053,
       "not-the-actual-events": 0.0526,
       "hesitation-marks": 0.0526,
-      "cover": 0.0526,
-      "unknown": 0.0526,
       "with-teeth": 0.0526,
       "pretty-hate-machine": 0.0526
     },
@@ -38552,9 +38490,8 @@
       "The Downward Spiral": 0.2105,
       "Broken": 0.1053,
       "The Fragile": 0.1053,
+      "Covers": 0.1053,
       "Hesitation Marks": 0.0526,
-      "Covers": 0.0526,
-      "Unknown": 0.0526,
       "With Teeth": 0.0526,
       "Pretty Hate Machine": 0.0526
     },
@@ -38912,11 +38849,10 @@
       "bad-witch": 0.1579,
       "broken": 0.1053,
       "add-violence": 0.1053,
+      "cover": 0.1053,
       "not-the-actual-events": 0.0526,
       "the-fragile": 0.0526,
       "hesitation-marks": 0.0526,
-      "cover": 0.0526,
-      "unknown": 0.0526,
       "with-teeth": 0.0526,
       "pretty-hate-machine": 0.0526
     },
@@ -38924,10 +38860,9 @@
       "Trilogy": 0.3158,
       "The Downward Spiral": 0.2632,
       "Broken": 0.1053,
+      "Covers": 0.1053,
       "The Fragile": 0.0526,
       "Hesitation Marks": 0.0526,
-      "Covers": 0.0526,
-      "Unknown": 0.0526,
       "With Teeth": 0.0526,
       "Pretty Hate Machine": 0.0526
     },
@@ -39390,14 +39325,13 @@
     "nostalgia_score": 0.4097,
     "avg_song_age_at_show": 11.9,
     "album_distribution": {
+      "cover": 0.15,
       "bad-witch": 0.15,
-      "cover": 0.1,
       "year-zero": 0.1,
       "broken": 0.1,
       "the-downward-spiral": 0.1,
       "add-violence": 0.1,
       "the-slip": 0.05,
-      "unknown": 0.05,
       "hesitation-marks": 0.05,
       "not-the-actual-events": 0.05,
       "with-teeth": 0.05,
@@ -39406,18 +39340,17 @@
     },
     "era_distribution": {
       "Trilogy": 0.3,
-      "Covers": 0.1,
+      "Covers": 0.15,
       "Year Zero": 0.1,
       "Broken": 0.1,
       "The Downward Spiral": 0.1,
       "The Slip": 0.05,
-      "Unknown": 0.05,
       "Hesitation Marks": 0.05,
       "With Teeth": 0.05,
       "Pretty Hate Machine": 0.05,
       "The Fragile": 0.05
     },
-    "primary_album": "bad-witch",
+    "primary_album": "cover",
     "primary_era": "Trilogy",
     "avg_rarity_score": 0.7437,
     "rarity_tier": "unicorn",
@@ -39500,29 +39433,30 @@
     "country": "United States",
     "tour": "Cold and Black and Infinite - 2018",
     "era_slug": "cold-and-black-and-infinite-2018",
-    "nostalgia_score": 0.6828,
-    "avg_song_age_at_show": 19.8,
+    "nostalgia_score": 0.6946,
+    "avg_song_age_at_show": 20.1,
     "album_distribution": {
       "the-downward-spiral": 0.2273,
       "broken": 0.1818,
       "the-fragile": 0.1818,
-      "unknown": 0.0909,
       "pretty-hate-machine": 0.0909,
       "year-zero": 0.0909,
+      "unreleased": 0.0455,
       "the-slip": 0.0455,
       "add-violence": 0.0455,
-      "hesitation-marks": 0.0455
+      "hesitation-marks": 0.0455,
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2273,
       "Broken": 0.1818,
       "The Fragile": 0.1818,
-      "Unknown": 0.0909,
-      "Pretty Hate Machine": 0.0909,
+      "Pretty Hate Machine": 0.1364,
       "Year Zero": 0.0909,
       "The Slip": 0.0455,
       "Trilogy": 0.0455,
-      "Hesitation Marks": 0.0455
+      "Hesitation Marks": 0.0455,
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -39724,21 +39658,19 @@
       "bad-witch": 0.2,
       "add-violence": 0.15,
       "broken": 0.1,
+      "cover": 0.1,
       "with-teeth": 0.1,
       "the-perfect-drug": 0.05,
       "hesitation-marks": 0.05,
-      "cover": 0.05,
-      "unknown": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "Trilogy": 0.35,
       "The Downward Spiral": 0.25,
       "Broken": 0.1,
+      "Covers": 0.1,
       "With Teeth": 0.1,
       "Hesitation Marks": 0.05,
-      "Covers": 0.05,
-      "Unknown": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -39778,7 +39710,7 @@
       "the-downward-spiral": 0.25,
       "year-zero": 0.15,
       "broken": 0.1,
-      "unknown": 0.05,
+      "cover": 0.05,
       "add-violence": 0.05,
       "not-the-actual-events": 0.05,
       "pretty-hate-machine": 0.05
@@ -39789,7 +39721,7 @@
       "Year Zero": 0.15,
       "Trilogy": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-fragile",
@@ -39822,14 +39754,14 @@
     "country": "United States",
     "tour": "Cold and Black and Infinite - 2018",
     "era_slug": "cold-and-black-and-infinite-2018",
-    "nostalgia_score": 0.6034,
-    "avg_song_age_at_show": 17.5,
+    "nostalgia_score": 0.6207,
+    "avg_song_age_at_show": 18,
     "album_distribution": {
       "the-downward-spiral": 0.25,
       "pretty-hate-machine": 0.2,
       "bad-witch": 0.15,
       "with-teeth": 0.1,
-      "unknown": 0.05,
+      "unreleased": 0.05,
       "add-violence": 0.05,
       "hesitation-marks": 0.05,
       "the-perfect-drug": 0.05,
@@ -39838,10 +39770,9 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.3,
-      "Pretty Hate Machine": 0.2,
+      "Pretty Hate Machine": 0.25,
       "Trilogy": 0.2,
       "With Teeth": 0.1,
-      "Unknown": 0.05,
       "Hesitation Marks": 0.05,
       "Broken": 0.05,
       "Covers": 0.05
@@ -39884,7 +39815,7 @@
       "bad-witch": 0.0952,
       "not-the-actual-events": 0.0476,
       "the-slip": 0.0476,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "year-zero": 0.0476,
       "hesitation-marks": 0.0476,
       "with-teeth": 0.0476,
@@ -39897,7 +39828,7 @@
       "Trilogy": 0.1905,
       "The Downward Spiral": 0.1429,
       "The Slip": 0.0476,
-      "Unknown": 0.0476,
+      "Covers": 0.0476,
       "Year Zero": 0.0476,
       "Hesitation Marks": 0.0476,
       "With Teeth": 0.0476,
@@ -40250,26 +40181,27 @@
     "country": "United States",
     "tour": "Cold and Black and Infinite - 2018",
     "era_slug": "cold-and-black-and-infinite-2018",
-    "nostalgia_score": 0.6973,
-    "avg_song_age_at_show": 20.2,
+    "nostalgia_score": 0.7096,
+    "avg_song_age_at_show": 20.6,
     "album_distribution": {
       "pretty-hate-machine": 0.1905,
-      "unknown": 0.1429,
       "broken": 0.1429,
       "the-downward-spiral": 0.1429,
       "the-fragile": 0.1429,
       "the-slip": 0.0952,
       "bad-witch": 0.0952,
+      "cover": 0.0952,
+      "unreleased": 0.0476,
       "the-perfect-drug": 0.0476
     },
     "era_distribution": {
-      "Pretty Hate Machine": 0.1905,
+      "Pretty Hate Machine": 0.2381,
       "The Downward Spiral": 0.1905,
-      "Unknown": 0.1429,
       "Broken": 0.1429,
       "The Fragile": 0.1429,
       "The Slip": 0.0952,
-      "Trilogy": 0.0952
+      "Trilogy": 0.0952,
+      "Covers": 0.0952
     },
     "primary_album": "pretty-hate-machine",
     "primary_era": "Pretty Hate Machine",
@@ -40525,7 +40457,7 @@
       "broken": 0.1905,
       "year-zero": 0.1905,
       "the-fragile": 0.0952,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "bad-witch": 0.0476,
       "the-perfect-drug": 0.0476,
       "with-teeth": 0.0476,
@@ -40536,7 +40468,7 @@
       "Broken": 0.1905,
       "Year Zero": 0.1905,
       "The Fragile": 0.0952,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "Trilogy": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
@@ -40681,7 +40613,7 @@
       "the-fragile": 0.15,
       "the-downward-spiral": 0.15,
       "broken": 0.1,
-      "unknown": 0.1,
+      "cover": 0.1,
       "with-teeth": 0.1,
       "add-violence": 0.05,
       "hesitation-marks": 0.05,
@@ -40693,7 +40625,7 @@
       "The Fragile": 0.15,
       "The Downward Spiral": 0.15,
       "Broken": 0.1,
-      "Unknown": 0.1,
+      "Covers": 0.1,
       "With Teeth": 0.1,
       "Hesitation Marks": 0.05,
       "Year Zero": 0.05,
@@ -40780,7 +40712,7 @@
       "pretty-hate-machine": 0.0952,
       "year-zero": 0.0952,
       "not-the-actual-events": 0.0952,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "the-slip": 0.0476,
       "add-violence": 0.0476,
       "with-teeth": 0.0476
@@ -40791,7 +40723,7 @@
       "Trilogy": 0.1429,
       "Pretty Hate Machine": 0.0952,
       "Year Zero": 0.0952,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "The Slip": 0.0476,
       "With Teeth": 0.0476
     },
@@ -40884,7 +40816,7 @@
       "the-downward-spiral": 0.2857,
       "broken": 0.1429,
       "bad-witch": 0.1429,
-      "unknown": 0.1429,
+      "cover": 0.1429,
       "with-teeth": 0.0952,
       "add-violence": 0.0476,
       "hesitation-marks": 0.0476,
@@ -40895,7 +40827,7 @@
       "The Downward Spiral": 0.2857,
       "Trilogy": 0.1905,
       "Broken": 0.1429,
-      "Unknown": 0.1429,
+      "Covers": 0.1429,
       "With Teeth": 0.0952,
       "Hesitation Marks": 0.0476,
       "Pretty Hate Machine": 0.0476,
@@ -40939,7 +40871,7 @@
       "pretty-hate-machine": 0.0952,
       "year-zero": 0.0952,
       "the-downward-spiral": 0.0952,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "broken": 0.0476,
       "the-perfect-drug": 0.0476,
       "with-teeth": 0.0476,
@@ -40951,7 +40883,7 @@
       "The Downward Spiral": 0.1429,
       "Pretty Hate Machine": 0.0952,
       "Year Zero": 0.0952,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "Broken": 0.0476,
       "With Teeth": 0.0476
     },
@@ -40985,19 +40917,18 @@
     "country": "United States",
     "tour": "Cold and Black and Infinite - 2018",
     "era_slug": "cold-and-black-and-infinite-2018",
-    "nostalgia_score": 0.8947,
-    "avg_song_age_at_show": 25.9,
+    "nostalgia_score": 0.8966,
+    "avg_song_age_at_show": 26,
     "album_distribution": {
       "the-downward-spiral": 0.4091,
       "broken": 0.3182,
       "pretty-hate-machine": 0.2273,
-      "unknown": 0.0455
+      "unreleased": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.4091,
       "Broken": 0.3182,
-      "Pretty Hate Machine": 0.2273,
-      "Unknown": 0.0455
+      "Pretty Hate Machine": 0.2727
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -41093,29 +41024,27 @@
     "album_distribution": {
       "the-fragile": 0.2174,
       "the-downward-spiral": 0.1739,
+      "cover": 0.1304,
       "pretty-hate-machine": 0.087,
       "hesitation-marks": 0.087,
-      "unknown": 0.087,
       "year-zero": 0.087,
       "the-slip": 0.0435,
       "add-violence": 0.0435,
       "not-the-actual-events": 0.0435,
       "broken": 0.0435,
-      "with-teeth": 0.0435,
-      "cover": 0.0435
+      "with-teeth": 0.0435
     },
     "era_distribution": {
       "The Fragile": 0.2174,
       "The Downward Spiral": 0.1739,
+      "Covers": 0.1304,
       "Trilogy": 0.087,
       "Pretty Hate Machine": 0.087,
       "Hesitation Marks": 0.087,
-      "Unknown": 0.087,
       "Year Zero": 0.087,
       "The Slip": 0.0435,
       "Broken": 0.0435,
-      "With Teeth": 0.0435,
-      "Covers": 0.0435
+      "With Teeth": 0.0435
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -41150,30 +41079,28 @@
     "nostalgia_score": 0.5103,
     "avg_song_age_at_show": 14.8,
     "album_distribution": {
+      "cover": 0.2,
       "bad-witch": 0.16,
-      "unknown": 0.16,
       "the-fragile": 0.16,
       "broken": 0.12,
       "the-downward-spiral": 0.12,
       "add-violence": 0.08,
       "the-perfect-drug": 0.04,
       "hesitation-marks": 0.04,
-      "cover": 0.04,
       "with-teeth": 0.04,
       "pretty-hate-machine": 0.04
     },
     "era_distribution": {
       "Trilogy": 0.24,
+      "Covers": 0.2,
       "The Downward Spiral": 0.16,
-      "Unknown": 0.16,
       "The Fragile": 0.16,
       "Broken": 0.12,
       "Hesitation Marks": 0.04,
-      "Covers": 0.04,
       "With Teeth": 0.04,
       "Pretty Hate Machine": 0.04
     },
-    "primary_album": "bad-witch",
+    "primary_album": "cover",
     "primary_era": "Trilogy",
     "avg_rarity_score": 0.7754,
     "rarity_tier": "unicorn",
@@ -41209,23 +41136,21 @@
       "the-downward-spiral": 0.2857,
       "the-fragile": 0.2381,
       "with-teeth": 0.1429,
+      "cover": 0.0952,
       "the-slip": 0.0476,
       "year-zero": 0.0476,
       "the-perfect-drug": 0.0476,
       "add-violence": 0.0476,
-      "cover": 0.0476,
-      "unknown": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.3333,
       "The Fragile": 0.2381,
       "With Teeth": 0.1429,
+      "Covers": 0.0952,
       "The Slip": 0.0476,
       "Year Zero": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
-      "Unknown": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -41430,7 +41355,7 @@
       "broken": 0.1364,
       "year-zero": 0.0909,
       "add-violence": 0.0909,
-      "unknown": 0.0455,
+      "cover": 0.0455,
       "hesitation-marks": 0.0455,
       "pretty-hate-machine": 0.0455
     },
@@ -41441,7 +41366,7 @@
       "The Fragile": 0.1364,
       "Broken": 0.1364,
       "Year Zero": 0.0909,
-      "Unknown": 0.0455,
+      "Covers": 0.0455,
       "Hesitation Marks": 0.0455,
       "Pretty Hate Machine": 0.0455
     },
@@ -41594,7 +41519,7 @@
       "bad-witch": 0.0909,
       "add-violence": 0.0455,
       "year-zero": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Fragile": 0.1818,
@@ -41605,7 +41530,7 @@
       "The Downward Spiral": 0.0909,
       "The Slip": 0.0909,
       "Year Zero": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-fragile",
     "primary_era": "The Fragile",
@@ -41701,12 +41626,11 @@
       "bad-witch": 0.1304,
       "broken": 0.087,
       "hesitation-marks": 0.087,
+      "cover": 0.087,
       "pretty-hate-machine": 0.087,
       "with-teeth": 0.0435,
       "add-violence": 0.0435,
-      "the-perfect-drug": 0.0435,
-      "cover": 0.0435,
-      "unknown": 0.0435
+      "the-perfect-drug": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3043,
@@ -41714,10 +41638,9 @@
       "The Fragile": 0.1304,
       "Broken": 0.087,
       "Hesitation Marks": 0.087,
+      "Covers": 0.087,
       "Pretty Hate Machine": 0.087,
-      "With Teeth": 0.0435,
-      "Covers": 0.0435,
-      "Unknown": 0.0435
+      "With Teeth": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -41862,10 +41785,9 @@
       "add-violence": 0.087,
       "with-teeth": 0.087,
       "hesitation-marks": 0.087,
+      "cover": 0.087,
       "the-slip": 0.0435,
       "the-perfect-drug": 0.0435,
-      "cover": 0.0435,
-      "unknown": 0.0435,
       "the-fragile": 0.0435
     },
     "era_distribution": {
@@ -41875,9 +41797,8 @@
       "Trilogy": 0.087,
       "With Teeth": 0.087,
       "Hesitation Marks": 0.087,
+      "Covers": 0.087,
       "The Slip": 0.0435,
-      "Covers": 0.0435,
-      "Unknown": 0.0435,
       "The Fragile": 0.0435
     },
     "primary_album": "the-downward-spiral",
@@ -42026,9 +41947,8 @@
       "add-violence": 0.087,
       "hesitation-marks": 0.087,
       "pretty-hate-machine": 0.087,
+      "cover": 0.087,
       "the-slip": 0.0435,
-      "cover": 0.0435,
-      "unknown": 0.0435,
       "the-fragile": 0.0435
     },
     "era_distribution": {
@@ -42039,9 +41959,8 @@
       "Trilogy": 0.087,
       "Hesitation Marks": 0.087,
       "Pretty Hate Machine": 0.087,
+      "Covers": 0.087,
       "The Slip": 0.0435,
-      "Covers": 0.0435,
-      "Unknown": 0.0435,
       "The Fragile": 0.0435
     },
     "primary_album": "the-downward-spiral",
@@ -42199,7 +42118,7 @@
       "year-zero": 0.0455,
       "with-teeth": 0.0455,
       "the-slip": 0.0455,
-      "unknown": 0.0455
+      "cover": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.2727,
@@ -42211,7 +42130,7 @@
       "Year Zero": 0.0455,
       "With Teeth": 0.0455,
       "The Slip": 0.0455,
-      "Unknown": 0.0455
+      "Covers": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -42306,11 +42225,10 @@
       "the-fragile": 0.0909,
       "add-violence": 0.0909,
       "year-zero": 0.0909,
+      "cover": 0.0909,
       "the-slip": 0.0455,
       "with-teeth": 0.0455,
-      "bad-witch": 0.0455,
-      "cover": 0.0455,
-      "unknown": 0.0455
+      "bad-witch": 0.0455
     },
     "era_distribution": {
       "The Downward Spiral": 0.1818,
@@ -42319,10 +42237,9 @@
       "Pretty Hate Machine": 0.1364,
       "The Fragile": 0.0909,
       "Year Zero": 0.0909,
+      "Covers": 0.0909,
       "The Slip": 0.0455,
-      "With Teeth": 0.0455,
-      "Covers": 0.0455,
-      "Unknown": 0.0455
+      "With Teeth": 0.0455
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -42524,7 +42441,7 @@
       "hesitation-marks": 0.0435,
       "the-perfect-drug": 0.0435,
       "with-teeth": 0.0435,
-      "unknown": 0.0435
+      "cover": 0.0435
     },
     "era_distribution": {
       "The Downward Spiral": 0.3478,
@@ -42534,7 +42451,7 @@
       "Broken": 0.087,
       "Hesitation Marks": 0.0435,
       "With Teeth": 0.0435,
-      "Unknown": 0.0435
+      "Covers": 0.0435
     },
     "primary_album": "the-downward-spiral",
     "primary_era": "The Downward Spiral",
@@ -42621,10 +42538,9 @@
       "broken": 0.0952,
       "the-fragile": 0.0952,
       "hesitation-marks": 0.0952,
+      "cover": 0.0952,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
@@ -42633,9 +42549,8 @@
       "Broken": 0.0952,
       "The Fragile": 0.0952,
       "Hesitation Marks": 0.0952,
+      "Covers": 0.0952,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
-      "Covers": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -42679,9 +42594,8 @@
       "broken": 0.1,
       "the-fragile": 0.1,
       "hesitation-marks": 0.1,
+      "cover": 0.1,
       "year-zero": 0.05,
-      "unknown": 0.05,
-      "cover": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
@@ -42690,9 +42604,8 @@
       "Broken": 0.1,
       "The Fragile": 0.1,
       "Hesitation Marks": 0.1,
+      "Covers": 0.1,
       "Year Zero": 0.05,
-      "Unknown": 0.05,
-      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -45057,14 +44970,13 @@
       "pretty-hate-machine": 0.0952,
       "broken": 0.0952,
       "the-fragile": 0.0952,
+      "cover": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476
     },
     "era_distribution": {
@@ -45072,13 +44984,12 @@
       "Pretty Hate Machine": 0.0952,
       "Broken": 0.0952,
       "The Fragile": 0.0952,
+      "Covers": 0.0952,
       "The Slip": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -45120,7 +45031,7 @@
       "the-downward-spiral": 0.4,
       "with-teeth": 0.1,
       "broken": 0.1,
-      "unknown": 0.05,
+      "cover": 0.05,
       "hesitation-marks": 0.05,
       "not-the-actual-events": 0.05,
       "year-zero": 0.05,
@@ -45134,7 +45045,7 @@
       "With Teeth": 0.1,
       "Broken": 0.1,
       "Trilogy": 0.1,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "Hesitation Marks": 0.05,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
@@ -45181,7 +45092,7 @@
       "year-zero": 0.15,
       "broken": 0.1,
       "with-teeth": 0.1,
-      "unknown": 0.05,
+      "cover": 0.05,
       "ninja-2009-summer-tour-ep": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
@@ -45193,7 +45104,7 @@
       "Year Zero": 0.15,
       "Broken": 0.1,
       "With Teeth": 0.1,
-      "Unknown": 0.05,
+      "Covers": 0.05,
       "The Slip": 0.05,
       "Trilogy": 0.05,
       "Pretty Hate Machine": 0.05
@@ -45235,7 +45146,7 @@
     "avg_song_age_at_show": 24.9,
     "album_distribution": {
       "the-downward-spiral": 0.3,
-      "unknown": 0.1,
+      "cover": 0.15,
       "with-teeth": 0.1,
       "broken": 0.1,
       "hesitation-marks": 0.1,
@@ -45243,19 +45154,17 @@
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.35,
-      "Unknown": 0.1,
+      "Covers": 0.15,
       "With Teeth": 0.1,
       "Broken": 0.1,
       "Hesitation Marks": 0.1,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "Pretty Hate Machine": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -45301,7 +45210,7 @@
       "hesitation-marks": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "not-the-actual-events": 0.0476,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
@@ -45315,7 +45224,7 @@
       "Hesitation Marks": 0.0952,
       "Trilogy": 0.0952,
       "The Slip": 0.0476,
-      "Unknown": 0.0476,
+      "Covers": 0.0476,
       "Peel It Back": 0.0476,
       "With Teeth": 0.0476
     },
@@ -45356,7 +45265,7 @@
     "avg_song_age_at_show": 25.8,
     "album_distribution": {
       "the-downward-spiral": 0.3333,
-      "unknown": 0.0952,
+      "cover": 0.1429,
       "broken": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
@@ -45365,13 +45274,12 @@
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
-      "Unknown": 0.0952,
+      "Covers": 0.1429,
       "Broken": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
@@ -45379,7 +45287,6 @@
       "Year Zero": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
@@ -45422,14 +45329,13 @@
       "the-downward-spiral": 0.35,
       "pretty-hate-machine": 0.1,
       "broken": 0.1,
+      "cover": 0.1,
       "ninja-2009-summer-tour-ep": 0.05,
       "hesitation-marks": 0.05,
       "not-the-actual-events": 0.05,
-      "unknown": 0.05,
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05
     },
     "era_distribution": {
@@ -45437,11 +45343,10 @@
       "Pretty Hate Machine": 0.1,
       "Broken": 0.1,
       "Trilogy": 0.1,
+      "Covers": 0.1,
       "The Slip": 0.05,
       "Hesitation Marks": 0.05,
-      "Unknown": 0.05,
       "Peel It Back": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05
     },
     "primary_album": "the-downward-spiral",
@@ -45481,7 +45386,7 @@
     "avg_song_age_at_show": 25.6,
     "album_distribution": {
       "the-downward-spiral": 0.3333,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "with-teeth": 0.0952,
       "broken": 0.0952,
       "the-fragile": 0.0952,
@@ -45494,7 +45399,7 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "With Teeth": 0.0952,
       "Broken": 0.0952,
       "The Fragile": 0.0952,
@@ -45540,7 +45445,7 @@
     "avg_song_age_at_show": 25.6,
     "album_distribution": {
       "the-downward-spiral": 0.2857,
-      "unknown": 0.0952,
+      "cover": 0.1429,
       "broken": 0.0952,
       "the-fragile": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
@@ -45549,13 +45454,12 @@
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.3333,
-      "Unknown": 0.0952,
+      "Covers": 0.1429,
       "Broken": 0.0952,
       "The Fragile": 0.0952,
       "The Slip": 0.0476,
@@ -45563,7 +45467,6 @@
       "Year Zero": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
@@ -45604,26 +45507,24 @@
     "avg_song_age_at_show": 25.5,
     "album_distribution": {
       "the-downward-spiral": 0.35,
-      "unknown": 0.1,
+      "cover": 0.15,
       "broken": 0.1,
       "hesitation-marks": 0.1,
       "year-zero": 0.05,
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.4,
-      "Unknown": 0.1,
+      "Covers": 0.15,
       "Broken": 0.1,
       "Hesitation Marks": 0.1,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05,
       "Pretty Hate Machine": 0.05
     },
@@ -45666,29 +45567,27 @@
       "the-downward-spiral": 0.3333,
       "pretty-hate-machine": 0.0952,
       "broken": 0.0952,
+      "cover": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
       "Pretty Hate Machine": 0.0952,
       "Broken": 0.0952,
+      "Covers": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -45728,8 +45627,8 @@
     "avg_song_age_at_show": 25.8,
     "album_distribution": {
       "the-downward-spiral": 0.35,
+      "cover": 0.1,
       "broken": 0.1,
-      "unknown": 0.05,
       "ninja-2009-summer-tour-ep": 0.05,
       "the-fragile": 0.05,
       "hesitation-marks": 0.05,
@@ -45737,21 +45636,19 @@
       "tron-ares": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.4,
+      "Covers": 0.1,
       "Broken": 0.1,
-      "Unknown": 0.05,
       "The Slip": 0.05,
       "The Fragile": 0.05,
       "Hesitation Marks": 0.05,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05,
       "Pretty Hate Machine": 0.05
     },
@@ -45792,7 +45689,7 @@
     "avg_song_age_at_show": 26.7,
     "album_distribution": {
       "the-downward-spiral": 0.381,
-      "unknown": 0.0952,
+      "cover": 0.1429,
       "broken": 0.0952,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
@@ -45800,20 +45697,18 @@
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
-      "Unknown": 0.0952,
+      "Covers": 0.1429,
       "Broken": 0.0952,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
@@ -45856,29 +45751,27 @@
       "the-downward-spiral": 0.3333,
       "pretty-hate-machine": 0.0952,
       "broken": 0.0952,
+      "cover": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
       "Pretty Hate Machine": 0.0952,
       "Broken": 0.0952,
+      "Covers": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -45918,7 +45811,7 @@
     "avg_song_age_at_show": 26.4,
     "album_distribution": {
       "the-downward-spiral": 0.35,
-      "unknown": 0.1,
+      "cover": 0.15,
       "broken": 0.1,
       "hesitation-marks": 0.05,
       "year-zero": 0.05,
@@ -45926,20 +45819,18 @@
       "the-fragile": 0.05,
       "add-violence": 0.05,
       "the-perfect-drug": 0.05,
-      "cover": 0.05,
       "with-teeth": 0.05,
       "pretty-hate-machine": 0.05
     },
     "era_distribution": {
       "The Downward Spiral": 0.4,
-      "Unknown": 0.1,
+      "Covers": 0.15,
       "Broken": 0.1,
       "Hesitation Marks": 0.05,
       "Year Zero": 0.05,
       "Peel It Back": 0.05,
       "The Fragile": 0.05,
       "Trilogy": 0.05,
-      "Covers": 0.05,
       "With Teeth": 0.05,
       "Pretty Hate Machine": 0.05
     },
@@ -45980,7 +45871,7 @@
     "avg_song_age_at_show": 26.2,
     "album_distribution": {
       "the-downward-spiral": 0.381,
-      "unknown": 0.0952,
+      "cover": 0.0952,
       "broken": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
@@ -45994,7 +45885,7 @@
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
-      "Unknown": 0.0952,
+      "Covers": 0.0952,
       "Broken": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
@@ -46042,7 +45933,7 @@
     "avg_song_age_at_show": 26.7,
     "album_distribution": {
       "the-downward-spiral": 0.381,
-      "unknown": 0.0952,
+      "cover": 0.1429,
       "broken": 0.0952,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
@@ -46050,20 +45941,18 @@
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
-      "Unknown": 0.0952,
+      "Covers": 0.1429,
       "Broken": 0.0952,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
@@ -46106,27 +45995,25 @@
       "the-downward-spiral": 0.381,
       "with-teeth": 0.0952,
       "broken": 0.0952,
+      "cover": 0.0952,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
       "With Teeth": 0.0952,
       "Broken": 0.0952,
+      "Covers": 0.0952,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -46168,27 +46055,25 @@
       "the-downward-spiral": 0.381,
       "with-teeth": 0.0952,
       "broken": 0.0952,
+      "cover": 0.0952,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
       "With Teeth": 0.0952,
       "Broken": 0.0952,
+      "Covers": 0.0952,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -46228,7 +46113,7 @@
     "avg_song_age_at_show": 25.8,
     "album_distribution": {
       "the-downward-spiral": 0.3333,
-      "unknown": 0.0952,
+      "cover": 0.1429,
       "broken": 0.0952,
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
@@ -46237,13 +46122,12 @@
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "with-teeth": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.381,
-      "Unknown": 0.0952,
+      "Covers": 0.1429,
       "Broken": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
@@ -46251,7 +46135,6 @@
       "Year Zero": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "With Teeth": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
@@ -46294,27 +46177,25 @@
       "the-downward-spiral": 0.381,
       "with-teeth": 0.0952,
       "broken": 0.0952,
+      "cover": 0.0952,
       "the-fragile": 0.0476,
       "hesitation-marks": 0.0476,
       "year-zero": 0.0476,
-      "unknown": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
-      "cover": 0.0476,
       "pretty-hate-machine": 0.0476
     },
     "era_distribution": {
       "The Downward Spiral": 0.4286,
       "With Teeth": 0.0952,
       "Broken": 0.0952,
+      "Covers": 0.0952,
       "The Fragile": 0.0476,
       "Hesitation Marks": 0.0476,
       "Year Zero": 0.0476,
-      "Unknown": 0.0476,
       "Peel It Back": 0.0476,
       "Trilogy": 0.0476,
-      "Covers": 0.0476,
       "Pretty Hate Machine": 0.0476
     },
     "primary_album": "the-downward-spiral",
@@ -46360,7 +46241,7 @@
       "ninja-2009-summer-tour-ep": 0.0476,
       "the-fragile": 0.0476,
       "not-the-actual-events": 0.0476,
-      "unknown": 0.0476,
+      "cover": 0.0476,
       "tron-ares": 0.0476,
       "add-violence": 0.0476,
       "the-perfect-drug": 0.0476,
@@ -46374,7 +46255,7 @@
       "Trilogy": 0.0952,
       "The Slip": 0.0476,
       "The Fragile": 0.0476,
-      "Unknown": 0.0476,
+      "Covers": 0.0476,
       "Peel It Back": 0.0476,
       "With Teeth": 0.0476
     },
