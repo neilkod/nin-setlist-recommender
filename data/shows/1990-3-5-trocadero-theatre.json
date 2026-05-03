@@ -1,0 +1,122 @@
+{
+  "id": "1990-3-5-trocadero-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1990-3-5-trocadero-theatre",
+  "date": "1990-03-05",
+  "venue": "Trocadero Theatre",
+  "venue_slug": "trocadero-theatre-philadelphia",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "United States",
+  "tour": "The Jesus and Mary Chain's Automatic Tour",
+  "era_slug": "the-jesus-and-mary-chains-automatic-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Intro",
+      "slug": "intro",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "That's What I Get",
+      "slug": "thats-what-i-get",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "Ringfinger",
+      "slug": "ringfinger",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 9,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:56:43.619435Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 1,
+    "album_distribution": {
+      "pretty-hate-machine": 0.8889,
+      "unknown": 0.1111
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.8889,
+      "Unknown": 0.1111
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.75,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 3,
+    "n_album_track": 3,
+    "n_familiar": 1,
+    "n_staple": 2,
+    "cover_count": 1,
+    "cover_fraction": 0.1111,
+    "special_notes_count": 1,
+    "special_fraction": 0.1111,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 9,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

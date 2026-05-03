@@ -1,0 +1,243 @@
+{
+  "id": "2022-9-15-zappos-theater-at-planet-hollywood",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-9-15-zappos-theater-at-planet-hollywood",
+  "date": "2022-09-15",
+  "venue": "Zappos Theater at Planet Hollywood",
+  "venue_slug": "zappos-theater-at-planet-hollywood-las-vegas",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "United States",
+  "tour": "US Fall 2022",
+  "era_slug": "us-fall-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Sunspots",
+      "slug": "sunspots",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "Fashion",
+      "slug": "fashion",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "And All That Could Have Been",
+      "slug": "and-all-that-could-have-been",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 22,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:31.988101Z",
+  "features": {
+    "nostalgia_score": 0.6848,
+    "avg_song_age_at_show": 22.6,
+    "album_distribution": {
+      "the-downward-spiral": 0.1818,
+      "broken": 0.1818,
+      "pretty-hate-machine": 0.1364,
+      "the-fragile": 0.0909,
+      "add-violence": 0.0909,
+      "year-zero": 0.0909,
+      "the-slip": 0.0455,
+      "with-teeth": 0.0455,
+      "bad-witch": 0.0455,
+      "cover": 0.0455,
+      "unknown": 0.0455
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.1818,
+      "Broken": 0.1818,
+      "Trilogy": 0.1364,
+      "Pretty Hate Machine": 0.1364,
+      "The Fragile": 0.0909,
+      "Year Zero": 0.0909,
+      "The Slip": 0.0455,
+      "With Teeth": 0.0455,
+      "Covers": 0.0455,
+      "Unknown": 0.0455
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7583,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 3,
+    "n_album_track": 10,
+    "n_familiar": 1,
+    "n_staple": 5,
+    "cover_count": 2,
+    "cover_fraction": 0.0909,
+    "special_notes_count": 3,
+    "special_fraction": 0.1364,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 22,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

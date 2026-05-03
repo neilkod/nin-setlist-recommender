@@ -1,0 +1,207 @@
+{
+  "id": "2025-7-12-nos-alive",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2025-7-12-nos-alive",
+  "date": "2025-07-12",
+  "venue": "NOS Alive",
+  "venue_slug": "nos-alive-lisbon",
+  "city": "Lisbon",
+  "state": "Portugal",
+  "country": "Portgula",
+  "tour": "Peel It Back - Summer Tour 2025 Europe",
+  "era_slug": "peel-it-back-summer-tour-2025-europe",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with \"The Only Time\" breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "Every Day Is Exactly The Same",
+      "slug": "every-day-is-exactly-the-same",
+      "section": "Main Set",
+      "notes": "Static from the PA during the first few seconds of the song.",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 18,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:53:36.961528Z",
+  "features": {
+    "nostalgia_score": 0.7173,
+    "avg_song_age_at_show": 25.8,
+    "album_distribution": {
+      "the-downward-spiral": 0.4444,
+      "add-violence": 0.1111,
+      "with-teeth": 0.1111,
+      "the-fragile": 0.0556,
+      "broken": 0.0556,
+      "hesitation-marks": 0.0556,
+      "the-perfect-drug": 0.0556,
+      "cover": 0.0556,
+      "pretty-hate-machine": 0.0556
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.5,
+      "Trilogy": 0.1111,
+      "With Teeth": 0.1111,
+      "The Fragile": 0.0556,
+      "Broken": 0.0556,
+      "Hesitation Marks": 0.0556,
+      "Covers": 0.0556,
+      "Pretty Hate Machine": 0.0556
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6527,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0556,
+    "special_notes_count": 3,
+    "special_fraction": 0.1667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 18,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

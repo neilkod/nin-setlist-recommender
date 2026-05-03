@@ -1,0 +1,140 @@
+{
+  "id": "1994-3-11-the-edge",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-3-11-the-edge",
+  "date": "1994-03-11",
+  "venue": "The Edge",
+  "venue_slug": "the-edge-palo-alto",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Self Destruct (Warm Up)",
+  "era_slug": "self-destruct-warm-up",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Pinion",
+      "slug": "pinion",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 9,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 11,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:00:10.915609Z",
+  "features": {
+    "nostalgia_score": 0.58,
+    "avg_song_age_at_show": 2.9,
+    "album_distribution": {
+      "pretty-hate-machine": 0.4545,
+      "broken": 0.2727,
+      "the-downward-spiral": 0.2727
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.4545,
+      "Broken": 0.2727,
+      "The Downward Spiral": 0.2727
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.5655,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 2,
+    "n_familiar": 3,
+    "n_staple": 5,
+    "cover_count": 1,
+    "cover_fraction": 0.0909,
+    "special_notes_count": 1,
+    "special_fraction": 0.0909,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 11,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

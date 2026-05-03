@@ -1,0 +1,82 @@
+{
+  "id": "2025-10-6-tcl-chinese-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2025-10-6-tcl-chinese-theatre",
+  "date": "2025-10-06",
+  "venue": "TCL Chinese Theatre (Tron Ares World Premiere)",
+  "venue_slug": "tcl-chinese-theatre-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "",
+  "era_slug": "",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "As Alive As You Need Me To Be",
+      "slug": "as-alive-as-you-need-me-to-be",
+      "section": "Main Set",
+      "notes": "(with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Forked Reality",
+      "slug": "forked-reality",
+      "section": "Main Set",
+      "notes": "Live Debut (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "(with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Shadow Over Me",
+      "slug": "shadow-over-me",
+      "section": "Main Set",
+      "notes": "Live Debut (with Boys Noize )",
+      "is_cover": false
+    }
+  ],
+  "song_count": 4,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:54:29.024475Z",
+  "features": {
+    "nostalgia_score": 0.125,
+    "avg_song_age_at_show": 4.5,
+    "album_distribution": {
+      "tron-ares": 0.75,
+      "year-zero": 0.25
+    },
+    "era_distribution": {
+      "Peel It Back": 0.75,
+      "Year Zero": 0.25
+    },
+    "primary_album": "tron-ares",
+    "primary_era": "Peel It Back",
+    "avg_rarity_score": 0.9719,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 2,
+    "n_album_track": 0,
+    "n_familiar": 0,
+    "n_staple": 0,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 4,
+    "special_fraction": 1.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 4,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

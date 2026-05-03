@@ -1,0 +1,192 @@
+{
+  "id": "2005-7-1-eurock%C3%A9ennes",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-7-1-eurock%C3%A9ennes",
+  "date": "2005-07-01",
+  "venue": "Eurockéennes",
+  "venue_slug": "eurock%C3%A9ennes-belfort",
+  "city": "Belfort",
+  "state": "",
+  "country": "France",
+  "tour": "Live: With Teeth Tour - Summer (International)",
+  "era_slug": "live-with-teeth-tour-summer-international",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Starfuckers, Inc",
+      "slug": "starfuckers-inc",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 17,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:10:05.501905Z",
+  "features": {
+    "nostalgia_score": 0.5625,
+    "avg_song_age_at_show": 9,
+    "album_distribution": {
+      "the-downward-spiral": 0.2941,
+      "the-fragile": 0.2353,
+      "with-teeth": 0.1765,
+      "pretty-hate-machine": 0.1765,
+      "broken": 0.1176
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2941,
+      "The Fragile": 0.2353,
+      "With Teeth": 0.1765,
+      "Pretty Hate Machine": 0.1765,
+      "Broken": 0.1176
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.5757,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 17,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

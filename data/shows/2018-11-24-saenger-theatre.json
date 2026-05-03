@@ -1,0 +1,222 @@
+{
+  "id": "2018-11-24-saenger-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-11-24-saenger-theatre",
+  "date": "2018-11-24",
+  "venue": "Saenger Theatre",
+  "venue_slug": "saenger-theatre-new-orleans",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Starfuckers, Inc",
+      "slug": "starfuckers-inc",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:22.324584Z",
+  "features": {
+    "nostalgia_score": 0.6172,
+    "avg_song_age_at_show": 17.9,
+    "album_distribution": {
+      "the-fragile": 0.3,
+      "the-downward-spiral": 0.2,
+      "pretty-hate-machine": 0.1,
+      "year-zero": 0.1,
+      "broken": 0.1,
+      "add-violence": 0.05,
+      "not-the-actual-events": 0.05,
+      "with-teeth": 0.05,
+      "bad-witch": 0.05
+    },
+    "era_distribution": {
+      "The Fragile": 0.3,
+      "The Downward Spiral": 0.2,
+      "Trilogy": 0.15,
+      "Pretty Hate Machine": 0.1,
+      "Year Zero": 0.1,
+      "Broken": 0.1,
+      "With Teeth": 0.05
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7575,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 2,
+    "n_album_track": 8,
+    "n_familiar": 5,
+    "n_staple": 3,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.05,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

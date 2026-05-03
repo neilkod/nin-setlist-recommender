@@ -1,0 +1,180 @@
+{
+  "id": "2013-8-23-leeds-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-8-23-leeds-festival",
+  "date": "2013-08-23",
+  "venue": "Leeds Festival",
+  "venue_slug": "leeds-festival-leeds",
+  "city": "Leeds",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Festival Dates",
+  "era_slug": "festival-dates",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 15,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:23:36.617902Z",
+  "features": {
+    "nostalgia_score": 0.6518,
+    "avg_song_age_at_show": 15.6,
+    "album_distribution": {
+      "the-downward-spiral": 0.2667,
+      "broken": 0.2,
+      "pretty-hate-machine": 0.1333,
+      "year-zero": 0.1333,
+      "the-fragile": 0.1333,
+      "the-slip": 0.0667,
+      "with-teeth": 0.0667
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2667,
+      "Broken": 0.2,
+      "Pretty Hate Machine": 0.1333,
+      "Year Zero": 0.1333,
+      "The Fragile": 0.1333,
+      "The Slip": 0.0667,
+      "With Teeth": 0.0667
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.558,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 2,
+    "n_familiar": 7,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0667,
+    "special_notes_count": 1,
+    "special_fraction": 0.0667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 15,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

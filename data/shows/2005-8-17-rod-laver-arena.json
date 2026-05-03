@@ -1,0 +1,240 @@
+{
+  "id": "2005-8-17-rod-laver-arena",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-8-17-rod-laver-arena",
+  "date": "2005-08-17",
+  "venue": "Rod Laver Arena",
+  "venue_slug": "rod-laver-arena-melbourne",
+  "city": "Melbourne",
+  "state": "",
+  "country": "Australia",
+  "tour": "Live: With Teeth Tour - Summer (International)",
+  "era_slug": "live-with-teeth-tour-summer-international",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Love Is Not Enough",
+      "slug": "love-is-not-enough",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Starfuckers, Inc",
+      "slug": "starfuckers-inc",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 23,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:10:33.407550Z",
+  "features": {
+    "nostalgia_score": 0.503,
+    "avg_song_age_at_show": 8.0,
+    "album_distribution": {
+      "with-teeth": 0.2609,
+      "the-downward-spiral": 0.2609,
+      "pretty-hate-machine": 0.1739,
+      "the-fragile": 0.1739,
+      "broken": 0.1304
+    },
+    "era_distribution": {
+      "With Teeth": 0.2609,
+      "The Downward Spiral": 0.2609,
+      "Pretty Hate Machine": 0.1739,
+      "The Fragile": 0.1739,
+      "Broken": 0.1304
+    },
+    "primary_album": "with-teeth",
+    "primary_era": "With Teeth",
+    "avg_rarity_score": 0.6378,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 3,
+    "n_album_track": 6,
+    "n_familiar": 6,
+    "n_staple": 8,
+    "cover_count": 2,
+    "cover_fraction": 0.087,
+    "special_notes_count": 2,
+    "special_fraction": 0.087,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 23,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

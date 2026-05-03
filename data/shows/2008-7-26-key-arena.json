@@ -1,0 +1,286 @@
+{
+  "id": "2008-7-26-key-arena",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2008-7-26-key-arena",
+  "date": "2008-07-26",
+  "venue": "Key Arena",
+  "venue_slug": "key-arena-seattle",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "United States",
+  "tour": "Lights In The Sky Over North America (1st Leg)",
+  "era_slug": "lights-in-the-sky-over-north-america-1st-leg",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Head Down",
+      "slug": "head-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "01 Ghosts I",
+      "slug": "ghosts1",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "25 Ghosts III",
+      "slug": "ghosts25",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "19 Ghosts III",
+      "slug": "ghosts19",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "Ghosts style",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Greater Good",
+      "slug": "the-greater-good",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "31 Ghosts IV",
+      "slug": "ghosts31",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 26,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 27,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 28,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 28,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:17:53.315019Z",
+  "features": {
+    "nostalgia_score": 0.2951,
+    "avg_song_age_at_show": 5.6,
+    "album_distribution": {
+      "year-zero": 0.25,
+      "the-slip": 0.1786,
+      "the-downward-spiral": 0.1429,
+      "ghosts-i-iv": 0.1429,
+      "the-fragile": 0.0714,
+      "broken": 0.0714,
+      "pretty-hate-machine": 0.0714,
+      "with-teeth": 0.0714
+    },
+    "era_distribution": {
+      "Year Zero": 0.25,
+      "The Slip": 0.1786,
+      "The Downward Spiral": 0.1429,
+      "Ghosts": 0.1429,
+      "The Fragile": 0.0714,
+      "Broken": 0.0714,
+      "Pretty Hate Machine": 0.0714,
+      "With Teeth": 0.0714
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.7229,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 6,
+    "n_album_track": 8,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0357,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 28,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

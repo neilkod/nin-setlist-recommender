@@ -1,0 +1,232 @@
+{
+  "id": "2018-11-19-plaza-condenza",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-11-19-plaza-condenza",
+  "date": "2018-11-19",
+  "venue": "Plaza Condenza",
+  "venue_slug": "plaza-condenza-mexico-city",
+  "city": "Mexico City",
+  "state": "",
+  "country": "Mexico",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "with Sunspots snippet",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:18.541047Z",
+  "features": {
+    "nostalgia_score": 0.5764,
+    "avg_song_age_at_show": 16.7,
+    "album_distribution": {
+      "broken": 0.1905,
+      "the-downward-spiral": 0.1429,
+      "pretty-hate-machine": 0.1429,
+      "not-the-actual-events": 0.0952,
+      "bad-witch": 0.0952,
+      "year-zero": 0.0952,
+      "the-fragile": 0.0952,
+      "the-slip": 0.0476,
+      "add-violence": 0.0476,
+      "with-teeth": 0.0476
+    },
+    "era_distribution": {
+      "Trilogy": 0.2381,
+      "Broken": 0.1905,
+      "The Downward Spiral": 0.1429,
+      "Pretty Hate Machine": 0.1429,
+      "Year Zero": 0.0952,
+      "The Fragile": 0.0952,
+      "The Slip": 0.0476,
+      "With Teeth": 0.0476
+    },
+    "primary_album": "broken",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.712,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 4,
+    "n_deep_cut": 1,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0476,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

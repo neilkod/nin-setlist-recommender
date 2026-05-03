@@ -1,0 +1,102 @@
+{
+  "id": "2007-4-18-lacy-street-studios",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2007-4-18-lacy-street-studios",
+  "date": "2007-04-18",
+  "venue": "Lacy Street Studios",
+  "venue_slug": "lacy-street-studios-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Open Source Resistance Meeting",
+  "era_slug": "open-source-resistance-meeting",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "We're In This Together",
+      "slug": "were-in-this-together",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "Cut short due to police raid",
+      "is_cover": false
+    }
+  ],
+  "song_count": 6,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:16:22.747740Z",
+  "features": {
+    "nostalgia_score": 0.4074,
+    "avg_song_age_at_show": 7.3,
+    "album_distribution": {
+      "year-zero": 0.3333,
+      "the-fragile": 0.3333,
+      "broken": 0.1667,
+      "the-downward-spiral": 0.1667
+    },
+    "era_distribution": {
+      "Year Zero": 0.3333,
+      "The Fragile": 0.3333,
+      "Broken": 0.1667,
+      "The Downward Spiral": 0.1667
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.7496,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 1,
+    "n_album_track": 1,
+    "n_familiar": 2,
+    "n_staple": 1,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.1667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 6,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

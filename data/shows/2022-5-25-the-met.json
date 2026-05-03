@@ -1,0 +1,230 @@
+{
+  "id": "2022-5-25-the-met",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-5-25-the-met",
+  "date": "2022-05-25",
+  "venue": "The Met",
+  "venue_slug": "the-met-philadelphia",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "United States",
+  "tour": "US Spring 2022",
+  "era_slug": "us-spring-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternate version",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:00.081063Z",
+  "features": {
+    "nostalgia_score": 0.7656,
+    "avg_song_age_at_show": 25.3,
+    "album_distribution": {
+      "the-downward-spiral": 0.2857,
+      "broken": 0.1905,
+      "pretty-hate-machine": 0.1429,
+      "the-slip": 0.0952,
+      "the-fragile": 0.0952,
+      "with-teeth": 0.0952,
+      "year-zero": 0.0476,
+      "cover": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2857,
+      "Broken": 0.1905,
+      "Pretty Hate Machine": 0.1429,
+      "The Slip": 0.0952,
+      "The Fragile": 0.0952,
+      "With Teeth": 0.0952,
+      "Year Zero": 0.0476,
+      "Covers": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6716,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 7,
+    "n_familiar": 6,
+    "n_staple": 6,
+    "cover_count": 2,
+    "cover_fraction": 0.0952,
+    "special_notes_count": 4,
+    "special_fraction": 0.1905,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

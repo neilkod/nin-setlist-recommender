@@ -1,0 +1,231 @@
+{
+  "id": "2018-9-18-red-rocks-amphitheatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-9-18-red-rocks-amphitheatre",
+  "date": "2018-09-18",
+  "venue": "Red Rocks Amphitheatre",
+  "venue_slug": "red-rocks-amphitheatre-morrison",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "Live debut",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:28:36.024940Z",
+  "features": {
+    "nostalgia_score": 0.4776,
+    "avg_song_age_at_show": 13.8,
+    "album_distribution": {
+      "bad-witch": 0.1905,
+      "the-downward-spiral": 0.1429,
+      "broken": 0.1429,
+      "the-fragile": 0.0952,
+      "add-violence": 0.0952,
+      "pretty-hate-machine": 0.0952,
+      "year-zero": 0.0952,
+      "the-slip": 0.0476,
+      "not-the-actual-events": 0.0476,
+      "the-perfect-drug": 0.0476
+    },
+    "era_distribution": {
+      "Trilogy": 0.3333,
+      "The Downward Spiral": 0.1905,
+      "Broken": 0.1429,
+      "The Fragile": 0.0952,
+      "Pretty Hate Machine": 0.0952,
+      "Year Zero": 0.0952,
+      "The Slip": 0.0476
+    },
+    "primary_album": "bad-witch",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.7344,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 4,
+    "n_album_track": 8,
+    "n_familiar": 2,
+    "n_staple": 5,
+    "cover_count": 1,
+    "cover_fraction": 0.0476,
+    "special_notes_count": 3,
+    "special_fraction": 0.1429,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

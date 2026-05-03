@@ -1,0 +1,178 @@
+{
+  "id": "2013-8-25-reading-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-8-25-reading-festival",
+  "date": "2013-08-25",
+  "venue": "Reading Festival",
+  "venue_slug": "reading-festival-reading",
+  "city": "Reading",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Festival Dates",
+  "era_slug": "festival-dates",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 15,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:23:40.517605Z",
+  "features": {
+    "nostalgia_score": 0.4611,
+    "avg_song_age_at_show": 11.1,
+    "album_distribution": {
+      "hesitation-marks": 0.2667,
+      "year-zero": 0.2667,
+      "pretty-hate-machine": 0.1333,
+      "the-downward-spiral": 0.1333,
+      "broken": 0.1333,
+      "the-fragile": 0.0667
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.2667,
+      "Year Zero": 0.2667,
+      "Pretty Hate Machine": 0.1333,
+      "The Downward Spiral": 0.1333,
+      "Broken": 0.1333,
+      "The Fragile": 0.0667
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.7099,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 8,
+    "n_familiar": 2,
+    "n_staple": 4,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 15,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

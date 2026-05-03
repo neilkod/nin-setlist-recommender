@@ -1,0 +1,66 @@
+{
+  "id": "2014-1-26-staples-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-1-26-staples-center",
+  "date": "2014-01-26",
+  "venue": "Staples Center",
+  "venue_slug": "staples-center-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "56th Annual Grammy Music Awards",
+  "era_slug": "56th-annual-grammy-music-awards",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "My God Is The Sun",
+      "slug": "my-god-is-the-sun",
+      "section": "Main Set",
+      "notes": "(Queens Of The Stone Age cover)",
+      "is_cover": true
+    }
+  ],
+  "song_count": 2,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:13.098322Z",
+  "features": {
+    "nostalgia_score": 0.04,
+    "avg_song_age_at_show": 1,
+    "album_distribution": {
+      "hesitation-marks": 0.5,
+      "unknown": 0.5
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.5,
+      "Unknown": 0.5
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.8997,
+    "rarity_tier": "balanced",
+    "n_unicorn": 1,
+    "n_deep_cut": 0,
+    "n_album_track": 1,
+    "n_familiar": 0,
+    "n_staple": 0,
+    "cover_count": 1,
+    "cover_fraction": 0.5,
+    "special_notes_count": 1,
+    "special_fraction": 0.5,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 2,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

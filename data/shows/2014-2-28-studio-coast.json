@@ -1,0 +1,230 @@
+{
+  "id": "2014-2-28-studio-coast",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-2-28-studio-coast",
+  "date": "2014-02-28",
+  "venue": "Studio Coast",
+  "venue_slug": "studio-coast-tokyo",
+  "city": "Tokyo",
+  "state": "",
+  "country": "Japan",
+  "tour": "Japan",
+  "era_slug": "japan",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Various Methods Of Escape",
+      "slug": "various-methods-of-escape",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hand Covers Bruise",
+      "slug": "hand-covers-bruise",
+      "section": "Main Set",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Beside You In Time",
+      "slug": "beside-you-in-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:19.226471Z",
+  "features": {
+    "nostalgia_score": 0.344,
+    "avg_song_age_at_show": 8.6,
+    "album_distribution": {
+      "hesitation-marks": 0.2857,
+      "year-zero": 0.2381,
+      "with-teeth": 0.1429,
+      "pretty-hate-machine": 0.0952,
+      "the-slip": 0.0952,
+      "unknown": 0.0476,
+      "broken": 0.0476,
+      "the-downward-spiral": 0.0476
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.2857,
+      "Year Zero": 0.2381,
+      "With Teeth": 0.1429,
+      "Pretty Hate Machine": 0.0952,
+      "The Slip": 0.0952,
+      "Unknown": 0.0476,
+      "Broken": 0.0476,
+      "The Downward Spiral": 0.0476
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.7827,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 3,
+    "n_album_track": 10,
+    "n_familiar": 2,
+    "n_staple": 4,
+    "cover_count": 1,
+    "cover_fraction": 0.0476,
+    "special_notes_count": 1,
+    "special_fraction": 0.0476,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "1994-8-29-nautica-stage",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-8-29-nautica-stage",
+  "date": "1994-08-29",
+  "venue": "Nautica Stage",
+  "venue_slug": "nautica-stage-cleveland",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "United States",
+  "tour": "Further Down The Spiral + Self Destruct (Part 2)",
+  "era_slug": "further-down-the-spiral-self-destruct-part-2",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 12,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:01:57.168930Z",
+  "features": {
+    "nostalgia_score": 0.2333,
+    "avg_song_age_at_show": 1.2,
+    "album_distribution": {
+      "the-downward-spiral": 0.6667,
+      "broken": 0.1667,
+      "pretty-hate-machine": 0.1667
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.6667,
+      "Broken": 0.1667,
+      "Pretty Hate Machine": 0.1667
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.5734,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 5,
+    "n_familiar": 2,
+    "n_staple": 5,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 12,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

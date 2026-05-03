@@ -1,0 +1,250 @@
+{
+  "id": "2006-6-21-cumberland-county-civic-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2006-6-21-cumberland-county-civic-center",
+  "date": "2006-06-21",
+  "venue": "Cumberland County Civic Center",
+  "venue_slug": "cumberland-county-civic-center-portland",
+  "city": "Portland",
+  "state": "ME",
+  "country": "United States",
+  "tour": "Live With Teeth Tour - Summer (North America)",
+  "era_slug": "live-with-teeth-tour-summer-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Into The Void",
+      "slug": "into-the-void",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 20,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 21,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 24,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:14:19.771288Z",
+  "features": {
+    "nostalgia_score": 0.6265,
+    "avg_song_age_at_show": 10.7,
+    "album_distribution": {
+      "pretty-hate-machine": 0.25,
+      "the-fragile": 0.2083,
+      "the-downward-spiral": 0.2083,
+      "broken": 0.1667,
+      "with-teeth": 0.125,
+      "ninja-2009-summer-tour-ep": 0.0417
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.25,
+      "The Fragile": 0.2083,
+      "The Downward Spiral": 0.2083,
+      "Broken": 0.1667,
+      "With Teeth": 0.125,
+      "The Slip": 0.0417
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.6611,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 10,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 3,
+    "cover_fraction": 0.125,
+    "special_notes_count": 3,
+    "special_fraction": 0.125,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 24,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

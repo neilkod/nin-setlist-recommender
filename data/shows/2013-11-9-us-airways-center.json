@@ -1,0 +1,262 @@
+{
+  "id": "2013-11-9-us-airways-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-11-9-us-airways-center",
+  "date": "2013-11-09",
+  "venue": "US Airways Center",
+  "venue_slug": "us-airways-center-phoenix",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "United States",
+  "tour": "Tension",
+  "era_slug": "tension",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Various Methods Of Escape",
+      "slug": "various-methods-of-escape",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "In Two",
+      "slug": "in-two",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Running",
+      "slug": "running",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "A Warm Place",
+      "slug": "warm-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "While I'm Still Here",
+      "slug": "while-im-still-here",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 25,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:24:48.923218Z",
+  "features": {
+    "nostalgia_score": 0.42,
+    "avg_song_age_at_show": 10.1,
+    "album_distribution": {
+      "hesitation-marks": 0.36,
+      "the-downward-spiral": 0.16,
+      "the-fragile": 0.16,
+      "pretty-hate-machine": 0.12,
+      "with-teeth": 0.08,
+      "the-slip": 0.04,
+      "year-zero": 0.04,
+      "broken": 0.04
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.36,
+      "The Downward Spiral": 0.16,
+      "The Fragile": 0.16,
+      "Pretty Hate Machine": 0.12,
+      "With Teeth": 0.08,
+      "The Slip": 0.04,
+      "Year Zero": 0.04,
+      "Broken": 0.04
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.7337,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 5,
+    "n_deep_cut": 2,
+    "n_album_track": 8,
+    "n_familiar": 4,
+    "n_staple": 6,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 25,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

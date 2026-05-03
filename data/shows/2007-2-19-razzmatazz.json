@@ -1,0 +1,211 @@
+{
+  "id": "2007-2-19-razzmatazz",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2007-2-19-razzmatazz",
+  "date": "2007-02-19",
+  "venue": "Razzmatazz",
+  "venue_slug": "razzmatazz-barcelona",
+  "city": "Barcelona",
+  "state": "",
+  "country": "Spain",
+  "tour": "European Tour - Winter",
+  "era_slug": "european-tour-winter",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Collector",
+      "slug": "the-collector",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Deep",
+      "slug": "deep",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "Live debut",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:15:06.162476Z",
+  "features": {
+    "nostalgia_score": 0.5525,
+    "avg_song_age_at_show": 9.9,
+    "album_distribution": {
+      "the-downward-spiral": 0.3684,
+      "with-teeth": 0.2105,
+      "broken": 0.1579,
+      "pretty-hate-machine": 0.1053,
+      "lara-croft-tomb-raider-music-from-the-motion-picture": 0.0526,
+      "the-fragile": 0.0526,
+      "year-zero": 0.0526
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3684,
+      "With Teeth": 0.2105,
+      "Broken": 0.1579,
+      "Pretty Hate Machine": 0.1053,
+      "The Fragile": 0.1053,
+      "Year Zero": 0.0526
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6687,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 3,
+    "n_album_track": 4,
+    "n_familiar": 5,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 2,
+    "special_fraction": 0.1053,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1994-3-10-temple",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-3-10-temple",
+  "date": "1994-03-10",
+  "venue": "Temple",
+  "venue_slug": "temple-san-francisco",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Self Destruct (Warm Up)",
+  "era_slug": "self-destruct-warm-up",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 3,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:00:09.309396Z",
+  "features": {
+    "nostalgia_score": 0.6667,
+    "avg_song_age_at_show": 3.3,
+    "album_distribution": {
+      "pretty-hate-machine": 0.6667,
+      "the-downward-spiral": 0.3333
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.6667,
+      "The Downward Spiral": 0.3333
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.5519,
+    "rarity_tier": "hits-heavy",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 1,
+    "n_familiar": 0,
+    "n_staple": 2,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 3,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

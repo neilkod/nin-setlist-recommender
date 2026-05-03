@@ -1,0 +1,241 @@
+{
+  "id": "2022-5-28-boston-calling",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-5-28-boston-calling",
+  "date": "2022-05-28",
+  "venue": "Boston Calling",
+  "venue_slug": "boston-calling-boston",
+  "city": "Boston",
+  "state": "MA",
+  "country": "United States",
+  "tour": "US Spring 2022",
+  "era_slug": "us-spring-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Every Day Is Exactly The Same",
+      "slug": "every-day-is-exactly-the-same",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "Fashion",
+      "slug": "fashion",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "And All That Could Have Been",
+      "slug": "and-all-that-could-have-been",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 22,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:03.907344Z",
+  "features": {
+    "nostalgia_score": 0.6273,
+    "avg_song_age_at_show": 20.7,
+    "album_distribution": {
+      "the-fragile": 0.1818,
+      "broken": 0.1364,
+      "pretty-hate-machine": 0.1364,
+      "with-teeth": 0.1364,
+      "the-downward-spiral": 0.0909,
+      "the-slip": 0.0909,
+      "bad-witch": 0.0909,
+      "add-violence": 0.0455,
+      "year-zero": 0.0455,
+      "unknown": 0.0455
+    },
+    "era_distribution": {
+      "The Fragile": 0.1818,
+      "Broken": 0.1364,
+      "Pretty Hate Machine": 0.1364,
+      "Trilogy": 0.1364,
+      "With Teeth": 0.1364,
+      "The Downward Spiral": 0.0909,
+      "The Slip": 0.0909,
+      "Year Zero": 0.0455,
+      "Unknown": 0.0455
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7479,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 4,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 5,
+    "cover_count": 2,
+    "cover_fraction": 0.0909,
+    "special_notes_count": 2,
+    "special_fraction": 0.0909,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 22,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

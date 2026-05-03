@@ -1,0 +1,225 @@
+{
+  "id": "2018-9-19-red-rocks-amphitheatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-9-19-red-rocks-amphitheatre",
+  "date": "2018-09-19",
+  "venue": "Red Rocks Amphitheatre",
+  "venue_slug": "red-rocks-amphitheatre-morrison",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "The Background World",
+      "slug": "backgroundworld",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "First performance since 2009-09-10",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:28:37.999231Z",
+  "features": {
+    "nostalgia_score": 0.5632,
+    "avg_song_age_at_show": 16.3,
+    "album_distribution": {
+      "the-downward-spiral": 0.35,
+      "with-teeth": 0.15,
+      "add-violence": 0.1,
+      "broken": 0.1,
+      "not-the-actual-events": 0.05,
+      "the-slip": 0.05,
+      "hesitation-marks": 0.05,
+      "cover": 0.05,
+      "year-zero": 0.05,
+      "pretty-hate-machine": 0.05
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.35,
+      "Trilogy": 0.15,
+      "With Teeth": 0.15,
+      "Broken": 0.1,
+      "The Slip": 0.05,
+      "Hesitation Marks": 0.05,
+      "Covers": 0.05,
+      "Year Zero": 0.05,
+      "Pretty Hate Machine": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.754,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 4,
+    "n_deep_cut": 1,
+    "n_album_track": 8,
+    "n_familiar": 3,
+    "n_staple": 4,
+    "cover_count": 2,
+    "cover_fraction": 0.1,
+    "special_notes_count": 4,
+    "special_fraction": 0.2,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

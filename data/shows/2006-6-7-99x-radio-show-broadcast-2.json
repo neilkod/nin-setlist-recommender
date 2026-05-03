@@ -1,0 +1,76 @@
+{
+  "id": "2006-6-7-99x-radio-show-broadcast-2",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2006-6-7-99x-radio-show-broadcast-2",
+  "date": "2006-06-07",
+  "venue": "99X Radio Show Broadcast (Trent Reznor & Peter Murphy)",
+  "venue_slug": "99x-radio-show-broadcast-atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "United States",
+  "tour": "Live With Teeth Tour - Summer (North America)",
+  "era_slug": "live-with-teeth-tour-summer-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanity Assassin",
+      "slug": "sanity-assassin",
+      "section": "Main Set",
+      "notes": "(Bauhaus cover) (with Peter Murphy )",
+      "is_cover": true
+    },
+    {
+      "position": 3,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 3,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:13:56.671899Z",
+  "features": {
+    "nostalgia_score": 0.8529,
+    "avg_song_age_at_show": 14.5,
+    "album_distribution": {
+      "pretty-hate-machine": 0.3333,
+      "unknown": 0.3333,
+      "the-downward-spiral": 0.3333
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.3333,
+      "Unknown": 0.3333,
+      "The Downward Spiral": 0.3333
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.5201,
+    "rarity_tier": "hits-heavy",
+    "n_unicorn": 1,
+    "n_deep_cut": 0,
+    "n_album_track": 0,
+    "n_familiar": 0,
+    "n_staple": 2,
+    "cover_count": 1,
+    "cover_fraction": 0.3333,
+    "special_notes_count": 1,
+    "special_fraction": 0.3333,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 3,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

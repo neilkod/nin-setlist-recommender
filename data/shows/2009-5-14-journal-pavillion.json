@@ -1,0 +1,206 @@
+{
+  "id": "2009-5-14-journal-pavillion",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-5-14-journal-pavillion",
+  "date": "2009-05-14",
+  "venue": "Journal Pavillion",
+  "venue_slug": "journal-pavillion-albuquerque",
+  "city": "Albuquerque",
+  "state": "NM",
+  "country": "United States",
+  "tour": "NIN|JA Tour",
+  "era_slug": "ninja-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Physical (You're So)",
+      "slug": "physical-youre-so",
+      "section": "Main Set",
+      "notes": "(Adam Ant cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 18,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:20:49.285378Z",
+  "features": {
+    "nostalgia_score": 0.5176,
+    "avg_song_age_at_show": 10.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.2222,
+      "the-fragile": 0.1667,
+      "year-zero": 0.1667,
+      "pretty-hate-machine": 0.1111,
+      "the-slip": 0.1111,
+      "broken": 0.1111,
+      "cover": 0.0556,
+      "with-teeth": 0.0556
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2222,
+      "The Fragile": 0.1667,
+      "Year Zero": 0.1667,
+      "Pretty Hate Machine": 0.1111,
+      "The Slip": 0.1111,
+      "Broken": 0.1111,
+      "Covers": 0.0556,
+      "With Teeth": 0.0556
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7148,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 5,
+    "n_album_track": 5,
+    "n_familiar": 3,
+    "n_staple": 5,
+    "cover_count": 2,
+    "cover_fraction": 0.1111,
+    "special_notes_count": 2,
+    "special_fraction": 0.1111,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 18,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

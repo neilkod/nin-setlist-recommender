@@ -1,0 +1,231 @@
+{
+  "id": "2018-12-3-bill-graham-civic-auditorium",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-12-3-bill-graham-civic-auditorium",
+  "date": "2018-12-03",
+  "venue": "Bill Graham Civic Auditorium",
+  "venue_slug": "bill-graham-civic-auditorium-san-francisco",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Dear World,",
+      "slug": "dear-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "I Can't Give Everything Away",
+      "slug": "i-cant-give-everything-away",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "Subterraneans",
+      "slug": "subterraneans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "The Background World",
+      "slug": "backgroundworld",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:34.129763Z",
+  "features": {
+    "nostalgia_score": 0.636,
+    "avg_song_age_at_show": 18.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.2857,
+      "broken": 0.1905,
+      "pretty-hate-machine": 0.0952,
+      "year-zero": 0.0952,
+      "not-the-actual-events": 0.0952,
+      "unknown": 0.0952,
+      "the-slip": 0.0476,
+      "add-violence": 0.0476,
+      "with-teeth": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2857,
+      "Broken": 0.1905,
+      "Trilogy": 0.1429,
+      "Pretty Hate Machine": 0.0952,
+      "Year Zero": 0.0952,
+      "Unknown": 0.0952,
+      "The Slip": 0.0476,
+      "With Teeth": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7651,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 5,
+    "n_deep_cut": 2,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 4,
+    "cover_count": 3,
+    "cover_fraction": 0.1429,
+    "special_notes_count": 4,
+    "special_fraction": 0.1905,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

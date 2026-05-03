@@ -1,0 +1,218 @@
+{
+  "id": "2006-5-30-red-rocks-amphitheatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2006-5-30-red-rocks-amphitheatre",
+  "date": "2006-05-30",
+  "venue": "Red Rocks Amphitheatre",
+  "venue_slug": "red-rocks-amphitheatre-morrison",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "United States",
+  "tour": "Live With Teeth Tour - Summer (North America)",
+  "era_slug": "live-with-teeth-tour-summer-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Into The Void",
+      "slug": "into-the-void",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:13:42.797695Z",
+  "features": {
+    "nostalgia_score": 0.6176,
+    "avg_song_age_at_show": 10.5,
+    "album_distribution": {
+      "the-fragile": 0.2,
+      "pretty-hate-machine": 0.2,
+      "the-downward-spiral": 0.2,
+      "broken": 0.2,
+      "with-teeth": 0.15,
+      "ninja-2009-summer-tour-ep": 0.05
+    },
+    "era_distribution": {
+      "The Fragile": 0.2,
+      "Pretty Hate Machine": 0.2,
+      "The Downward Spiral": 0.2,
+      "Broken": 0.2,
+      "With Teeth": 0.15,
+      "The Slip": 0.05
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.6241,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 1,
+    "special_fraction": 0.05,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

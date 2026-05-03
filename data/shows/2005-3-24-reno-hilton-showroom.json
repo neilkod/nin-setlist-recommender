@@ -1,0 +1,208 @@
+{
+  "id": "2005-3-24-reno-hilton-showroom",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-3-24-reno-hilton-showroom",
+  "date": "2005-03-24",
+  "venue": "Reno Hilton Showroom",
+  "venue_slug": "reno-hilton-showroom-reno",
+  "city": "Reno",
+  "state": "NV",
+  "country": "United States",
+  "tour": "Live: With Teeth Club Tour - Spring",
+  "era_slug": "live-with-teeth-club-tour-spring",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Love Is Not Enough",
+      "slug": "love-is-not-enough",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Collector",
+      "slug": "the-collector",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "No, You Don't",
+      "slug": "no-you-dont",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Starfuckers, Inc",
+      "slug": "starfuckers-inc",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:08:45.526861Z",
+  "features": {
+    "nostalgia_score": 0.4479,
+    "avg_song_age_at_show": 7.2,
+    "album_distribution": {
+      "with-teeth": 0.3158,
+      "the-downward-spiral": 0.3158,
+      "the-fragile": 0.1579,
+      "pretty-hate-machine": 0.1053,
+      "broken": 0.1053
+    },
+    "era_distribution": {
+      "With Teeth": 0.3158,
+      "The Downward Spiral": 0.3158,
+      "The Fragile": 0.1579,
+      "Pretty Hate Machine": 0.1053,
+      "Broken": 0.1053
+    },
+    "primary_album": "with-teeth",
+    "primary_era": "With Teeth",
+    "avg_rarity_score": 0.6458,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 5,
+    "n_album_track": 3,
+    "n_familiar": 4,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 1,
+    "special_fraction": 0.0526,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

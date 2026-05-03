@@ -1,0 +1,224 @@
+{
+  "id": "2014-3-29-lollapalooza-chile",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-3-29-lollapalooza-chile",
+  "date": "2014-03-29",
+  "venue": "Lollapalooza Chile",
+  "venue_slug": "lollapalooza-chile-santiago",
+  "city": "Santiago",
+  "state": "",
+  "country": "Chile",
+  "tour": "Latin America",
+  "era_slug": "latin-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hand Covers Bruise",
+      "slug": "hand-covers-bruise",
+      "section": "Main Set",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Beside You In Time",
+      "slug": "beside-you-in-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:44.834833Z",
+  "features": {
+    "nostalgia_score": 0.5558,
+    "avg_song_age_at_show": 13.9,
+    "album_distribution": {
+      "pretty-hate-machine": 0.2,
+      "the-downward-spiral": 0.2,
+      "hesitation-marks": 0.15,
+      "the-slip": 0.1,
+      "year-zero": 0.1,
+      "with-teeth": 0.1,
+      "broken": 0.05,
+      "the-fragile": 0.05,
+      "unknown": 0.05
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.2,
+      "The Downward Spiral": 0.2,
+      "Hesitation Marks": 0.15,
+      "The Slip": 0.1,
+      "Year Zero": 0.1,
+      "With Teeth": 0.1,
+      "Broken": 0.05,
+      "The Fragile": 0.05,
+      "Unknown": 0.05
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.6885,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 1,
+    "n_album_track": 10,
+    "n_familiar": 2,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 1,
+    "special_fraction": 0.05,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

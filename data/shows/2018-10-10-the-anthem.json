@@ -1,0 +1,233 @@
+{
+  "id": "2018-10-10-the-anthem",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-10-10-the-anthem",
+  "date": "2018-10-10",
+  "venue": "The Anthem",
+  "venue_slug": "the-anthem-washington%2C-d.c.",
+  "city": "Washington, D.C.",
+  "state": "Washington, D.C.",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:28:53.150498Z",
+  "features": {
+    "nostalgia_score": 0.5025,
+    "avg_song_age_at_show": 14.6,
+    "album_distribution": {
+      "bad-witch": 0.1905,
+      "with-teeth": 0.1429,
+      "the-fragile": 0.1429,
+      "the-downward-spiral": 0.1429,
+      "broken": 0.0952,
+      "the-slip": 0.0952,
+      "hesitation-marks": 0.0476,
+      "the-perfect-drug": 0.0476,
+      "year-zero": 0.0476,
+      "pretty-hate-machine": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.1905,
+      "Trilogy": 0.1905,
+      "With Teeth": 0.1429,
+      "The Fragile": 0.1429,
+      "Broken": 0.0952,
+      "The Slip": 0.0952,
+      "Hesitation Marks": 0.0476,
+      "Year Zero": 0.0476,
+      "Pretty Hate Machine": 0.0476
+    },
+    "primary_album": "bad-witch",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7338,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 5,
+    "n_album_track": 6,
+    "n_familiar": 2,
+    "n_staple": 6,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0476,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

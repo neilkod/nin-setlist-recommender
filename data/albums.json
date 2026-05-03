@@ -1,0 +1,2764 @@
+{
+  "albums": {
+    "down-in-it": {
+      "slug": "down-in-it",
+      "year": 1989,
+      "type": "single",
+      "era_group": "Pretty Hate Machine",
+      "tracks": [
+        {
+          "song_slug": "down-in-it-skin",
+          "song_name": "Down In It - Skin"
+        },
+        {
+          "song_slug": "down-in-it-shred",
+          "song_name": "Down In It - Shred"
+        },
+        {
+          "song_slug": "down-in-it",
+          "song_name": "Down In It"
+        }
+      ]
+    },
+    "pretty-hate-machine": {
+      "slug": "pretty-hate-machine",
+      "year": 1989,
+      "type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "tracks": [
+        {
+          "song_slug": "head-like-a-hole",
+          "song_name": "Head Like A Hole"
+        },
+        {
+          "song_slug": "terrible-lie",
+          "song_name": "Terrible Lie"
+        },
+        {
+          "song_slug": "down-in-it",
+          "song_name": "Down In It"
+        },
+        {
+          "song_slug": "sanctified",
+          "song_name": "Sanctified"
+        },
+        {
+          "song_slug": "something-i-can-never-have",
+          "song_name": "Something I Can Never Have"
+        },
+        {
+          "song_slug": "kinda-i-want-to",
+          "song_name": "Kinda I Want To"
+        },
+        {
+          "song_slug": "sin",
+          "song_name": "Sin"
+        },
+        {
+          "song_slug": "thats-what-i-get",
+          "song_name": "That's What I Get"
+        },
+        {
+          "song_slug": "only-time",
+          "song_name": "The Only Time"
+        },
+        {
+          "song_slug": "ringfinger",
+          "song_name": "Ringfinger"
+        },
+        {
+          "song_slug": "get-down-make-love",
+          "song_name": "Get Down, Make Love"
+        }
+      ]
+    },
+    "head-like-a-hole": {
+      "slug": "head-like-a-hole",
+      "year": 1990,
+      "type": "single",
+      "era_group": "Pretty Hate Machine",
+      "tracks": [
+        {
+          "song_slug": "head-like-a-hole",
+          "song_name": "Head Like A Hole"
+        }
+      ]
+    },
+    "sin": {
+      "slug": "sin",
+      "year": 1990,
+      "type": "single",
+      "era_group": "Pretty Hate Machine",
+      "tracks": [
+        {
+          "song_slug": "sin",
+          "song_name": "Sin"
+        }
+      ]
+    },
+    "broken": {
+      "slug": "broken",
+      "year": 1992,
+      "type": "ep",
+      "era_group": "Broken",
+      "tracks": [
+        {
+          "song_slug": "pinion",
+          "song_name": "Pinion"
+        },
+        {
+          "song_slug": "wish",
+          "song_name": "Wish"
+        },
+        {
+          "song_slug": "last",
+          "song_name": "Last"
+        },
+        {
+          "song_slug": "help-me-i-am-in-hell",
+          "song_name": "Help Me I Am In Hell"
+        },
+        {
+          "song_slug": "happiness-in-slavery",
+          "song_name": "Happiness In Slavery"
+        },
+        {
+          "song_slug": "gave-up",
+          "song_name": "Gave Up"
+        },
+        {
+          "song_slug": "suck",
+          "song_name": "Suck"
+        },
+        {
+          "song_slug": "physical-youre-so",
+          "song_name": "Physical (You're So)"
+        }
+      ]
+    },
+    "the-downward-spiral": {
+      "slug": "the-downward-spiral",
+      "year": 1994,
+      "type": "studio",
+      "era_group": "The Downward Spiral",
+      "tracks": [
+        {
+          "song_slug": "mr-self-destruct",
+          "song_name": "Mr. Self Destruct"
+        },
+        {
+          "song_slug": "piggy",
+          "song_name": "Piggy"
+        },
+        {
+          "song_slug": "heresy",
+          "song_name": "Heresy"
+        },
+        {
+          "song_slug": "march-of-the-pigs",
+          "song_name": "March Of The Pigs"
+        },
+        {
+          "song_slug": "closer",
+          "song_name": "Closer"
+        },
+        {
+          "song_slug": "ruiner",
+          "song_name": "Ruiner"
+        },
+        {
+          "song_slug": "the-becoming",
+          "song_name": "The Becoming"
+        },
+        {
+          "song_slug": "i-do-not-want-this",
+          "song_name": "I Do Not Want This"
+        },
+        {
+          "song_slug": "big-man-with-a-gun",
+          "song_name": "Big Man With A Gun"
+        },
+        {
+          "song_slug": "warm-place",
+          "song_name": "A Warm Place"
+        },
+        {
+          "song_slug": "eraser",
+          "song_name": "Eraser"
+        },
+        {
+          "song_slug": "reptile",
+          "song_name": "Reptile"
+        },
+        {
+          "song_slug": "downward-spiral",
+          "song_name": "The Downward Spiral"
+        },
+        {
+          "song_slug": "hurt",
+          "song_name": "Hurt"
+        },
+        {
+          "song_slug": "dead-souls",
+          "song_name": "Dead Souls"
+        },
+        {
+          "song_slug": "memorabilia",
+          "song_name": "Memorabilia"
+        },
+        {
+          "song_slug": "burn",
+          "song_name": "Burn"
+        }
+      ]
+    },
+    "closer-to-god": {
+      "slug": "closer-to-god",
+      "year": 1994,
+      "type": "single",
+      "era_group": "The Downward Spiral",
+      "tracks": [
+        {
+          "song_slug": "closer-to-god",
+          "song_name": "Closer To God"
+        }
+      ]
+    },
+    "natural-born-killers": {
+      "slug": "natural-born-killers",
+      "year": 1994,
+      "type": "soundtrack",
+      "era_group": "The Downward Spiral",
+      "tracks": [
+        {
+          "song_slug": "burn",
+          "song_name": "Burn"
+        }
+      ]
+    },
+    "the-perfect-drug": {
+      "slug": "the-perfect-drug",
+      "year": 1997,
+      "type": "single",
+      "era_group": "The Downward Spiral",
+      "tracks": [
+        {
+          "song_slug": "the-perfect-drug",
+          "song_name": "The Perfect Drug"
+        }
+      ]
+    },
+    "the-fragile": {
+      "slug": "the-fragile",
+      "year": 1999,
+      "type": "studio",
+      "era_group": "The Fragile",
+      "tracks": [
+        {
+          "song_slug": "somewhat-damaged",
+          "song_name": "Somewhat Damaged"
+        },
+        {
+          "song_slug": "the-day-the-world-went-away",
+          "song_name": "The Day The World Went Away"
+        },
+        {
+          "song_slug": "the-frail",
+          "song_name": "The Frail"
+        },
+        {
+          "song_slug": "wretched",
+          "song_name": "The Wretched"
+        },
+        {
+          "song_slug": "were-in-this-together",
+          "song_name": "We're In This Together"
+        },
+        {
+          "song_slug": "the-fragile",
+          "song_name": "The Fragile"
+        },
+        {
+          "song_slug": "just-like-you-imagined",
+          "song_name": "Just Like You Imagined"
+        },
+        {
+          "song_slug": "even-deeper",
+          "song_name": "Even Deeper"
+        },
+        {
+          "song_slug": "pilgrimage",
+          "song_name": "Pilgrimage"
+        },
+        {
+          "song_slug": "la-mer",
+          "song_name": "La Mer"
+        },
+        {
+          "song_slug": "no-you-dont",
+          "song_name": "No, You Don't"
+        },
+        {
+          "song_slug": "the-great-below",
+          "song_name": "The Great Below"
+        },
+        {
+          "song_slug": "the-way-out-is-through",
+          "song_name": "The Way Out Is Through"
+        },
+        {
+          "song_slug": "into-the-void",
+          "song_name": "Into The Void"
+        },
+        {
+          "song_slug": "where-is-everybody",
+          "song_name": "Where Is Everybody?"
+        },
+        {
+          "song_slug": "the-mark-has-been-made",
+          "song_name": "The Mark Has Been Made"
+        },
+        {
+          "song_slug": "please",
+          "song_name": "Please"
+        },
+        {
+          "song_slug": "starfuckers-inc",
+          "song_name": "Starfuckers, Inc"
+        },
+        {
+          "song_slug": "complication",
+          "song_name": "Complication"
+        },
+        {
+          "song_slug": "newflesh",
+          "song_name": "The New Flesh"
+        },
+        {
+          "song_slug": "im-loking-forward-to-joining-you-finally",
+          "song_name": "I'm Looking Forward To Joining You, Finally"
+        },
+        {
+          "song_slug": "the-big-come-down",
+          "song_name": "The Big Come Down"
+        },
+        {
+          "song_slug": "underneath-it-all",
+          "song_name": "Underneath It All"
+        },
+        {
+          "song_slug": "ripe-with-decay",
+          "song_name": "Ripe (With Decay)"
+        }
+      ]
+    },
+    "were-in-this-together": {
+      "slug": "were-in-this-together",
+      "year": 1999,
+      "type": "single",
+      "era_group": "The Fragile",
+      "tracks": [
+        {
+          "song_slug": "were-in-this-together",
+          "song_name": "We're In This Together"
+        },
+        {
+          "song_slug": "10-miles-high",
+          "song_name": "10 Miles High"
+        },
+        {
+          "song_slug": "newflesh",
+          "song_name": "The New Flesh"
+        }
+      ]
+    },
+    "lara-croft-tomb-raider-music-from-the-motion-picture": {
+      "slug": "lara-croft-tomb-raider-music-from-the-motion-picture",
+      "year": 2001,
+      "type": "soundtrack",
+      "era_group": "The Fragile",
+      "tracks": [
+        {
+          "song_slug": "deep",
+          "song_name": "Deep"
+        }
+      ]
+    },
+    "still": {
+      "slug": "still",
+      "year": 2002,
+      "type": "live",
+      "era_group": "The Fragile",
+      "tracks": [
+        {
+          "song_slug": "something-i-can-never-have",
+          "song_name": "Something I Can Never Have"
+        },
+        {
+          "song_slug": "adrift-and-at-peace",
+          "song_name": "Adrift And At Peace"
+        },
+        {
+          "song_slug": "the-fragile",
+          "song_name": "The Fragile"
+        },
+        {
+          "song_slug": "the-becoming",
+          "song_name": "The Becoming"
+        },
+        {
+          "song_slug": "gonestill",
+          "song_name": "Gone, Still"
+        },
+        {
+          "song_slug": "the-day-the-world-went-away",
+          "song_name": "The Day The World Went Away"
+        },
+        {
+          "song_slug": "and-all-that-could-have-been",
+          "song_name": "And All That Could Have Been"
+        },
+        {
+          "song_slug": "the-persistence-of-loss",
+          "song_name": "The Persistence Of Loss"
+        },
+        {
+          "song_slug": "leaving-hope",
+          "song_name": "Leaving Hope"
+        }
+      ]
+    },
+    "with-teeth": {
+      "slug": "with-teeth",
+      "year": 2005,
+      "type": "studio",
+      "era_group": "With Teeth",
+      "tracks": [
+        {
+          "song_slug": "all-the-love-in-the-world",
+          "song_name": "All The Love In The World"
+        },
+        {
+          "song_slug": "you-know-what-you-are",
+          "song_name": "You Know What You Are?"
+        },
+        {
+          "song_slug": "the-collector",
+          "song_name": "The Collector"
+        },
+        {
+          "song_slug": "the-hand-that-feeds",
+          "song_name": "The Hand That Feeds"
+        },
+        {
+          "song_slug": "love-is-not-enough",
+          "song_name": "Love Is Not Enough"
+        },
+        {
+          "song_slug": "every-day-is-exactly-the-same",
+          "song_name": "Every Day Is Exactly The Same"
+        },
+        {
+          "song_slug": "with-teeth",
+          "song_name": "With Teeth"
+        },
+        {
+          "song_slug": "only",
+          "song_name": "Only"
+        },
+        {
+          "song_slug": "getting-smaller",
+          "song_name": "Getting Smaller"
+        },
+        {
+          "song_slug": "sunspots",
+          "song_name": "Sunspots"
+        },
+        {
+          "song_slug": "home",
+          "song_name": "Home"
+        },
+        {
+          "song_slug": "the-line-begins-to-blur",
+          "song_name": "The Line Begins To Blur"
+        },
+        {
+          "song_slug": "beside-you-in-time",
+          "song_name": "Beside You In Time"
+        },
+        {
+          "song_slug": "right-where-it-belongs",
+          "song_name": "Right Where It Belongs"
+        }
+      ]
+    },
+    "year-zero": {
+      "slug": "year-zero",
+      "year": 2007,
+      "type": "studio",
+      "era_group": "Year Zero",
+      "tracks": [
+        {
+          "song_slug": "hyperpower",
+          "song_name": "Hyperpower!"
+        },
+        {
+          "song_slug": "the-beginning-of-the-end",
+          "song_name": "The Beginning Of The End"
+        },
+        {
+          "song_slug": "survivalism",
+          "song_name": "Survivalism"
+        },
+        {
+          "song_slug": "the-good-soldier",
+          "song_name": "The Good Soldier"
+        },
+        {
+          "song_slug": "vessel",
+          "song_name": "Vessel"
+        },
+        {
+          "song_slug": "me-im-not",
+          "song_name": "Me, I'm Not"
+        },
+        {
+          "song_slug": "capital-g",
+          "song_name": "Capital G"
+        },
+        {
+          "song_slug": "my-violent-heart",
+          "song_name": "My Violent Heart"
+        },
+        {
+          "song_slug": "the-warning",
+          "song_name": "The Warning"
+        },
+        {
+          "song_slug": "god-given",
+          "song_name": "God Given"
+        },
+        {
+          "song_slug": "meet-your-master",
+          "song_name": "Meet Your Master"
+        },
+        {
+          "song_slug": "the-greater-good",
+          "song_name": "The Greater Good"
+        },
+        {
+          "song_slug": "the-great-destroyer",
+          "song_name": "The Great Destroyer"
+        },
+        {
+          "song_slug": "another-version-of-the-truth",
+          "song_name": "Another Version Of The Truth"
+        },
+        {
+          "song_slug": "in-this-twilight",
+          "song_name": "In This Twilight"
+        },
+        {
+          "song_slug": "zero-sum",
+          "song_name": "Zero-Sum"
+        }
+      ]
+    },
+    "ghosts-i-iv": {
+      "slug": "ghosts-i-iv",
+      "year": 2008,
+      "type": "studio",
+      "era_group": "Ghosts",
+      "tracks": [
+        {
+          "song_slug": "ghosts1",
+          "song_name": "01 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts2",
+          "song_name": "02 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts3",
+          "song_name": "03 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts4",
+          "song_name": "04 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts5",
+          "song_name": "05 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts6",
+          "song_name": "06 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts7",
+          "song_name": "07 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts8",
+          "song_name": "08 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts9",
+          "song_name": "09 Ghosts I"
+        },
+        {
+          "song_slug": "ghosts10",
+          "song_name": "10 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts11",
+          "song_name": "11 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts12",
+          "song_name": "12 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts13",
+          "song_name": "13 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts14",
+          "song_name": "14 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts15",
+          "song_name": "15 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts16",
+          "song_name": "16 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts17",
+          "song_name": "17 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts18",
+          "song_name": "18 Ghosts II"
+        },
+        {
+          "song_slug": "ghosts19",
+          "song_name": "19 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts20",
+          "song_name": "20 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts21",
+          "song_name": "21 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts22",
+          "song_name": "22 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts23",
+          "song_name": "23 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts24",
+          "song_name": "24 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts25",
+          "song_name": "25 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts26",
+          "song_name": "26 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts27",
+          "song_name": "27 Ghosts III"
+        },
+        {
+          "song_slug": "ghosts28",
+          "song_name": "28 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts29",
+          "song_name": "29 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts30",
+          "song_name": "30 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts31",
+          "song_name": "31 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts32",
+          "song_name": "32 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts33",
+          "song_name": "33 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts34",
+          "song_name": "34 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts35",
+          "song_name": "35 Ghosts IV"
+        },
+        {
+          "song_slug": "ghosts36",
+          "song_name": "36 Ghosts IV"
+        }
+      ]
+    },
+    "the-slip": {
+      "slug": "the-slip",
+      "year": 2008,
+      "type": "studio",
+      "era_group": "The Slip",
+      "tracks": [
+        {
+          "song_slug": "999999",
+          "song_name": "999,999"
+        },
+        {
+          "song_slug": "1000000",
+          "song_name": "1,000,000"
+        },
+        {
+          "song_slug": "letting-you",
+          "song_name": "Letting You"
+        },
+        {
+          "song_slug": "discipline",
+          "song_name": "Discipline"
+        },
+        {
+          "song_slug": "echoplex",
+          "song_name": "Echoplex"
+        },
+        {
+          "song_slug": "head-down",
+          "song_name": "Head Down"
+        },
+        {
+          "song_slug": "lights-in-the-sky",
+          "song_name": "Lights In The Sky"
+        },
+        {
+          "song_slug": "corona-radiata",
+          "song_name": "Corona Radiata"
+        },
+        {
+          "song_slug": "the-four-of-us-are-dying",
+          "song_name": "The Four Of Us Are Dying"
+        },
+        {
+          "song_slug": "demon-seed",
+          "song_name": "Demon Seed"
+        }
+      ]
+    },
+    "ninja-2009-summer-tour-ep": {
+      "slug": "ninja-2009-summer-tour-ep",
+      "year": 2009,
+      "type": "ep",
+      "era_group": "The Slip",
+      "tracks": [
+        {
+          "song_slug": "not-so-pretty-now",
+          "song_name": "Not So Pretty Now"
+        },
+        {
+          "song_slug": "nonentity",
+          "song_name": "Non-Entity"
+        }
+      ]
+    },
+    "hesitation-marks": {
+      "slug": "hesitation-marks",
+      "year": 2013,
+      "type": "studio",
+      "era_group": "Hesitation Marks",
+      "tracks": [
+        {
+          "song_slug": "eater-of-dreams",
+          "song_name": "Eater Of Dreams"
+        },
+        {
+          "song_slug": "copy-of-a",
+          "song_name": "Copy Of A"
+        },
+        {
+          "song_slug": "came-back-haunted",
+          "song_name": "Came Back Haunted"
+        },
+        {
+          "song_slug": "find-my-way",
+          "song_name": "Find My Way"
+        },
+        {
+          "song_slug": "all-time-low",
+          "song_name": "All Time Low"
+        },
+        {
+          "song_slug": "disappointed",
+          "song_name": "Disappointed"
+        },
+        {
+          "song_slug": "everything",
+          "song_name": "Everything"
+        },
+        {
+          "song_slug": "satellite",
+          "song_name": "Satellite"
+        },
+        {
+          "song_slug": "various-methods-of-escape",
+          "song_name": "Various Methods Of Escape"
+        },
+        {
+          "song_slug": "running",
+          "song_name": "Running"
+        },
+        {
+          "song_slug": "i-would-for-you",
+          "song_name": "I Would For You"
+        },
+        {
+          "song_slug": "in-two",
+          "song_name": "In Two"
+        },
+        {
+          "song_slug": "while-im-still-here",
+          "song_name": "While I'm Still Here"
+        },
+        {
+          "song_slug": "blacknoise",
+          "song_name": "Black Noise"
+        }
+      ]
+    },
+    "not-the-actual-events": {
+      "slug": "not-the-actual-events",
+      "year": 2016,
+      "type": "ep",
+      "era_group": "Trilogy",
+      "tracks": [
+        {
+          "song_slug": "branches-bones",
+          "song_name": "Branches/Bones"
+        },
+        {
+          "song_slug": "dear-world",
+          "song_name": "Dear World,"
+        },
+        {
+          "song_slug": "shes-gone-away",
+          "song_name": "She's Gone Away"
+        },
+        {
+          "song_slug": "the-idea-of-you",
+          "song_name": "The Idea of You"
+        },
+        {
+          "song_slug": "burning-bright-field-on-fire",
+          "song_name": "Burning Bright (Field On Fire)"
+        }
+      ]
+    },
+    "add-violence": {
+      "slug": "add-violence",
+      "year": 2017,
+      "type": "ep",
+      "era_group": "Trilogy",
+      "tracks": [
+        {
+          "song_slug": "less-than",
+          "song_name": "Less Than"
+        },
+        {
+          "song_slug": "the-lovers",
+          "song_name": "The Lovers"
+        },
+        {
+          "song_slug": "this-isnt-the-place",
+          "song_name": "This Isn't The Place"
+        },
+        {
+          "song_slug": "not-anymore",
+          "song_name": "Not Anymore"
+        },
+        {
+          "song_slug": "backgroundworld",
+          "song_name": "The Background World"
+        }
+      ]
+    },
+    "bad-witch": {
+      "slug": "bad-witch",
+      "year": 2018,
+      "type": "ep",
+      "era_group": "Trilogy",
+      "tracks": [
+        {
+          "song_slug": "shit-mirror",
+          "song_name": "Shit Mirror"
+        },
+        {
+          "song_slug": "ahead-of-ourselves",
+          "song_name": "Ahead Of Ourselves"
+        },
+        {
+          "song_slug": "play-the-goddamn-part",
+          "song_name": "Play The Goddamned Part"
+        },
+        {
+          "song_slug": "god-break-down-the-door",
+          "song_name": "God Break Down The Door"
+        },
+        {
+          "song_slug": "im-not-from-this-world",
+          "song_name": "I'm Not From This World"
+        },
+        {
+          "song_slug": "overandout",
+          "song_name": "Over And Out"
+        }
+      ]
+    },
+    "isnt-everyone": {
+      "slug": "isnt-everyone",
+      "year": 2021,
+      "type": "single",
+      "era_group": "Peel It Back",
+      "tracks": [
+        {
+          "song_slug": "isnt-everyone",
+          "song_name": "ISN'T EVERYONE"
+        }
+      ]
+    },
+    "tron-ares": {
+      "slug": "tron-ares",
+      "year": 2025,
+      "type": "soundtrack",
+      "era_group": "Peel It Back",
+      "tracks": [
+        {
+          "song_slug": "init",
+          "song_name": "Init"
+        },
+        {
+          "song_slug": "forked-reality",
+          "song_name": "Forked Reality"
+        },
+        {
+          "song_slug": "as-alive-as-you-need-me-to-be",
+          "song_name": "As Alive As You Need Me To Be"
+        },
+        {
+          "song_slug": "echoes",
+          "song_name": "Echoes"
+        },
+        {
+          "song_slug": "this-changes-everything",
+          "song_name": "This Changes Everything"
+        },
+        {
+          "song_slug": "in-the-image-of",
+          "song_name": "In The Image Of"
+        },
+        {
+          "song_slug": "i-know-you-can-feel-it",
+          "song_name": "I Know You Can Feel It"
+        },
+        {
+          "song_slug": "permanence",
+          "song_name": "Permanence"
+        },
+        {
+          "song_slug": "infiltrator",
+          "song_name": "Infiltrator"
+        },
+        {
+          "song_slug": "100-expendable",
+          "song_name": "100% Expendable"
+        },
+        {
+          "song_slug": "still-remains",
+          "song_name": "Still Remains"
+        },
+        {
+          "song_slug": "who-wants-to-live-forever",
+          "song_name": "Who Wants To Live Forever"
+        },
+        {
+          "song_slug": "building-better-worlds",
+          "song_name": "Building Better Worlds"
+        },
+        {
+          "song_slug": "target-identified",
+          "song_name": "Target Identified"
+        },
+        {
+          "song_slug": "daemonize",
+          "song_name": "Daemonize"
+        },
+        {
+          "song_slug": "empathetic-response",
+          "song_name": "Empathetic Response"
+        },
+        {
+          "song_slug": "what-have-you-done",
+          "song_name": "What Have You Done?"
+        },
+        {
+          "song_slug": "a-question-of-trust",
+          "song_name": "A Question Of Trust"
+        },
+        {
+          "song_slug": "ghost-in-the-machine",
+          "song_name": "Ghost In The Machine"
+        },
+        {
+          "song_slug": "no-going-back",
+          "song_name": "No Going Back"
+        },
+        {
+          "song_slug": "nemesis",
+          "song_name": "Nemesis"
+        },
+        {
+          "song_slug": "new-directive",
+          "song_name": "New Directive"
+        },
+        {
+          "song_slug": "out-in-the-world",
+          "song_name": "Out In The World"
+        },
+        {
+          "song_slug": "shadow-over-me",
+          "song_name": "Shadow Over Me"
+        }
+      ]
+    }
+  },
+  "song_to_album": {
+    "down-in-it-skin": {
+      "album_slug": "down-in-it",
+      "album_year": 1989,
+      "album_type": "single",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "down-in-it-shred": {
+      "album_slug": "down-in-it",
+      "album_year": 1989,
+      "album_type": "single",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "down-in-it": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "head-like-a-hole": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "terrible-lie": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "sanctified": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "something-i-can-never-have": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "kinda-i-want-to": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "sin": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "thats-what-i-get": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "only-time": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ringfinger": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "get-down-make-love": {
+      "album_slug": "pretty-hate-machine",
+      "album_year": 1989,
+      "album_type": "studio",
+      "era_group": "Pretty Hate Machine",
+      "is_cover": true,
+      "cover_artist": "Queen"
+    },
+    "pinion": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "wish": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "last": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "help-me-i-am-in-hell": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "happiness-in-slavery": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "gave-up": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "suck": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": true,
+      "cover_artist": "Pigface"
+    },
+    "physical-youre-so": {
+      "album_slug": "broken",
+      "album_year": 1992,
+      "album_type": "ep",
+      "era_group": "Broken",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "mr-self-destruct": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "piggy": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "heresy": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "march-of-the-pigs": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "closer": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ruiner": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-becoming": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "i-do-not-want-this": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "big-man-with-a-gun": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "warm-place": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "eraser": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "reptile": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "downward-spiral": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "hurt": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "dead-souls": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": true,
+      "cover_artist": "Joy Division"
+    },
+    "memorabilia": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": true,
+      "cover_artist": "Soft Cell"
+    },
+    "burn": {
+      "album_slug": "the-downward-spiral",
+      "album_year": 1994,
+      "album_type": "studio",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "closer-to-god": {
+      "album_slug": "closer-to-god",
+      "album_year": 1994,
+      "album_type": "single",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-perfect-drug": {
+      "album_slug": "the-perfect-drug",
+      "album_year": 1997,
+      "album_type": "single",
+      "era_group": "The Downward Spiral",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "somewhat-damaged": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-day-the-world-went-away": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-frail": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "wretched": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "were-in-this-together": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-fragile": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "just-like-you-imagined": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "even-deeper": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "pilgrimage": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "la-mer": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "no-you-dont": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-great-below": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-way-out-is-through": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "into-the-void": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "where-is-everybody": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-mark-has-been-made": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "please": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "starfuckers-inc": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "complication": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "newflesh": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "im-loking-forward-to-joining-you-finally": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-big-come-down": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "underneath-it-all": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ripe-with-decay": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "10-miles-high": {
+      "album_slug": "were-in-this-together",
+      "album_year": 1999,
+      "album_type": "single",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "deep": {
+      "album_slug": "lara-croft-tomb-raider-music-from-the-motion-picture",
+      "album_year": 2001,
+      "album_type": "soundtrack",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "adrift-and-at-peace": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "gonestill": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "and-all-that-could-have-been": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-persistence-of-loss": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "leaving-hope": {
+      "album_slug": "the-fragile",
+      "album_year": 1999,
+      "album_type": "studio",
+      "era_group": "The Fragile",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "all-the-love-in-the-world": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "you-know-what-you-are": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-collector": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-hand-that-feeds": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "love-is-not-enough": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "every-day-is-exactly-the-same": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "with-teeth": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "only": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "getting-smaller": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "sunspots": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "home": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-line-begins-to-blur": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "beside-you-in-time": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "right-where-it-belongs": {
+      "album_slug": "with-teeth",
+      "album_year": 2005,
+      "album_type": "studio",
+      "era_group": "With Teeth",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "hyperpower": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-beginning-of-the-end": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "survivalism": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-good-soldier": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "vessel": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "me-im-not": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "capital-g": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "my-violent-heart": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-warning": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "god-given": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "meet-your-master": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-greater-good": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-great-destroyer": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "another-version-of-the-truth": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "in-this-twilight": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "zero-sum": {
+      "album_slug": "year-zero",
+      "album_year": 2007,
+      "album_type": "studio",
+      "era_group": "Year Zero",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts1": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts2": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts3": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts4": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts5": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts6": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts7": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts8": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts9": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts10": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts11": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts12": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts13": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts14": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts15": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts16": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts17": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts18": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts19": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts20": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts21": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts22": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts23": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts24": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts25": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts26": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts27": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts28": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts29": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts30": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts31": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts32": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts33": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts34": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts35": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghosts36": {
+      "album_slug": "ghosts-i-iv",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "Ghosts",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "999999": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "1000000": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "letting-you": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "discipline": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "echoplex": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "head-down": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "lights-in-the-sky": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "corona-radiata": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-four-of-us-are-dying": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "demon-seed": {
+      "album_slug": "the-slip",
+      "album_year": 2008,
+      "album_type": "studio",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "not-so-pretty-now": {
+      "album_slug": "ninja-2009-summer-tour-ep",
+      "album_year": 2009,
+      "album_type": "ep",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "nonentity": {
+      "album_slug": "ninja-2009-summer-tour-ep",
+      "album_year": 2009,
+      "album_type": "ep",
+      "era_group": "The Slip",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "eater-of-dreams": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "copy-of-a": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "came-back-haunted": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "find-my-way": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "all-time-low": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "disappointed": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "everything": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "satellite": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "various-methods-of-escape": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "running": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "i-would-for-you": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "in-two": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "while-im-still-here": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "blacknoise": {
+      "album_slug": "hesitation-marks",
+      "album_year": 2013,
+      "album_type": "studio",
+      "era_group": "Hesitation Marks",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "branches-bones": {
+      "album_slug": "not-the-actual-events",
+      "album_year": 2016,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "dear-world": {
+      "album_slug": "not-the-actual-events",
+      "album_year": 2016,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "shes-gone-away": {
+      "album_slug": "not-the-actual-events",
+      "album_year": 2016,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-idea-of-you": {
+      "album_slug": "not-the-actual-events",
+      "album_year": 2016,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "burning-bright-field-on-fire": {
+      "album_slug": "not-the-actual-events",
+      "album_year": 2016,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "less-than": {
+      "album_slug": "add-violence",
+      "album_year": 2017,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "the-lovers": {
+      "album_slug": "add-violence",
+      "album_year": 2017,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "this-isnt-the-place": {
+      "album_slug": "add-violence",
+      "album_year": 2017,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "not-anymore": {
+      "album_slug": "add-violence",
+      "album_year": 2017,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "backgroundworld": {
+      "album_slug": "add-violence",
+      "album_year": 2017,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "shit-mirror": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ahead-of-ourselves": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "play-the-goddamn-part": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "god-break-down-the-door": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "im-not-from-this-world": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "overandout": {
+      "album_slug": "bad-witch",
+      "album_year": 2018,
+      "album_type": "ep",
+      "era_group": "Trilogy",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "isnt-everyone": {
+      "album_slug": "isnt-everyone",
+      "album_year": 2021,
+      "album_type": "single",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "init": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "forked-reality": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "as-alive-as-you-need-me-to-be": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "echoes": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "this-changes-everything": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "in-the-image-of": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "i-know-you-can-feel-it": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "permanence": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "infiltrator": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "100-expendable": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "still-remains": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "who-wants-to-live-forever": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "building-better-worlds": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "target-identified": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "daemonize": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "empathetic-response": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "what-have-you-done": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "a-question-of-trust": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "ghost-in-the-machine": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "no-going-back": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "nemesis": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "new-directive": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "out-in-the-world": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "shadow-over-me": {
+      "album_slug": "tron-ares",
+      "album_year": 2025,
+      "album_type": "soundtrack",
+      "era_group": "Peel It Back",
+      "is_cover": false,
+      "cover_artist": null
+    },
+    "supernaut": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Black Sabbath"
+    },
+    "physical": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Adam Ant"
+    },
+    "metal": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Gary Numan"
+    },
+    "im-afraid-of-americans": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "David Bowie"
+    },
+    "a-minute-to-breathe": {
+      "album_slug": "cover",
+      "album_year": null,
+      "album_type": "cover",
+      "era_group": "Covers",
+      "is_cover": true,
+      "cover_artist": "Trent Reznor and Atticus Ross"
+    }
+  },
+  "known_covers": {
+    "get-down-make-love": {
+      "cover_artist": "Queen",
+      "original_year": 1977
+    },
+    "supernaut": {
+      "cover_artist": "Black Sabbath",
+      "original_year": 1972
+    },
+    "physical": {
+      "cover_artist": "Adam Ant",
+      "original_year": 1981
+    },
+    "suck": {
+      "cover_artist": "Pigface",
+      "original_year": 1991
+    },
+    "metal": {
+      "cover_artist": "Gary Numan",
+      "original_year": 1979
+    },
+    "dead-souls": {
+      "cover_artist": "Joy Division",
+      "original_year": 1980
+    },
+    "memorabilia": {
+      "cover_artist": "Soft Cell",
+      "original_year": 1981
+    },
+    "im-afraid-of-americans": {
+      "cover_artist": "David Bowie",
+      "original_year": 1997
+    },
+    "a-minute-to-breathe": {
+      "cover_artist": "Trent Reznor and Atticus Ross",
+      "original_year": 2013
+    }
+  }
+}

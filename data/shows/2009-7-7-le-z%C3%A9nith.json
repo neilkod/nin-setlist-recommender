@@ -1,0 +1,230 @@
+{
+  "id": "2009-7-7-le-z%C3%A9nith",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-7-7-le-z%C3%A9nith",
+  "date": "2009-07-07",
+  "venue": "Le Zénith",
+  "venue_slug": "le-z%C3%A9nith-paris",
+  "city": "Paris",
+  "state": "",
+  "country": "France",
+  "tour": "European + Pacific Festivals",
+  "era_slug": "european-pacific-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Gone, Still",
+      "slug": "gonestill",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Physical (You're So)",
+      "slug": "physical-youre-so",
+      "section": "Main Set",
+      "notes": "(Adam Ant cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:22:00.274855Z",
+  "features": {
+    "nostalgia_score": 0.6175,
+    "avg_song_age_at_show": 12.3,
+    "album_distribution": {
+      "the-fragile": 0.2857,
+      "the-downward-spiral": 0.2857,
+      "broken": 0.1429,
+      "pretty-hate-machine": 0.0952,
+      "cover": 0.0476,
+      "ninja-2009-summer-tour-ep": 0.0476,
+      "year-zero": 0.0476,
+      "with-teeth": 0.0476
+    },
+    "era_distribution": {
+      "The Fragile": 0.2857,
+      "The Downward Spiral": 0.2857,
+      "Broken": 0.1429,
+      "Pretty Hate Machine": 0.0952,
+      "Covers": 0.0476,
+      "The Slip": 0.0476,
+      "Year Zero": 0.0476,
+      "With Teeth": 0.0476
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.6831,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 5,
+    "n_album_track": 5,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 2,
+    "cover_fraction": 0.0952,
+    "special_notes_count": 2,
+    "special_fraction": 0.0952,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

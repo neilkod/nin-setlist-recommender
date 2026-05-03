@@ -1,0 +1,114 @@
+{
+  "id": "1991-1-31-universal-amphitheatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1991-1-31-universal-amphitheatre",
+  "date": "1991-01-31",
+  "venue": "Universal Amphitheatre (Opening for Jane's Addiction)",
+  "venue_slug": "universal-amphitheatre-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Sin",
+  "era_slug": "sin",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 5,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 6,
+      "song": "Ringfinger",
+      "slug": "ringfinger",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 8,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:59:00.520205Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 2,
+    "album_distribution": {
+      "pretty-hate-machine": 0.875,
+      "broken": 0.125
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.875,
+      "Broken": 0.125
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.686,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 3,
+    "n_familiar": 2,
+    "n_staple": 2,
+    "cover_count": 2,
+    "cover_fraction": 0.25,
+    "special_notes_count": 2,
+    "special_fraction": 0.25,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 8,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

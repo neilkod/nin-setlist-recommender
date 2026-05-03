@@ -1,0 +1,208 @@
+{
+  "id": "2005-5-21-tabernacle",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-5-21-tabernacle",
+  "date": "2005-05-21",
+  "venue": "Tabernacle",
+  "venue_slug": "tabernacle-atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "United States",
+  "tour": "Live: With Teeth Club Tour - Spring",
+  "era_slug": "live-with-teeth-club-tour-spring",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Starfuckers, Inc",
+      "slug": "starfuckers-inc",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:09:25.365193Z",
+  "features": {
+    "nostalgia_score": 0.566,
+    "avg_song_age_at_show": 9.1,
+    "album_distribution": {
+      "the-downward-spiral": 0.2632,
+      "pretty-hate-machine": 0.2105,
+      "with-teeth": 0.2105,
+      "the-fragile": 0.1579,
+      "broken": 0.1579
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2632,
+      "Pretty Hate Machine": 0.2105,
+      "With Teeth": 0.2105,
+      "The Fragile": 0.1579,
+      "Broken": 0.1579
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.5853,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 6,
+    "n_staple": 8,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 1,
+    "special_fraction": 0.0526,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

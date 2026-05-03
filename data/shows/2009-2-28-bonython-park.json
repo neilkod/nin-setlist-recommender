@@ -1,0 +1,221 @@
+{
+  "id": "2009-2-28-bonython-park",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-2-28-bonython-park",
+  "date": "2009-02-28",
+  "venue": "Bonython Park (Soundwave Festival)",
+  "venue_slug": "bonython-park-adelaide",
+  "city": "Adelaide",
+  "state": "SA",
+  "country": "Australia",
+  "tour": "Australia Tour",
+  "era_slug": "australia-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Head Down",
+      "slug": "head-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "(with Dillinger Escape Plan )",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:20:36.907470Z",
+  "features": {
+    "nostalgia_score": 0.5237,
+    "avg_song_age_at_show": 10.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.25,
+      "the-slip": 0.2,
+      "pretty-hate-machine": 0.15,
+      "broken": 0.15,
+      "the-fragile": 0.1,
+      "year-zero": 0.05,
+      "ninja-2009-summer-tour-ep": 0.05,
+      "with-teeth": 0.05
+    },
+    "era_distribution": {
+      "The Slip": 0.25,
+      "The Downward Spiral": 0.25,
+      "Pretty Hate Machine": 0.15,
+      "Broken": 0.15,
+      "The Fragile": 0.1,
+      "Year Zero": 0.05,
+      "With Teeth": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Slip",
+    "avg_rarity_score": 0.6512,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 3,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 2,
+    "special_fraction": 0.1,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

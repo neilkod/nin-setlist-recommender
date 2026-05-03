@@ -1,0 +1,232 @@
+{
+  "id": "2018-12-8-the-palladium",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-12-8-the-palladium",
+  "date": "2018-12-08",
+  "venue": "The Palladium",
+  "venue_slug": "the-palladium-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "I Can't Give Everything Away",
+      "slug": "i-cant-give-everything-away",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "Subterraneans",
+      "slug": "subterraneans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "The Background World",
+      "slug": "backgroundworld",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:40.277822Z",
+  "features": {
+    "nostalgia_score": 0.5535,
+    "avg_song_age_at_show": 16.1,
+    "album_distribution": {
+      "the-fragile": 0.2857,
+      "add-violence": 0.1429,
+      "pretty-hate-machine": 0.0952,
+      "year-zero": 0.0952,
+      "the-downward-spiral": 0.0952,
+      "unknown": 0.0952,
+      "broken": 0.0476,
+      "the-perfect-drug": 0.0476,
+      "with-teeth": 0.0476,
+      "bad-witch": 0.0476
+    },
+    "era_distribution": {
+      "The Fragile": 0.2857,
+      "Trilogy": 0.1905,
+      "The Downward Spiral": 0.1429,
+      "Pretty Hate Machine": 0.0952,
+      "Year Zero": 0.0952,
+      "Unknown": 0.0952,
+      "Broken": 0.0476,
+      "With Teeth": 0.0476
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7706,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 6,
+    "n_deep_cut": 0,
+    "n_album_track": 7,
+    "n_familiar": 5,
+    "n_staple": 3,
+    "cover_count": 2,
+    "cover_fraction": 0.0952,
+    "special_notes_count": 2,
+    "special_fraction": 0.0952,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

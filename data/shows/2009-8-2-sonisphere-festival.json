@@ -1,0 +1,145 @@
+{
+  "id": "2009-8-2-sonisphere-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-8-2-sonisphere-festival",
+  "date": "2009-08-02",
+  "venue": "Sonisphere Festival",
+  "venue_slug": "sonisphere-festival-knebworth",
+  "city": "Knebworth",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "European + Pacific Festivals",
+  "era_slug": "european-pacific-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "I Do Not Want This",
+      "slug": "i-do-not-want-this",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Gone, Still",
+      "slug": "gonestill",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Lights In The Sky",
+      "slug": "lights-in-the-sky",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 11,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:22:32.952969Z",
+  "features": {
+    "nostalgia_score": 0.5591,
+    "avg_song_age_at_show": 11.2,
+    "album_distribution": {
+      "the-fragile": 0.3636,
+      "the-downward-spiral": 0.2727,
+      "broken": 0.0909,
+      "pretty-hate-machine": 0.0909,
+      "ninja-2009-summer-tour-ep": 0.0909,
+      "the-slip": 0.0909
+    },
+    "era_distribution": {
+      "The Fragile": 0.3636,
+      "The Downward Spiral": 0.2727,
+      "The Slip": 0.1818,
+      "Broken": 0.0909,
+      "Pretty Hate Machine": 0.0909
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7638,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 3,
+    "n_album_track": 2,
+    "n_familiar": 2,
+    "n_staple": 2,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 11,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

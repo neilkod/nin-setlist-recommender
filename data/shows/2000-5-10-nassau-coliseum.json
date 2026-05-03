@@ -1,0 +1,17 @@
+{
+  "id": "2000-5-10-nassau-coliseum",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2000-5-10-nassau-coliseum",
+  "date": "2000-05-10",
+  "venue": "Nassau Coliseum(cancelled)",
+  "venue_slug": "nassau-coliseum-uniondale",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "United States",
+  "tour": "Fragility Tour 2.0",
+  "era_slug": "fragility-tour-2-0",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:07:35.188957Z"
+}

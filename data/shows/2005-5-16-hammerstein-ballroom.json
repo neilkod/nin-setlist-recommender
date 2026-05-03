@@ -1,0 +1,208 @@
+{
+  "id": "2005-5-16-hammerstein-ballroom",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-5-16-hammerstein-ballroom",
+  "date": "2005-05-16",
+  "venue": "Hammerstein Ballroom",
+  "venue_slug": "hammerstein-ballroom-new-york-city",
+  "city": "New York City",
+  "state": "NY",
+  "country": "United States",
+  "tour": "Live: With Teeth Club Tour - Spring",
+  "era_slug": "live-with-teeth-club-tour-spring",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "You Know What You Are?",
+      "slug": "you-know-what-you-are",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "No, You Don't",
+      "slug": "no-you-dont",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:09:19.668405Z",
+  "features": {
+    "nostalgia_score": 0.5312,
+    "avg_song_age_at_show": 8.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.2632,
+      "with-teeth": 0.2105,
+      "the-fragile": 0.2105,
+      "pretty-hate-machine": 0.1579,
+      "broken": 0.1579
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2632,
+      "With Teeth": 0.2105,
+      "The Fragile": 0.2105,
+      "Pretty Hate Machine": 0.1579,
+      "Broken": 0.1579
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6082,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 5,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 1,
+    "special_fraction": 0.0526,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "2018-7-9-montreux-jazz-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-7-9-montreux-jazz-festival",
+  "date": "2018-07-09",
+  "venue": "Montreux Jazz Festival",
+  "venue_slug": "montreux-jazz-festival-montreux",
+  "city": "Montreux",
+  "state": "",
+  "country": "Switzerland",
+  "tour": "Europe + Asia + Pacific 2018",
+  "era_slug": "europe-asia-pacific-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 12,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover) (with Gary Numan )",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 18,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:28:18.127237Z",
+  "features": {
+    "nostalgia_score": 0.5237,
+    "avg_song_age_at_show": 15.2,
+    "album_distribution": {
+      "the-downward-spiral": 0.2222,
+      "bad-witch": 0.1667,
+      "year-zero": 0.1111,
+      "pretty-hate-machine": 0.1111,
+      "broken": 0.1111,
+      "add-violence": 0.1111,
+      "cover": 0.1111,
+      "with-teeth": 0.0556
+    },
+    "era_distribution": {
+      "Trilogy": 0.2778,
+      "The Downward Spiral": 0.2222,
+      "Year Zero": 0.1111,
+      "Pretty Hate Machine": 0.1111,
+      "Broken": 0.1111,
+      "Covers": 0.1111,
+      "With Teeth": 0.0556
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.688,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 5,
+    "n_album_track": 5,
+    "n_familiar": 2,
+    "n_staple": 6,
+    "cover_count": 2,
+    "cover_fraction": 0.1111,
+    "special_notes_count": 3,
+    "special_fraction": 0.1667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 18,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

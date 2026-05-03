@@ -1,0 +1,118 @@
+{
+  "id": "1995-9-12-meadows-music-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1995-9-12-meadows-music-theatre",
+  "date": "1995-09-12",
+  "venue": "Meadows Music Theatre (Rehearsal)",
+  "venue_slug": "meadows-music-theatre-hartford",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "United States",
+  "tour": "Outside Tour",
+  "era_slug": "outside-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Subterraneans",
+      "slug": "subterraneans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 5,
+      "song": "Scary Monsters",
+      "slug": "scary-monsters",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) (with David Bowie )",
+      "is_cover": true
+    },
+    {
+      "position": 6,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Hallo Spaceboy",
+      "slug": "hallo-spaceboy",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) (with David Bowie )",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 8,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:04:42.172531Z",
+  "features": {
+    "nostalgia_score": 0.4,
+    "avg_song_age_at_show": 2.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.375,
+      "unknown": 0.375,
+      "broken": 0.125,
+      "pretty-hate-machine": 0.125
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.375,
+      "Unknown": 0.375,
+      "Broken": 0.125,
+      "Pretty Hate Machine": 0.125
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7217,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 0,
+    "n_album_track": 2,
+    "n_familiar": 1,
+    "n_staple": 2,
+    "cover_count": 3,
+    "cover_fraction": 0.375,
+    "special_notes_count": 3,
+    "special_fraction": 0.375,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 8,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

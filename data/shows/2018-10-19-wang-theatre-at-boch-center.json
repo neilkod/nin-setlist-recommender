@@ -1,0 +1,226 @@
+{
+  "id": "2018-10-19-wang-theatre-at-boch-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-10-19-wang-theatre-at-boch-center",
+  "date": "2018-10-19",
+  "venue": "Wang Theatre at Boch Center",
+  "venue_slug": "wang-theatre-at-boch-center-boston",
+  "city": "Boston",
+  "state": "MA",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Over And Out",
+      "slug": "overandout",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:02.985812Z",
+  "features": {
+    "nostalgia_score": 0.5281,
+    "avg_song_age_at_show": 15.3,
+    "album_distribution": {
+      "the-downward-spiral": 0.3,
+      "broken": 0.1,
+      "year-zero": 0.1,
+      "with-teeth": 0.1,
+      "bad-witch": 0.1,
+      "not-the-actual-events": 0.05,
+      "the-slip": 0.05,
+      "add-violence": 0.05,
+      "hesitation-marks": 0.05,
+      "cover": 0.05,
+      "pretty-hate-machine": 0.05
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3,
+      "Trilogy": 0.2,
+      "Broken": 0.1,
+      "Year Zero": 0.1,
+      "With Teeth": 0.1,
+      "The Slip": 0.05,
+      "Hesitation Marks": 0.05,
+      "Covers": 0.05,
+      "Pretty Hate Machine": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7576,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 4,
+    "n_deep_cut": 1,
+    "n_album_track": 8,
+    "n_familiar": 3,
+    "n_staple": 4,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 2,
+    "special_fraction": 0.1,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

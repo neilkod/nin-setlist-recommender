@@ -1,0 +1,232 @@
+{
+  "id": "2022-9-13-santa-barbara-bowl",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-9-13-santa-barbara-bowl",
+  "date": "2022-09-13",
+  "venue": "Santa Barbara Bowl",
+  "venue_slug": "santa-barbara-bowl-santa-barbara",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "country": "United States",
+  "tour": "US Fall 2022",
+  "era_slug": "us-fall-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:29.616771Z",
+  "features": {
+    "nostalgia_score": 0.6864,
+    "avg_song_age_at_show": 22.6,
+    "album_distribution": {
+      "the-downward-spiral": 0.3333,
+      "broken": 0.1429,
+      "the-fragile": 0.1429,
+      "add-violence": 0.0952,
+      "bad-witch": 0.0476,
+      "hesitation-marks": 0.0476,
+      "the-perfect-drug": 0.0476,
+      "cover": 0.0476,
+      "with-teeth": 0.0476,
+      "pretty-hate-machine": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.381,
+      "Broken": 0.1429,
+      "Trilogy": 0.1429,
+      "The Fragile": 0.1429,
+      "Hesitation Marks": 0.0476,
+      "Covers": 0.0476,
+      "With Teeth": 0.0476,
+      "Pretty Hate Machine": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6633,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 3,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0476,
+    "special_notes_count": 2,
+    "special_fraction": 0.0952,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

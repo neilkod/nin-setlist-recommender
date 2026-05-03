@@ -1,0 +1,204 @@
+{
+  "id": "2014-7-29-xfinity-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-7-29-xfinity-center",
+  "date": "2014-07-29",
+  "venue": "XFINITY Center",
+  "venue_slug": "xfinity-center-mansfield",
+  "city": "Mansfield",
+  "state": "MA",
+  "country": "United States",
+  "tour": "NIN + Soundgarden (USA+Canada)",
+  "era_slug": "nin-soundgarden-usa-canada",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 18,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:26:55.696695Z",
+  "features": {
+    "nostalgia_score": 0.5644,
+    "avg_song_age_at_show": 14.1,
+    "album_distribution": {
+      "the-downward-spiral": 0.2778,
+      "hesitation-marks": 0.2222,
+      "pretty-hate-machine": 0.1667,
+      "broken": 0.1111,
+      "with-teeth": 0.1111,
+      "the-slip": 0.0556,
+      "year-zero": 0.0556
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2778,
+      "Hesitation Marks": 0.2222,
+      "Pretty Hate Machine": 0.1667,
+      "Broken": 0.1111,
+      "With Teeth": 0.1111,
+      "The Slip": 0.0556,
+      "Year Zero": 0.0556
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6122,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 8,
+    "n_familiar": 2,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 18,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

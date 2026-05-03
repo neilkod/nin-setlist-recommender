@@ -1,0 +1,216 @@
+{
+  "id": "2014-4-3-festival-estereo-picnic",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-4-3-festival-estereo-picnic",
+  "date": "2014-04-03",
+  "venue": "Festival Estereo Picnic",
+  "venue_slug": "festival-estereo-picnic-bogota",
+  "city": "Bogota",
+  "state": "",
+  "country": "Colombia",
+  "tour": "Latin America",
+  "era_slug": "latin-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Hand Covers Bruise",
+      "slug": "hand-covers-bruise",
+      "section": "Main Set",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "Beside You In Time",
+      "slug": "beside-you-in-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:48.313852Z",
+  "features": {
+    "nostalgia_score": 0.5689,
+    "avg_song_age_at_show": 14.2,
+    "album_distribution": {
+      "year-zero": 0.1579,
+      "pretty-hate-machine": 0.1579,
+      "the-downward-spiral": 0.1579,
+      "hesitation-marks": 0.1053,
+      "broken": 0.1053,
+      "the-fragile": 0.1053,
+      "with-teeth": 0.1053,
+      "the-slip": 0.0526,
+      "unknown": 0.0526
+    },
+    "era_distribution": {
+      "Year Zero": 0.1579,
+      "Pretty Hate Machine": 0.1579,
+      "The Downward Spiral": 0.1579,
+      "Hesitation Marks": 0.1053,
+      "Broken": 0.1053,
+      "The Fragile": 0.1053,
+      "With Teeth": 0.1053,
+      "The Slip": 0.0526,
+      "Unknown": 0.0526
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.6608,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 2,
+    "n_album_track": 5,
+    "n_familiar": 5,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 1,
+    "special_fraction": 0.0526,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

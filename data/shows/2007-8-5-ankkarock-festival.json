@@ -1,0 +1,192 @@
+{
+  "id": "2007-8-5-ankkarock-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2007-8-5-ankkarock-festival",
+  "date": "2007-08-05",
+  "venue": "Ankkarock Festival",
+  "venue_slug": "ankkarock-festival-vantaa",
+  "city": "Vantaa",
+  "state": "",
+  "country": "Finland",
+  "tour": "European Tour - European Festivals",
+  "era_slug": "european-tour-european-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Hyperpower!",
+      "slug": "hyperpower",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 17,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:16:55.244844Z",
+  "features": {
+    "nostalgia_score": 0.4236,
+    "avg_song_age_at_show": 7.6,
+    "album_distribution": {
+      "year-zero": 0.3529,
+      "the-downward-spiral": 0.2941,
+      "pretty-hate-machine": 0.1176,
+      "broken": 0.1176,
+      "with-teeth": 0.1176
+    },
+    "era_distribution": {
+      "Year Zero": 0.3529,
+      "The Downward Spiral": 0.2941,
+      "Pretty Hate Machine": 0.1176,
+      "Broken": 0.1176,
+      "With Teeth": 0.1176
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.6301,
+    "rarity_tier": "balanced",
+    "n_unicorn": 1,
+    "n_deep_cut": 0,
+    "n_album_track": 6,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0588,
+    "special_notes_count": 1,
+    "special_fraction": 0.0588,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 17,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

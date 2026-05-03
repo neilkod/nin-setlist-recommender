@@ -1,0 +1,196 @@
+{
+  "id": "2014-8-10-cruzan-amphitheatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-8-10-cruzan-amphitheatre",
+  "date": "2014-08-10",
+  "venue": "Cruzan Amphitheatre",
+  "venue_slug": "cruzan-amphitheatre-west-palm-beach",
+  "city": "West Palm Beach",
+  "state": "FL",
+  "country": "United States",
+  "tour": "NIN + Soundgarden (USA+Canada)",
+  "era_slug": "nin-soundgarden-usa-canada",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 17,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:27:11.350355Z",
+  "features": {
+    "nostalgia_score": 0.5765,
+    "avg_song_age_at_show": 14.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.2941,
+      "hesitation-marks": 0.2353,
+      "pretty-hate-machine": 0.1765,
+      "broken": 0.1176,
+      "the-slip": 0.0588,
+      "year-zero": 0.0588,
+      "with-teeth": 0.0588
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2941,
+      "Hesitation Marks": 0.2353,
+      "Pretty Hate Machine": 0.1765,
+      "Broken": 0.1176,
+      "The Slip": 0.0588,
+      "Year Zero": 0.0588,
+      "With Teeth": 0.0588
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6003,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 8,
+    "n_familiar": 1,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 17,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

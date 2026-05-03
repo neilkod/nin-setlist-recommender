@@ -1,0 +1,224 @@
+{
+  "id": "2014-2-26-studio-coast",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-2-26-studio-coast",
+  "date": "2014-02-26",
+  "venue": "Studio Coast",
+  "venue_slug": "studio-coast-tokyo",
+  "city": "Tokyo",
+  "state": "",
+  "country": "Japan",
+  "tour": "Japan",
+  "era_slug": "japan",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Vessel",
+      "slug": "vessel",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "31 Ghosts IV",
+      "slug": "ghosts31",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Ice Age",
+      "slug": "ice-age",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "BBB",
+      "slug": "bbb",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:17.158778Z",
+  "features": {
+    "nostalgia_score": 0.6222,
+    "avg_song_age_at_show": 15.6,
+    "album_distribution": {
+      "the-downward-spiral": 0.25,
+      "the-fragile": 0.15,
+      "the-slip": 0.1,
+      "pretty-hate-machine": 0.1,
+      "year-zero": 0.1,
+      "broken": 0.1,
+      "unknown": 0.1,
+      "ghosts-i-iv": 0.05,
+      "with-teeth": 0.05
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.25,
+      "The Fragile": 0.15,
+      "The Slip": 0.1,
+      "Pretty Hate Machine": 0.1,
+      "Year Zero": 0.1,
+      "Broken": 0.1,
+      "Unknown": 0.1,
+      "Ghosts": 0.05,
+      "With Teeth": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6356,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 2,
+    "n_album_track": 3,
+    "n_familiar": 6,
+    "n_staple": 7,
+    "cover_count": 2,
+    "cover_fraction": 0.1,
+    "special_notes_count": 2,
+    "special_fraction": 0.1,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

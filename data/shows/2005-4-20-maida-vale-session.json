@@ -1,0 +1,74 @@
+{
+  "id": "2005-4-20-maida-vale-session",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-4-20-maida-vale-session",
+  "date": "2005-04-20",
+  "venue": "Maida Vale Session (FM Broadcast)",
+  "venue_slug": "maida-vale-session-london",
+  "city": "London",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Live: With Teeth Club Tour - Spring",
+  "era_slug": "live-with-teeth-club-tour-spring",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 3,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:08:52.681585Z",
+  "features": {
+    "nostalgia_score": 0.2292,
+    "avg_song_age_at_show": 3.7,
+    "album_distribution": {
+      "with-teeth": 0.6667,
+      "the-downward-spiral": 0.3333
+    },
+    "era_distribution": {
+      "With Teeth": 0.6667,
+      "The Downward Spiral": 0.3333
+    },
+    "primary_album": "with-teeth",
+    "primary_era": "With Teeth",
+    "avg_rarity_score": 0.585,
+    "rarity_tier": "hits-heavy",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 0,
+    "n_familiar": 0,
+    "n_staple": 2,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 3,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

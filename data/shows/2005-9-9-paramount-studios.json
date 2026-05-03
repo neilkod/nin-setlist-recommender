@@ -1,0 +1,76 @@
+{
+  "id": "2005-9-9-paramount-studios",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-9-9-paramount-studios",
+  "date": "2005-09-09",
+  "venue": "Paramount Studios",
+  "venue_slug": "paramount-studios-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Trent Reznor at ReAct Now: Music & Relief",
+  "era_slug": "trent-reznor-at-react-now-music-relief",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "Live Debut",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 3,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:10:42.060030Z",
+  "features": {
+    "nostalgia_score": 0.5312,
+    "avg_song_age_at_show": 8.5,
+    "album_distribution": {
+      "the-fragile": 0.3333,
+      "ninja-2009-summer-tour-ep": 0.3333,
+      "the-downward-spiral": 0.3333
+    },
+    "era_distribution": {
+      "The Fragile": 0.3333,
+      "The Slip": 0.3333,
+      "The Downward Spiral": 0.3333
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.6293,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 0,
+    "n_familiar": 1,
+    "n_staple": 1,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.3333,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 3,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "2009-7-3-roskilde-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-7-3-roskilde-festival",
+  "date": "2009-07-03",
+  "venue": "Roskilde Festival",
+  "venue_slug": "roskilde-festival-roskilde",
+  "city": "Roskilde",
+  "state": "",
+  "country": "Denmark",
+  "tour": "European + Pacific Festivals",
+  "era_slug": "european-pacific-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gone, Still",
+      "slug": "gonestill",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 22,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:56.205175Z",
+  "features": {
+    "nostalgia_score": 0.6053,
+    "avg_song_age_at_show": 12.1,
+    "album_distribution": {
+      "the-fragile": 0.2727,
+      "the-downward-spiral": 0.2727,
+      "broken": 0.1364,
+      "pretty-hate-machine": 0.0909,
+      "cover": 0.0909,
+      "ninja-2009-summer-tour-ep": 0.0455,
+      "year-zero": 0.0455,
+      "with-teeth": 0.0455
+    },
+    "era_distribution": {
+      "The Fragile": 0.2727,
+      "The Downward Spiral": 0.2727,
+      "Broken": 0.1364,
+      "Pretty Hate Machine": 0.0909,
+      "Covers": 0.0909,
+      "The Slip": 0.0455,
+      "Year Zero": 0.0455,
+      "With Teeth": 0.0455
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.6791,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 5,
+    "n_album_track": 5,
+    "n_familiar": 4,
+    "n_staple": 7,
+    "cover_count": 3,
+    "cover_fraction": 0.1364,
+    "special_notes_count": 3,
+    "special_fraction": 0.1364,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 22,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "2013-8-28-mediolanum-forum",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-8-28-mediolanum-forum",
+  "date": "2013-08-28",
+  "venue": "Mediolanum Forum",
+  "venue_slug": "mediolanum-forum-milan",
+  "city": "Milan",
+  "state": "",
+  "country": "Italy",
+  "tour": "Festival Dates",
+  "era_slug": "festival-dates",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 11,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "What If We Could?",
+      "slug": "whatifwecould",
+      "section": "Main Set",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 25,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:23:42.869274Z",
+  "features": {
+    "nostalgia_score": 0.5399,
+    "avg_song_age_at_show": 13.0,
+    "album_distribution": {
+      "the-downward-spiral": 0.16,
+      "year-zero": 0.16,
+      "hesitation-marks": 0.12,
+      "pretty-hate-machine": 0.12,
+      "the-fragile": 0.12,
+      "broken": 0.12,
+      "with-teeth": 0.08,
+      "the-slip": 0.04,
+      "cover": 0.04,
+      "unknown": 0.04
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.16,
+      "Year Zero": 0.16,
+      "Hesitation Marks": 0.12,
+      "Pretty Hate Machine": 0.12,
+      "The Fragile": 0.12,
+      "Broken": 0.12,
+      "With Teeth": 0.08,
+      "The Slip": 0.04,
+      "Covers": 0.04,
+      "Unknown": 0.04
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6769,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 2,
+    "n_album_track": 9,
+    "n_familiar": 5,
+    "n_staple": 8,
+    "cover_count": 2,
+    "cover_fraction": 0.08,
+    "special_notes_count": 3,
+    "special_fraction": 0.12,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 25,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

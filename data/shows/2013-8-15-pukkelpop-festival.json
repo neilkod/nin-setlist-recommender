@@ -1,0 +1,182 @@
+{
+  "id": "2013-8-15-pukkelpop-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-8-15-pukkelpop-festival",
+  "date": "2013-08-15",
+  "venue": "Pukkelpop Festival",
+  "venue_slug": "pukkelpop-festival-hasselt",
+  "city": "Hasselt",
+  "state": "",
+  "country": "Belgium",
+  "tour": "Festival Dates",
+  "era_slug": "festival-dates",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 15,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:23:26.177032Z",
+  "features": {
+    "nostalgia_score": 0.5944,
+    "avg_song_age_at_show": 14.3,
+    "album_distribution": {
+      "pretty-hate-machine": 0.2,
+      "broken": 0.2,
+      "hesitation-marks": 0.1333,
+      "the-downward-spiral": 0.1333,
+      "with-teeth": 0.1333,
+      "the-slip": 0.0667,
+      "year-zero": 0.0667,
+      "the-fragile": 0.0667
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.2,
+      "Broken": 0.2,
+      "Hesitation Marks": 0.1333,
+      "The Downward Spiral": 0.1333,
+      "With Teeth": 0.1333,
+      "The Slip": 0.0667,
+      "Year Zero": 0.0667,
+      "The Fragile": 0.0667
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.6311,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 6,
+    "n_familiar": 2,
+    "n_staple": 6,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 15,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

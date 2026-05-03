@@ -1,0 +1,209 @@
+{
+  "id": "2017-7-23-exposition-park",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2017-7-23-exposition-park",
+  "date": "2017-07-23",
+  "venue": "Exposition Park",
+  "venue_slug": "exposition-park-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "I Can't Seem To Wake Up",
+  "era_slug": "i-cant-seem-to-wake-up",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "I Can't Give Everything Away",
+      "slug": "i-cant-give-everything-away",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) Farewell mix",
+      "is_cover": true
+    },
+    {
+      "position": 12,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 18,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:27:38.178977Z",
+  "features": {
+    "nostalgia_score": 0.5504,
+    "avg_song_age_at_show": 15.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.2222,
+      "not-the-actual-events": 0.1111,
+      "broken": 0.1111,
+      "add-violence": 0.1111,
+      "pretty-hate-machine": 0.1111,
+      "the-fragile": 0.1111,
+      "hesitation-marks": 0.0556,
+      "unknown": 0.0556,
+      "year-zero": 0.0556,
+      "with-teeth": 0.0556
+    },
+    "era_distribution": {
+      "Trilogy": 0.2222,
+      "The Downward Spiral": 0.2222,
+      "Broken": 0.1111,
+      "Pretty Hate Machine": 0.1111,
+      "The Fragile": 0.1111,
+      "Hesitation Marks": 0.0556,
+      "Unknown": 0.0556,
+      "Year Zero": 0.0556,
+      "With Teeth": 0.0556
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.644,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0556,
+    "special_notes_count": 2,
+    "special_fraction": 0.1111,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 18,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

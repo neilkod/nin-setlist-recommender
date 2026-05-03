@@ -1,0 +1,56 @@
+{
+  "id": "1999-9-9-radio-city-music-hall",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1999-9-9-radio-city-music-hall",
+  "date": "1999-09-09",
+  "venue": "Radio City Music Hall",
+  "venue_slug": "radio-city-music-hall-new-york-city",
+  "city": "New York City",
+  "state": "NY",
+  "country": "United States",
+  "tour": "MTV Video Music Awards",
+  "era_slug": "mtv-video-music-awards",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "Live Debut",
+      "is_cover": false
+    }
+  ],
+  "song_count": 1,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:05:53.396871Z",
+  "features": {
+    "nostalgia_score": 0.0,
+    "avg_song_age_at_show": 0,
+    "album_distribution": {
+      "the-fragile": 1.0
+    },
+    "era_distribution": {
+      "The Fragile": 1.0
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.9456,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 0,
+    "n_familiar": 0,
+    "n_staple": 0,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 1.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 1,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

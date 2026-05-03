@@ -1,0 +1,122 @@
+{
+  "id": "1994-9-19-omaha-civic-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-9-19-omaha-civic-center",
+  "date": "1994-09-19",
+  "venue": "Omaha Civic Center",
+  "venue_slug": "omaha-civic-center-omaha",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "United States",
+  "tour": "Further Down The Spiral + Self Destruct (Part 2)",
+  "era_slug": "further-down-the-spiral-self-destruct-part-2",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "I Do Not Want This",
+      "slug": "i-do-not-want-this",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 9,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:02:18.475133Z",
+  "features": {
+    "nostalgia_score": 0.25,
+    "avg_song_age_at_show": 1.2,
+    "album_distribution": {
+      "the-downward-spiral": 0.7778,
+      "pretty-hate-machine": 0.2222
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.7778,
+      "Pretty Hate Machine": 0.2222
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6347,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 1,
+    "n_staple": 3,
+    "cover_count": 1,
+    "cover_fraction": 0.1111,
+    "special_notes_count": 1,
+    "special_fraction": 0.1111,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 9,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

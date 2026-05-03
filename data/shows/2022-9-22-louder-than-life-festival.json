@@ -1,0 +1,248 @@
+{
+  "id": "2022-9-22-louder-than-life-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-9-22-louder-than-life-festival",
+  "date": "2022-09-22",
+  "venue": "Louder Than Life Festival",
+  "venue_slug": "louder-than-life-festival-louisville",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "United States",
+  "tour": "US Fall 2022",
+  "era_slug": "us-fall-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 20,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 23,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:38.050930Z",
+  "features": {
+    "nostalgia_score": 0.7027,
+    "avg_song_age_at_show": 23.2,
+    "album_distribution": {
+      "the-downward-spiral": 0.3913,
+      "broken": 0.1739,
+      "pretty-hate-machine": 0.087,
+      "bad-witch": 0.087,
+      "add-violence": 0.0435,
+      "hesitation-marks": 0.0435,
+      "year-zero": 0.0435,
+      "the-perfect-drug": 0.0435,
+      "cover": 0.0435,
+      "with-teeth": 0.0435
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.4348,
+      "Broken": 0.1739,
+      "Trilogy": 0.1304,
+      "Pretty Hate Machine": 0.087,
+      "Hesitation Marks": 0.0435,
+      "Year Zero": 0.0435,
+      "Covers": 0.0435,
+      "With Teeth": 0.0435
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6725,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 5,
+    "n_album_track": 6,
+    "n_familiar": 5,
+    "n_staple": 7,
+    "cover_count": 2,
+    "cover_fraction": 0.087,
+    "special_notes_count": 4,
+    "special_fraction": 0.1739,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 23,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

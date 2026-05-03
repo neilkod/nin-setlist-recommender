@@ -1,0 +1,182 @@
+{
+  "id": "1995-10-29-the-great-western-forum",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1995-10-29-the-great-western-forum",
+  "date": "1995-10-29",
+  "venue": "The Great Western Forum",
+  "venue_slug": "the-great-western-forum-inglewood",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Outside Tour",
+  "era_slug": "outside-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Subterraneans",
+      "slug": "subterraneans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "Scary Monsters",
+      "slug": "scary-monsters",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) (with David Bowie )",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hallo Spaceboy",
+      "slug": "hallo-spaceboy",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) (with David Bowie )",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 16,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:05:36.904015Z",
+  "features": {
+    "nostalgia_score": 0.4103,
+    "avg_song_age_at_show": 2.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.5,
+      "pretty-hate-machine": 0.1875,
+      "unknown": 0.1875,
+      "broken": 0.125
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.5,
+      "Pretty Hate Machine": 0.1875,
+      "Unknown": 0.1875,
+      "Broken": 0.125
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6348,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 1,
+    "n_album_track": 3,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 3,
+    "cover_fraction": 0.1875,
+    "special_notes_count": 3,
+    "special_fraction": 0.1875,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 16,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

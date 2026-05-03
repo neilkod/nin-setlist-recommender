@@ -1,0 +1,273 @@
+{
+  "id": "2009-6-13-bonnaroo-music-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-6-13-bonnaroo-music-festival",
+  "date": "2009-06-13",
+  "venue": "Bonnaroo Music Festival",
+  "venue_slug": "bonnaroo-music-festival-manchester",
+  "city": "Manchester",
+  "state": "TN",
+  "country": "United States",
+  "tour": "NIN|JA Tour",
+  "era_slug": "ninja-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 10,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Banged And Blown Through",
+      "slug": "banged-and-blown-through",
+      "section": "Main Set",
+      "notes": "(Saul Williams cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Gone, Still",
+      "slug": "gonestill",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Way Out Is Through",
+      "slug": "the-way-out-is-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "(with Dillinger Escape Plan )",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 25,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 26,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 26,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:32.959077Z",
+  "features": {
+    "nostalgia_score": 0.5068,
+    "avg_song_age_at_show": 10.1,
+    "album_distribution": {
+      "the-downward-spiral": 0.3077,
+      "the-fragile": 0.1923,
+      "with-teeth": 0.0769,
+      "the-slip": 0.0769,
+      "cover": 0.0769,
+      "broken": 0.0769,
+      "year-zero": 0.0769,
+      "pretty-hate-machine": 0.0385,
+      "unknown": 0.0385,
+      "ninja-2009-summer-tour-ep": 0.0385
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3077,
+      "The Fragile": 0.1923,
+      "The Slip": 0.1154,
+      "With Teeth": 0.0769,
+      "Covers": 0.0769,
+      "Broken": 0.0769,
+      "Year Zero": 0.0769,
+      "Pretty Hate Machine": 0.0385,
+      "Unknown": 0.0385
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7422,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 6,
+    "n_album_track": 8,
+    "n_familiar": 4,
+    "n_staple": 6,
+    "cover_count": 4,
+    "cover_fraction": 0.1538,
+    "special_notes_count": 5,
+    "special_fraction": 0.1923,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 26,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

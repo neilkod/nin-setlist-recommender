@@ -1,0 +1,244 @@
+{
+  "id": "2022-9-11-greek-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-9-11-greek-theatre",
+  "date": "2022-09-11",
+  "venue": "Greek Theatre",
+  "venue_slug": "greek-theatre-berkeley",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "United States",
+  "tour": "US Fall 2022",
+  "era_slug": "us-fall-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Everything",
+      "slug": "everything",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Every Day Is Exactly The Same",
+      "slug": "every-day-is-exactly-the-same",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "Aborted midway through the song",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Subterraneans",
+      "slug": "subterraneans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) with God Break Down The Door lyrics",
+      "is_cover": true
+    },
+    {
+      "position": 21,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 22,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:27.566580Z",
+  "features": {
+    "nostalgia_score": 0.6046,
+    "avg_song_age_at_show": 20.0,
+    "album_distribution": {
+      "the-downward-spiral": 0.2273,
+      "the-fragile": 0.0909,
+      "broken": 0.0909,
+      "pretty-hate-machine": 0.0909,
+      "add-violence": 0.0909,
+      "hesitation-marks": 0.0909,
+      "bad-witch": 0.0909,
+      "the-perfect-drug": 0.0455,
+      "year-zero": 0.0455,
+      "with-teeth": 0.0455,
+      "the-slip": 0.0455,
+      "unknown": 0.0455
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2727,
+      "Trilogy": 0.1818,
+      "The Fragile": 0.0909,
+      "Broken": 0.0909,
+      "Pretty Hate Machine": 0.0909,
+      "Hesitation Marks": 0.0909,
+      "Year Zero": 0.0455,
+      "With Teeth": 0.0455,
+      "The Slip": 0.0455,
+      "Unknown": 0.0455
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7282,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 4,
+    "n_album_track": 9,
+    "n_familiar": 1,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0455,
+    "special_notes_count": 4,
+    "special_fraction": 0.1818,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 22,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

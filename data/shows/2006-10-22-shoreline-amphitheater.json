@@ -1,0 +1,128 @@
+{
+  "id": "2006-10-22-shoreline-amphitheater",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2006-10-22-shoreline-amphitheater",
+  "date": "2006-10-22",
+  "venue": "Shoreline Amphitheater",
+  "venue_slug": "shoreline-amphitheater-mountain-view",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Trent Reznor at the Bridge School Benefit",
+  "era_slug": "trent-reznor-at-the-bridge-school-benefit",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Adrift And At Peace",
+      "slug": "adrift-and-at-peace",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Right Where It Belongs",
+      "slug": "right-where-it-belongs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 9,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:14:49.363545Z",
+  "features": {
+    "nostalgia_score": 0.5147,
+    "avg_song_age_at_show": 8.8,
+    "album_distribution": {
+      "the-fragile": 0.4444,
+      "the-downward-spiral": 0.2222,
+      "pretty-hate-machine": 0.1111,
+      "with-teeth": 0.1111,
+      "ninja-2009-summer-tour-ep": 0.1111
+    },
+    "era_distribution": {
+      "The Fragile": 0.4444,
+      "The Downward Spiral": 0.2222,
+      "Pretty Hate Machine": 0.1111,
+      "With Teeth": 0.1111,
+      "The Slip": 0.1111
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7674,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 2,
+    "n_album_track": 3,
+    "n_familiar": 2,
+    "n_staple": 1,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 9,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

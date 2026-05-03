@@ -1,0 +1,98 @@
+{
+  "id": "1988-10-31-irving-plaza",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1988-10-31-irving-plaza",
+  "date": "1988-10-31",
+  "venue": "Irving Plaza",
+  "venue_slug": "irving-plaza-new-york-city",
+  "city": "New York City",
+  "state": "NY",
+  "country": "United States",
+  "tour": "Skinny Puppy's VIVIsectVI Tour",
+  "era_slug": "skinny-puppys-vivisectvi-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Maybe Just Once",
+      "slug": "maybe-just-once",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "That's What I Get",
+      "slug": "thats-what-i-get",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Twist",
+      "slug": "twist",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 6,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:55:48.057259Z",
+  "features": {
+    "nostalgia_score": null,
+    "avg_song_age_at_show": null,
+    "album_distribution": {
+      "pretty-hate-machine": 0.6667,
+      "unknown": 0.3333
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.6667,
+      "Unknown": 0.3333
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.911,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 1,
+    "n_album_track": 3,
+    "n_familiar": 0,
+    "n_staple": 0,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 6,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

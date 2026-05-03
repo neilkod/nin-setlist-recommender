@@ -1,0 +1,227 @@
+{
+  "id": "2017-9-15-douglas-park",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2017-9-15-douglas-park",
+  "date": "2017-09-15",
+  "venue": "Douglas Park",
+  "venue_slug": "douglas-park-chicago",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "United States",
+  "tour": "I Can't Seem To Wake Up",
+  "era_slug": "i-cant-seem-to-wake-up",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "I Can't Give Everything Away",
+      "slug": "i-cant-give-everything-away",
+      "section": "Main Set",
+      "notes": "(David Bowie cover) Farewell mix",
+      "is_cover": true
+    },
+    {
+      "position": 12,
+      "song": "The Background World",
+      "slug": "backgroundworld",
+      "section": "Main Set",
+      "notes": "Live debut, no outro",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:27:43.730957Z",
+  "features": {
+    "nostalgia_score": 0.5338,
+    "avg_song_age_at_show": 14.9,
+    "album_distribution": {
+      "the-fragile": 0.2,
+      "the-downward-spiral": 0.15,
+      "not-the-actual-events": 0.1,
+      "broken": 0.1,
+      "add-violence": 0.1,
+      "pretty-hate-machine": 0.1,
+      "hesitation-marks": 0.05,
+      "unknown": 0.05,
+      "the-slip": 0.05,
+      "year-zero": 0.05,
+      "with-teeth": 0.05
+    },
+    "era_distribution": {
+      "Trilogy": 0.2,
+      "The Fragile": 0.2,
+      "The Downward Spiral": 0.15,
+      "Broken": 0.1,
+      "Pretty Hate Machine": 0.1,
+      "Hesitation Marks": 0.05,
+      "Unknown": 0.05,
+      "The Slip": 0.05,
+      "Year Zero": 0.05,
+      "With Teeth": 0.05
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.6743,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 4,
+    "n_deep_cut": 0,
+    "n_album_track": 7,
+    "n_familiar": 2,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 3,
+    "special_fraction": 0.15,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "1991-9-10-goldwyn%27s-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1991-9-10-goldwyn%27s-theatre",
+  "date": "1991-09-10",
+  "venue": "Goldwyn's Theatre",
+  "venue_slug": "goldwyn%27s-theatre-birmingham",
+  "city": "Birmingham",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Europe - 1991",
+  "era_slug": "europe-1991",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Now I'm Nothing",
+      "slug": "now-im-nothing",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Physical (You're So)",
+      "slug": "physical-youre-so",
+      "section": "Main Set",
+      "notes": "(Adam Ant cover)",
+      "is_cover": true
+    },
+    {
+      "position": 5,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "That's What I Get",
+      "slug": "thats-what-i-get",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 10,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 11,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:00:03.319100Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 2,
+    "album_distribution": {
+      "pretty-hate-machine": 0.6364,
+      "broken": 0.2727,
+      "unknown": 0.0909
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.6364,
+      "Broken": 0.2727,
+      "Unknown": 0.0909
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.7047,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 2,
+    "n_album_track": 3,
+    "n_familiar": 2,
+    "n_staple": 3,
+    "cover_count": 3,
+    "cover_fraction": 0.2727,
+    "special_notes_count": 3,
+    "special_fraction": 0.2727,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 11,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

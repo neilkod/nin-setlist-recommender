@@ -1,0 +1,227 @@
+{
+  "id": "2025-8-8-moda-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2025-8-8-moda-center",
+  "date": "2025-08-08",
+  "venue": "Moda Center",
+  "venue_slug": "moda-center-portland",
+  "city": "Portland",
+  "state": "OR",
+  "country": "United States",
+  "tour": "Peel It Back - Fall Arena Tour 2025 North America",
+  "era_slug": "peel-it-back-fall-arena-tour-2025-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "A Minute To Breathe",
+      "slug": "a-minute-to-breathe",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 2,
+      "song": "Ruiner",
+      "slug": "ruiner",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "Reworked version with alternative lyrics",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "\"Nothing Can Stop Me Now\" version",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "She's Gone Away",
+      "slug": "shes-gone-away",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "Remix. (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "As Alive As You Need Me To Be",
+      "slug": "as-alive-as-you-need-me-to-be",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "(with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "Remix. (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "Remix. (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "with \"The Only Time\" breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 18,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:53:40.956412Z",
+  "features": {
+    "nostalgia_score": 0.6806,
+    "avg_song_age_at_show": 24.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.35,
+      "cover": 0.1,
+      "broken": 0.1,
+      "hesitation-marks": 0.1,
+      "pretty-hate-machine": 0.1,
+      "not-the-actual-events": 0.05,
+      "tron-ares": 0.05,
+      "the-slip": 0.05,
+      "add-violence": 0.05,
+      "the-perfect-drug": 0.05
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.4,
+      "Covers": 0.1,
+      "Broken": 0.1,
+      "Hesitation Marks": 0.1,
+      "Trilogy": 0.1,
+      "Pretty Hate Machine": 0.1,
+      "Peel It Back": 0.05,
+      "The Slip": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6851,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 2,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 2,
+    "cover_fraction": 0.1,
+    "special_notes_count": 9,
+    "special_fraction": 0.45,
+    "production_style": "mixed",
+    "has_stripped_section": true,
+    "song_count": 20,
+    "section_count": 4,
+    "sections": [
+      "Act 1: B-Stage, Stripped Down",
+      "Act 2: Main Stage, Full Production",
+      "Act 3: B-Stage with Boys Noize",
+      "Act 4: Main Stage, Full Production"
+    ]
+  }
+}

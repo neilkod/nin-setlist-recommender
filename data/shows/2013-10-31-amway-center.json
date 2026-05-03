@@ -1,0 +1,272 @@
+{
+  "id": "2013-10-31-amway-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-10-31-amway-center",
+  "date": "2013-10-31",
+  "venue": "Amway Center",
+  "venue_slug": "amway-center-orlando",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "United States",
+  "tour": "Tension",
+  "era_slug": "tension",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Various Methods Of Escape",
+      "slug": "various-methods-of-escape",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Satellite",
+      "slug": "satellite",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Running",
+      "slug": "running",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "A Warm Place",
+      "slug": "warm-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "(with Gary Numan )",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "We Take Mystery (To Bed)",
+      "slug": "we-take-mystery-to-bed",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover) (with Gary Numan )",
+      "is_cover": true
+    },
+    {
+      "position": 24,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "While I'm Still Here",
+      "slug": "while-im-still-here",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 26,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 26,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:24:36.023729Z",
+  "features": {
+    "nostalgia_score": 0.4217,
+    "avg_song_age_at_show": 10.1,
+    "album_distribution": {
+      "hesitation-marks": 0.3462,
+      "the-downward-spiral": 0.1923,
+      "the-fragile": 0.1923,
+      "pretty-hate-machine": 0.0769,
+      "the-slip": 0.0385,
+      "year-zero": 0.0385,
+      "broken": 0.0385,
+      "with-teeth": 0.0385,
+      "unknown": 0.0385
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.3462,
+      "The Downward Spiral": 0.1923,
+      "The Fragile": 0.1923,
+      "Pretty Hate Machine": 0.0769,
+      "The Slip": 0.0385,
+      "Year Zero": 0.0385,
+      "Broken": 0.0385,
+      "With Teeth": 0.0385,
+      "Unknown": 0.0385
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.7292,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 5,
+    "n_deep_cut": 2,
+    "n_album_track": 8,
+    "n_familiar": 5,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0385,
+    "special_notes_count": 2,
+    "special_fraction": 0.0769,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 26,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+name: Update NIN Setlist Data
+
+on:
+  schedule:
+    # Every Tuesday at 3am UTC — gives shows from the weekend time to appear on ninlive
+    - cron: "0 3 * * 2"
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Scrape new shows
+        run: python scraper/scrape_ninlive.py --update
+
+      - name: Enrich song catalog
+        run: python scraper/enrich_songs.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "nin-scraper[bot]"
+          git config user.email "bot@ninsetlist"
+          git add data/
+          # Only commit if something changed
+          git diff --staged --quiet || git commit -m "data: update setlists $(date -u +%Y-%m-%d)"
+          git push

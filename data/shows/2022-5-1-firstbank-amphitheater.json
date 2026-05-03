@@ -1,0 +1,233 @@
+{
+  "id": "2022-5-1-firstbank-amphitheater",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-5-1-firstbank-amphitheater",
+  "date": "2022-05-01",
+  "venue": "FirstBank Amphitheater",
+  "venue_slug": "firstbank-amphitheater-franklin",
+  "city": "Franklin",
+  "state": "TN",
+  "country": "United States",
+  "tour": "US Spring 2022",
+  "era_slug": "us-spring-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "First performance since 2014-03-11",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Ahead Of Ourselves",
+      "slug": "ahead-of-ourselves",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "Extended outro, first performance since 2014-02-28",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:54.206129Z",
+  "features": {
+    "nostalgia_score": 0.6136,
+    "avg_song_age_at_show": 20.2,
+    "album_distribution": {
+      "the-downward-spiral": 0.2381,
+      "pretty-hate-machine": 0.1429,
+      "add-violence": 0.0952,
+      "with-teeth": 0.0952,
+      "bad-witch": 0.0952,
+      "broken": 0.0952,
+      "the-fragile": 0.0952,
+      "hesitation-marks": 0.0476,
+      "year-zero": 0.0476,
+      "the-slip": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2381,
+      "Trilogy": 0.1905,
+      "Pretty Hate Machine": 0.1429,
+      "With Teeth": 0.0952,
+      "Broken": 0.0952,
+      "The Fragile": 0.0952,
+      "Hesitation Marks": 0.0476,
+      "Year Zero": 0.0476,
+      "The Slip": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.689,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 3,
+    "n_album_track": 8,
+    "n_familiar": 4,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0476,
+    "special_notes_count": 4,
+    "special_fraction": 0.1905,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "id": "2018-12-14-the-palladium",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-12-14-the-palladium",
+  "date": "2018-12-14",
+  "venue": "The Palladium",
+  "venue_slug": "the-palladium-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Just Like You Imagined",
+      "slug": "just-like-you-imagined",
+      "section": "Main Set",
+      "notes": "First time since 2009-09-10 (with Mike Garson )",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "On The Wing",
+      "slug": "on-the-wing",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mike Garson , Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 12,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "(with Mike Garson )",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "(with Mike Garson )",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover) (with Gary Numan )",
+      "is_cover": true
+    },
+    {
+      "position": 21,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Ice Age",
+      "slug": "ice-age",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 23,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 23,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:46.317139Z",
+  "features": {
+    "nostalgia_score": 0.5741,
+    "avg_song_age_at_show": 16.6,
+    "album_distribution": {
+      "the-fragile": 0.2174,
+      "the-downward-spiral": 0.1739,
+      "pretty-hate-machine": 0.087,
+      "hesitation-marks": 0.087,
+      "unknown": 0.087,
+      "year-zero": 0.087,
+      "the-slip": 0.0435,
+      "add-violence": 0.0435,
+      "not-the-actual-events": 0.0435,
+      "broken": 0.0435,
+      "with-teeth": 0.0435,
+      "cover": 0.0435
+    },
+    "era_distribution": {
+      "The Fragile": 0.2174,
+      "The Downward Spiral": 0.1739,
+      "Trilogy": 0.087,
+      "Pretty Hate Machine": 0.087,
+      "Hesitation Marks": 0.087,
+      "Unknown": 0.087,
+      "Year Zero": 0.087,
+      "The Slip": 0.0435,
+      "Broken": 0.0435,
+      "With Teeth": 0.0435,
+      "Covers": 0.0435
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7539,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 4,
+    "n_deep_cut": 2,
+    "n_album_track": 8,
+    "n_familiar": 5,
+    "n_staple": 4,
+    "cover_count": 3,
+    "cover_fraction": 0.1304,
+    "special_notes_count": 6,
+    "special_fraction": 0.2609,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 23,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

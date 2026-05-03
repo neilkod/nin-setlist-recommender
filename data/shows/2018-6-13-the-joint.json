@@ -1,0 +1,219 @@
+{
+  "id": "2018-6-13-the-joint",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-6-13-the-joint",
+  "date": "2018-06-13",
+  "venue": "The Joint",
+  "venue_slug": "the-joint-las-vegas",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "United States",
+  "tour": "Las Vegas",
+  "era_slug": "las-vegas",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover) First performance since 2009-09-10",
+      "is_cover": true
+    },
+    {
+      "position": 2,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "Live debut",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "I Do Not Want This",
+      "slug": "i-do-not-want-this",
+      "section": "Main Set",
+      "notes": "First performance since 2009-09-08",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:27:50.997263Z",
+  "features": {
+    "nostalgia_score": 0.4868,
+    "avg_song_age_at_show": 14.1,
+    "album_distribution": {
+      "year-zero": 0.1579,
+      "the-downward-spiral": 0.1579,
+      "cover": 0.1053,
+      "add-violence": 0.1053,
+      "hesitation-marks": 0.1053,
+      "broken": 0.1053,
+      "bad-witch": 0.0526,
+      "the-slip": 0.0526,
+      "the-fragile": 0.0526,
+      "with-teeth": 0.0526,
+      "pretty-hate-machine": 0.0526
+    },
+    "era_distribution": {
+      "Year Zero": 0.1579,
+      "The Downward Spiral": 0.1579,
+      "Trilogy": 0.1579,
+      "Covers": 0.1053,
+      "Hesitation Marks": 0.1053,
+      "Broken": 0.1053,
+      "The Slip": 0.0526,
+      "The Fragile": 0.0526,
+      "With Teeth": 0.0526,
+      "Pretty Hate Machine": 0.0526
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.749,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 4,
+    "n_album_track": 8,
+    "n_familiar": 3,
+    "n_staple": 4,
+    "cover_count": 2,
+    "cover_fraction": 0.1053,
+    "special_notes_count": 4,
+    "special_fraction": 0.2105,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "1994-5-24-the-forum",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1994-5-24-the-forum",
+  "date": "1994-05-24",
+  "venue": "The Forum",
+  "venue_slug": "the-forum-london",
+  "city": "London",
+  "state": "England",
+  "country": "United Kingdom",
+  "tour": "Self Destruct (Part 1)",
+  "era_slug": "self-destruct-part-1",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 9,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 11,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Big Man With A Gun",
+      "slug": "big-man-with-a-gun",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 15,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 16,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:01:22.684054Z",
+  "features": {
+    "nostalgia_score": 0.5538,
+    "avg_song_age_at_show": 2.8,
+    "album_distribution": {
+      "pretty-hate-machine": 0.4375,
+      "the-downward-spiral": 0.3125,
+      "broken": 0.25
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.4375,
+      "The Downward Spiral": 0.3125,
+      "Broken": 0.25
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.6609,
+    "rarity_tier": "balanced",
+    "n_unicorn": 1,
+    "n_deep_cut": 0,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 5,
+    "cover_count": 3,
+    "cover_fraction": 0.1875,
+    "special_notes_count": 3,
+    "special_fraction": 0.1875,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 16,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

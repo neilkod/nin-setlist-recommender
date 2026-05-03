@@ -1,0 +1,263 @@
+{
+  "id": "2009-5-30-verizon-wireless-music-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-5-30-verizon-wireless-music-center",
+  "date": "2009-05-30",
+  "venue": "Verizon Wireless Music Center",
+  "venue_slug": "verizon-wireless-music-center-noblesville",
+  "city": "Noblesville",
+  "state": "IN",
+  "country": "United States",
+  "tour": "NIN|JA Tour",
+  "era_slug": "ninja-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "Meet Your Master",
+      "slug": "meet-your-master",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Head Down",
+      "slug": "head-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "I Do Not Want This",
+      "slug": "i-do-not-want-this",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Physical (You're So)",
+      "slug": "physical-youre-so",
+      "section": "Main Set",
+      "notes": "(Adam Ant cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Lights In The Sky",
+      "slug": "lights-in-the-sky",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 25,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:11.879095Z",
+  "features": {
+    "nostalgia_score": 0.4667,
+    "avg_song_age_at_show": 9.3,
+    "album_distribution": {
+      "the-downward-spiral": 0.28,
+      "the-slip": 0.16,
+      "year-zero": 0.12,
+      "broken": 0.12,
+      "the-fragile": 0.12,
+      "with-teeth": 0.08,
+      "cover": 0.04,
+      "pretty-hate-machine": 0.04,
+      "ninja-2009-summer-tour-ep": 0.04
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.28,
+      "The Slip": 0.2,
+      "Year Zero": 0.12,
+      "Broken": 0.12,
+      "The Fragile": 0.12,
+      "With Teeth": 0.08,
+      "Covers": 0.04,
+      "Pretty Hate Machine": 0.04
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7279,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 7,
+    "n_album_track": 5,
+    "n_familiar": 5,
+    "n_staple": 6,
+    "cover_count": 2,
+    "cover_fraction": 0.08,
+    "special_notes_count": 2,
+    "special_fraction": 0.08,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 25,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

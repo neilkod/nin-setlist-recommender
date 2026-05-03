@@ -1,0 +1,254 @@
+{
+  "id": "2009-6-10-postgazette-pavillion",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-6-10-postgazette-pavillion",
+  "date": "2009-06-10",
+  "venue": "PostGazette Pavillion",
+  "venue_slug": "postgazette-pavillion-burgettstown",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "United States",
+  "tour": "NIN|JA Tour",
+  "era_slug": "ninja-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 9,
+      "song": "The Becoming",
+      "slug": "the-becoming",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "I Do Not Want This",
+      "slug": "i-do-not-want-this",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 24,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:28.734122Z",
+  "features": {
+    "nostalgia_score": 0.5636,
+    "avg_song_age_at_show": 11.3,
+    "album_distribution": {
+      "the-downward-spiral": 0.3333,
+      "the-fragile": 0.1667,
+      "with-teeth": 0.0833,
+      "pretty-hate-machine": 0.0833,
+      "the-slip": 0.0833,
+      "cover": 0.0833,
+      "broken": 0.0833,
+      "year-zero": 0.0833
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3333,
+      "The Fragile": 0.1667,
+      "With Teeth": 0.0833,
+      "Pretty Hate Machine": 0.0833,
+      "The Slip": 0.0833,
+      "Covers": 0.0833,
+      "Broken": 0.0833,
+      "Year Zero": 0.0833
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6885,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 0,
+    "n_deep_cut": 5,
+    "n_album_track": 7,
+    "n_familiar": 5,
+    "n_staple": 7,
+    "cover_count": 2,
+    "cover_fraction": 0.0833,
+    "special_notes_count": 2,
+    "special_fraction": 0.0833,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 24,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

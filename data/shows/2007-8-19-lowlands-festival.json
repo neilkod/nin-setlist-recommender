@@ -1,0 +1,168 @@
+{
+  "id": "2007-8-19-lowlands-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2007-8-19-lowlands-festival",
+  "date": "2007-08-19",
+  "venue": "Lowlands Festival",
+  "venue_slug": "lowlands-festival-biddinghuizen",
+  "city": "Biddinghuizen",
+  "state": "Holland",
+  "country": "Netherlands",
+  "tour": "European Tour - European Festivals",
+  "era_slug": "european-tour-european-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Hyperpower!",
+      "slug": "hyperpower",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Day The World Went Away",
+      "slug": "the-day-the-world-went-away",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 14,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:17:14.152067Z",
+  "features": {
+    "nostalgia_score": 0.3291,
+    "avg_song_age_at_show": 5.9,
+    "album_distribution": {
+      "year-zero": 0.4286,
+      "the-downward-spiral": 0.3571,
+      "the-fragile": 0.0714,
+      "with-teeth": 0.0714,
+      "broken": 0.0714
+    },
+    "era_distribution": {
+      "Year Zero": 0.4286,
+      "The Downward Spiral": 0.3571,
+      "The Fragile": 0.0714,
+      "With Teeth": 0.0714,
+      "Broken": 0.0714
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.6982,
+    "rarity_tier": "balanced",
+    "n_unicorn": 1,
+    "n_deep_cut": 0,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 3,
+    "cover_count": 1,
+    "cover_fraction": 0.0714,
+    "special_notes_count": 1,
+    "special_fraction": 0.0714,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 14,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

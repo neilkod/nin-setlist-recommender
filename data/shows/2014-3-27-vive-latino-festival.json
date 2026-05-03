@@ -1,0 +1,232 @@
+{
+  "id": "2014-3-27-vive-latino-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-3-27-vive-latino-festival",
+  "date": "2014-03-27",
+  "venue": "Vive Latino Festival",
+  "venue_slug": "vive-latino-festival-mexico-city",
+  "city": "Mexico City",
+  "state": "",
+  "country": "Mexico",
+  "tour": "Latin America",
+  "era_slug": "latin-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "A Warm Place",
+      "slug": "warm-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Disappointed",
+      "slug": "disappointed",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hand Covers Bruise",
+      "slug": "hand-covers-bruise",
+      "section": "Main Set",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Beside You In Time",
+      "slug": "beside-you-in-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:42.880347Z",
+  "features": {
+    "nostalgia_score": 0.564,
+    "avg_song_age_at_show": 14.1,
+    "album_distribution": {
+      "the-downward-spiral": 0.2381,
+      "pretty-hate-machine": 0.1429,
+      "year-zero": 0.1429,
+      "hesitation-marks": 0.1429,
+      "broken": 0.0952,
+      "with-teeth": 0.0952,
+      "the-fragile": 0.0476,
+      "the-slip": 0.0476,
+      "unknown": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2381,
+      "Pretty Hate Machine": 0.1429,
+      "Year Zero": 0.1429,
+      "Hesitation Marks": 0.1429,
+      "Broken": 0.0952,
+      "With Teeth": 0.0952,
+      "The Fragile": 0.0476,
+      "The Slip": 0.0476,
+      "Unknown": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6779,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 3,
+    "n_album_track": 7,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0476,
+    "special_notes_count": 1,
+    "special_fraction": 0.0476,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 21,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

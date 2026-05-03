@@ -1,0 +1,17 @@
+{
+  "id": "2000-3-24-grand-olympic-auditorium",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2000-3-24-grand-olympic-auditorium",
+  "date": "2000-03-24",
+  "venue": "Grand Olympic Auditorium (Rehearsal)",
+  "venue_slug": "grand-olympic-auditorium-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Fragility Tour 2.0",
+  "era_slug": "fragility-tour-2-0",
+  "setlist": [],
+  "song_count": 0,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:06:44.819834Z"
+}

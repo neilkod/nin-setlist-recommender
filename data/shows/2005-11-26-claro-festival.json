@@ -1,0 +1,176 @@
+{
+  "id": "2005-11-26-claro-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2005-11-26-claro-festival",
+  "date": "2005-11-26",
+  "venue": "Claro Festival",
+  "venue_slug": "claro-festival-sao-paolo",
+  "city": "Sao Paolo",
+  "state": "",
+  "country": "Brazil",
+  "tour": "Live With Teeth Tour - Fall",
+  "era_slug": "live-with-teeth-tour-fall",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "The Line Begins To Blur",
+      "slug": "the-line-begins-to-blur",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "With Teeth",
+      "slug": "with-teeth",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 15,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:12:07.667506Z",
+  "features": {
+    "nostalgia_score": 0.5223,
+    "avg_song_age_at_show": 8.4,
+    "album_distribution": {
+      "with-teeth": 0.2667,
+      "the-downward-spiral": 0.2667,
+      "pretty-hate-machine": 0.2,
+      "broken": 0.1333,
+      "the-fragile": 0.1333
+    },
+    "era_distribution": {
+      "With Teeth": 0.2667,
+      "The Downward Spiral": 0.2667,
+      "Pretty Hate Machine": 0.2,
+      "Broken": 0.1333,
+      "The Fragile": 0.1333
+    },
+    "primary_album": "with-teeth",
+    "primary_era": "With Teeth",
+    "avg_rarity_score": 0.5582,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 1,
+    "n_familiar": 6,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0667,
+    "special_notes_count": 1,
+    "special_fraction": 0.0667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 15,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

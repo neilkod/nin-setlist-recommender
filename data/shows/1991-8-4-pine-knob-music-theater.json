@@ -1,0 +1,124 @@
+{
+  "id": "1991-8-4-pine-knob-music-theater",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1991-8-4-pine-knob-music-theater",
+  "date": "1991-08-04",
+  "venue": "Pine Knob Music Theater",
+  "venue_slug": "pine-knob-music-theater-clarkston",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "United States",
+  "tour": "Lollapalooza",
+  "era_slug": "lollapalooza",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Now I'm Nothing",
+      "slug": "now-im-nothing",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Physical (You're So)",
+      "slug": "physical-youre-so",
+      "section": "Main Set",
+      "notes": "(Adam Ant cover)",
+      "is_cover": true
+    },
+    {
+      "position": 5,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 9,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:59:29.012209Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 2,
+    "album_distribution": {
+      "pretty-hate-machine": 0.6667,
+      "broken": 0.2222,
+      "unknown": 0.1111
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.6667,
+      "Broken": 0.2222,
+      "Unknown": 0.1111
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.6808,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 1,
+    "n_album_track": 3,
+    "n_familiar": 1,
+    "n_staple": 3,
+    "cover_count": 2,
+    "cover_fraction": 0.2222,
+    "special_notes_count": 2,
+    "special_fraction": 0.2222,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 9,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

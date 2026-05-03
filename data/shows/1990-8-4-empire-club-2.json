@@ -1,0 +1,148 @@
+{
+  "id": "1990-8-4-empire-club-2",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1990-8-4-empire-club-2",
+  "date": "1990-08-04",
+  "venue": "Empire Club",
+  "venue_slug": "empire-club-cleveland",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "United States",
+  "tour": "Hate",
+  "era_slug": "hate",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Intro",
+      "slug": "intro",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "That's What I Get",
+      "slug": "thats-what-i-get",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 10,
+      "song": "Ringfinger",
+      "slug": "ringfinger",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 12,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:58:22.557493Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 1,
+    "album_distribution": {
+      "pretty-hate-machine": 0.8333,
+      "unknown": 0.0833,
+      "broken": 0.0833
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.8333,
+      "Unknown": 0.0833,
+      "Broken": 0.0833
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.7577,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 3,
+    "n_album_track": 5,
+    "n_familiar": 2,
+    "n_staple": 2,
+    "cover_count": 2,
+    "cover_fraction": 0.1667,
+    "special_notes_count": 2,
+    "special_fraction": 0.1667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 12,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

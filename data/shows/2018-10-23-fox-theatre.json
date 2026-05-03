@@ -1,0 +1,219 @@
+{
+  "id": "2018-10-23-fox-theatre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2018-10-23-fox-theatre",
+  "date": "2018-10-23",
+  "venue": "Fox Theatre",
+  "venue_slug": "fox-theatre-detroit",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "United States",
+  "tour": "Cold and Black and Infinite - 2018",
+  "era_slug": "cold-and-black-and-infinite-2018",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Branches/Bones",
+      "slug": "branches-bones",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "This Isn't The Place",
+      "slug": "this-isnt-the-place",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Help Me I Am In Hell",
+      "slug": "help-me-i-am-in-hell",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Happiness In Slavery",
+      "slug": "happiness-in-slavery",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 11,
+      "song": "The Background World",
+      "slug": "backgroundworld",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Burning Bright (Field On Fire)",
+      "slug": "burning-bright-field-on-fire",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "All The Love In The World",
+      "slug": "all-the-love-in-the-world",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Even Deeper",
+      "slug": "even-deeper",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:08.817532Z",
+  "features": {
+    "nostalgia_score": 0.5077,
+    "avg_song_age_at_show": 14.7,
+    "album_distribution": {
+      "the-downward-spiral": 0.2105,
+      "not-the-actual-events": 0.1053,
+      "add-violence": 0.1053,
+      "broken": 0.1053,
+      "year-zero": 0.1053,
+      "with-teeth": 0.1053,
+      "the-slip": 0.0526,
+      "hesitation-marks": 0.0526,
+      "cover": 0.0526,
+      "pretty-hate-machine": 0.0526,
+      "the-fragile": 0.0526
+    },
+    "era_distribution": {
+      "Trilogy": 0.2105,
+      "The Downward Spiral": 0.2105,
+      "Broken": 0.1053,
+      "Year Zero": 0.1053,
+      "With Teeth": 0.1053,
+      "The Slip": 0.0526,
+      "Hesitation Marks": 0.0526,
+      "Covers": 0.0526,
+      "Pretty Hate Machine": 0.0526,
+      "The Fragile": 0.0526
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "Trilogy",
+    "avg_rarity_score": 0.7806,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 5,
+    "n_deep_cut": 0,
+    "n_album_track": 8,
+    "n_familiar": 3,
+    "n_staple": 3,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 1,
+    "special_fraction": 0.0526,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

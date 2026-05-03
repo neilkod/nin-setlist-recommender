@@ -1,0 +1,262 @@
+{
+  "id": "2008-8-10-virgin-mobile-festival-at-pimlico-race-course",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2008-8-10-virgin-mobile-festival-at-pimlico-race-course",
+  "date": "2008-08-10",
+  "venue": "Virgin Mobile Festival at Pimlico Race Course",
+  "venue_slug": "virgin-mobile-festival-at-pimlico-race-course-baltimore",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "United States",
+  "tour": "Lights In The Sky Over North America (1st Leg)",
+  "era_slug": "lights-in-the-sky-over-north-america-1st-leg",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Vessel",
+      "slug": "vessel",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "01 Ghosts I",
+      "slug": "ghosts1",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "25 Ghosts III",
+      "slug": "ghosts25",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "19 Ghosts III",
+      "slug": "ghosts19",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "Ghosts Style",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Greater Good",
+      "slug": "the-greater-good",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "31 Ghosts IV",
+      "slug": "ghosts31",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 25,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:18:12.149453Z",
+  "features": {
+    "nostalgia_score": 0.3263,
+    "avg_song_age_at_show": 6.2,
+    "album_distribution": {
+      "year-zero": 0.2,
+      "the-slip": 0.16,
+      "the-downward-spiral": 0.16,
+      "ghosts-i-iv": 0.16,
+      "the-fragile": 0.08,
+      "broken": 0.08,
+      "pretty-hate-machine": 0.08,
+      "with-teeth": 0.08
+    },
+    "era_distribution": {
+      "Year Zero": 0.2,
+      "The Slip": 0.16,
+      "The Downward Spiral": 0.16,
+      "Ghosts": 0.16,
+      "The Fragile": 0.08,
+      "Broken": 0.08,
+      "Pretty Hate Machine": 0.08,
+      "With Teeth": 0.08
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.7018,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 6,
+    "n_album_track": 5,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.04,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 25,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "2014-3-19-vector-arena",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2014-3-19-vector-arena",
+  "date": "2014-03-19",
+  "venue": "Vector Arena",
+  "venue_slug": "vector-arena-auckland",
+  "city": "Auckland",
+  "state": "",
+  "country": "New Zealand",
+  "tour": "NIN + Queens Of The Stone Age (Australia New Zealand)",
+  "era_slug": "nin-queens-of-the-stone-age-australia-new-zealand",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Ice Age",
+      "slug": "ice-age",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 13,
+      "song": "BBB",
+      "slug": "bbb",
+      "section": "Main Set",
+      "notes": "(How To Destroy Angels cover) (with Mariqueen Maandig Reznor )",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 17,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:25:37.148952Z",
+  "features": {
+    "nostalgia_score": 0.6213,
+    "avg_song_age_at_show": 15.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.2353,
+      "hesitation-marks": 0.1765,
+      "pretty-hate-machine": 0.1765,
+      "broken": 0.1176,
+      "unknown": 0.1176,
+      "year-zero": 0.0588,
+      "the-fragile": 0.0588,
+      "with-teeth": 0.0588
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2353,
+      "Hesitation Marks": 0.1765,
+      "Pretty Hate Machine": 0.1765,
+      "Broken": 0.1176,
+      "Unknown": 0.1176,
+      "Year Zero": 0.0588,
+      "The Fragile": 0.0588,
+      "With Teeth": 0.0588
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6275,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 2,
+    "cover_fraction": 0.1176,
+    "special_notes_count": 3,
+    "special_fraction": 0.1765,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 17,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

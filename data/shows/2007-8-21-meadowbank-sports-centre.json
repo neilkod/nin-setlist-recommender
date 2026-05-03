@@ -1,0 +1,152 @@
+{
+  "id": "2007-8-21-meadowbank-sports-centre",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2007-8-21-meadowbank-sports-centre",
+  "date": "2007-08-21",
+  "venue": "Meadowbank Sports Centre",
+  "venue_slug": "meadowbank-sports-centre-edinburgh",
+  "city": "Edinburgh",
+  "state": "Scotland",
+  "country": "United Kingdom",
+  "tour": "European Tour - European Festivals",
+  "era_slug": "european-tour-european-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Me, I'm Not",
+      "slug": "me-im-not",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "No, You Don't",
+      "slug": "no-you-dont",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 12,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:17:15.993820Z",
+  "features": {
+    "nostalgia_score": 0.4074,
+    "avg_song_age_at_show": 7.3,
+    "album_distribution": {
+      "the-fragile": 0.3333,
+      "year-zero": 0.25,
+      "the-downward-spiral": 0.25,
+      "with-teeth": 0.0833,
+      "broken": 0.0833
+    },
+    "era_distribution": {
+      "The Fragile": 0.3333,
+      "Year Zero": 0.25,
+      "The Downward Spiral": 0.25,
+      "With Teeth": 0.0833,
+      "Broken": 0.0833
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.6602,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 3,
+    "n_familiar": 5,
+    "n_staple": 3,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 12,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

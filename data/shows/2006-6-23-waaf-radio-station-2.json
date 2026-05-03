@@ -1,0 +1,82 @@
+{
+  "id": "2006-6-23-waaf-radio-station-2",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2006-6-23-waaf-radio-station-2",
+  "date": "2006-06-23",
+  "venue": "WAAF Radio Station",
+  "venue_slug": "waaf-radio-station-boston",
+  "city": "Boston",
+  "state": "MA",
+  "country": "United States",
+  "tour": "Live With Teeth Tour - Summer (North America)",
+  "era_slug": "live-with-teeth-tour-summer-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Warm Leatherette",
+      "slug": "warm-leatherette",
+      "section": "Main Set",
+      "notes": "(The Normal cover) (with Peter Murphy )",
+      "is_cover": true
+    },
+    {
+      "position": 3,
+      "song": "A Strange Kind Of Love",
+      "slug": "strange-kind-of-love",
+      "section": "Main Set",
+      "notes": "(Bauhaus cover)",
+      "is_cover": true
+    },
+    {
+      "position": 4,
+      "song": "Night Clubbing",
+      "slug": "nightclubbing",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 4,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:14:21.403924Z",
+  "features": {
+    "nostalgia_score": 0.7059,
+    "avg_song_age_at_show": 12,
+    "album_distribution": {
+      "unknown": 0.75,
+      "the-downward-spiral": 0.25
+    },
+    "era_distribution": {
+      "Unknown": 0.75,
+      "The Downward Spiral": 0.25
+    },
+    "primary_album": "unknown",
+    "primary_era": "Unknown",
+    "avg_rarity_score": 0.9028,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 0,
+    "n_album_track": 0,
+    "n_familiar": 1,
+    "n_staple": 0,
+    "cover_count": 2,
+    "cover_fraction": 0.5,
+    "special_notes_count": 2,
+    "special_fraction": 0.5,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 4,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

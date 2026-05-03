@@ -1,0 +1,92 @@
+{
+  "id": "2013-11-7-jimmy-kimmel-live-outdoor-miniconcert",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2013-11-7-jimmy-kimmel-live-outdoor-miniconcert",
+  "date": "2013-11-07",
+  "venue": "Jimmy Kimmel Live Outdoor MiniConcert",
+  "venue_slug": "jimmy-kimmel-live-outdoor-miniconcert-los-angeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "United States",
+  "tour": "Tension",
+  "era_slug": "tension",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Various Methods Of Escape",
+      "slug": "various-methods-of-escape",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "All Time Low",
+      "slug": "all-time-low",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Came Back Haunted",
+      "slug": "came-back-haunted",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 5,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:24:44.106386Z",
+  "features": {
+    "nostalgia_score": 0.2667,
+    "avg_song_age_at_show": 6.4,
+    "album_distribution": {
+      "hesitation-marks": 0.6,
+      "pretty-hate-machine": 0.2,
+      "with-teeth": 0.2
+    },
+    "era_distribution": {
+      "Hesitation Marks": 0.6,
+      "Pretty Hate Machine": 0.2,
+      "With Teeth": 0.2
+    },
+    "primary_album": "hesitation-marks",
+    "primary_era": "Hesitation Marks",
+    "avg_rarity_score": 0.8282,
+    "rarity_tier": "mixed",
+    "n_unicorn": 1,
+    "n_deep_cut": 1,
+    "n_album_track": 2,
+    "n_familiar": 0,
+    "n_staple": 1,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 5,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

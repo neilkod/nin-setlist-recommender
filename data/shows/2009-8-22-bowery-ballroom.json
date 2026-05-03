@@ -1,0 +1,279 @@
+{
+  "id": "2009-8-22-bowery-ballroom",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-8-22-bowery-ballroom",
+  "date": "2009-08-22",
+  "venue": "Bowery Ballroom",
+  "venue_slug": "bowery-ballroom-new-york-city",
+  "city": "New York City",
+  "state": "NY",
+  "country": "United States",
+  "tour": "Wave Goodbye",
+  "era_slug": "wave-goodbye",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "The Collector",
+      "slug": "the-collector",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Meet Your Master",
+      "slug": "meet-your-master",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Banged And Blown Through",
+      "slug": "banged-and-blown-through",
+      "section": "Main Set",
+      "notes": "(Saul Williams cover)",
+      "is_cover": true
+    },
+    {
+      "position": 11,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Gone, Still",
+      "slug": "gonestill",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 26,
+      "song": "Dead Souls",
+      "slug": "dead-souls",
+      "section": "Main Set",
+      "notes": "(Joy Division cover)",
+      "is_cover": true
+    },
+    {
+      "position": 27,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 27,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:22:47.182043Z",
+  "features": {
+    "nostalgia_score": 0.502,
+    "avg_song_age_at_show": 10.0,
+    "album_distribution": {
+      "the-downward-spiral": 0.2593,
+      "year-zero": 0.1852,
+      "the-fragile": 0.1111,
+      "broken": 0.1111,
+      "pretty-hate-machine": 0.1111,
+      "with-teeth": 0.0741,
+      "the-slip": 0.0741,
+      "unknown": 0.037,
+      "ninja-2009-summer-tour-ep": 0.037
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2593,
+      "Year Zero": 0.1852,
+      "The Fragile": 0.1111,
+      "Broken": 0.1111,
+      "The Slip": 0.1111,
+      "Pretty Hate Machine": 0.1111,
+      "With Teeth": 0.0741,
+      "Unknown": 0.037
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.7465,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 3,
+    "n_deep_cut": 4,
+    "n_album_track": 11,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 2,
+    "cover_fraction": 0.0741,
+    "special_notes_count": 2,
+    "special_fraction": 0.0741,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 27,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

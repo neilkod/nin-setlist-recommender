@@ -1,0 +1,248 @@
+{
+  "id": "2022-9-24-blossom-music-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-9-24-blossom-music-center",
+  "date": "2022-09-24",
+  "venue": "Blossom Music Center",
+  "venue_slug": "blossom-music-center-cuyahoga-falls",
+  "city": "Cuyahoga Falls",
+  "state": "OH",
+  "country": "United States",
+  "tour": "US Fall 2022",
+  "era_slug": "us-fall-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "Alternative version",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Shit Mirror",
+      "slug": "shit-mirror",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "God Break Down The Door",
+      "slug": "god-break-down-the-door",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Eraser",
+      "slug": "eraser",
+      "section": "Main Set",
+      "notes": "(with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "(with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "(with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "(with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Hey Man Nice Shot",
+      "slug": "hey-man-nice-shot",
+      "section": "Main Set",
+      "notes": "(Filter cover) Live Debut (with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": true
+    },
+    {
+      "position": 23,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "(with Charlie Clouser , Danny Lohner , Richard Patrick , Chris Vrenna )",
+      "is_cover": false
+    }
+  ],
+  "song_count": 23,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:30:40.378168Z",
+  "features": {
+    "nostalgia_score": 0.6791,
+    "avg_song_age_at_show": 22.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.3043,
+      "the-fragile": 0.1304,
+      "pretty-hate-machine": 0.1304,
+      "add-violence": 0.087,
+      "bad-witch": 0.087,
+      "broken": 0.087,
+      "hesitation-marks": 0.0435,
+      "the-perfect-drug": 0.0435,
+      "with-teeth": 0.0435,
+      "unknown": 0.0435
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3478,
+      "Trilogy": 0.1739,
+      "The Fragile": 0.1304,
+      "Pretty Hate Machine": 0.1304,
+      "Broken": 0.087,
+      "Hesitation Marks": 0.0435,
+      "With Teeth": 0.0435,
+      "Unknown": 0.0435
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.687,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 3,
+    "n_album_track": 8,
+    "n_familiar": 5,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.0435,
+    "special_notes_count": 7,
+    "special_fraction": 0.3043,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 23,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": "2025-6-24-parco-della-musica-novegra",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2025-6-24-parco-della-musica-novegra",
+  "date": "2025-06-24",
+  "venue": "Parco Della Musica Novegra",
+  "venue_slug": "parco-della-musica-novegra-milan",
+  "city": "Milan",
+  "state": "",
+  "country": "Italy",
+  "tour": "Peel It Back - Summer Tour 2025 Europe",
+  "era_slug": "peel-it-back-summer-tour-2025-europe",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Lovers",
+      "slug": "the-lovers",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with 'The Only Time' breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Find My Way",
+      "slug": "find-my-way",
+      "section": "Main Set",
+      "notes": "First performance since 2018-12-14",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "First performance since 2018-12-12",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 20,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:53:18.018217Z",
+  "features": {
+    "nostalgia_score": 0.652,
+    "avg_song_age_at_show": 23.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.25,
+      "the-slip": 0.15,
+      "the-fragile": 0.1,
+      "broken": 0.1,
+      "add-violence": 0.1,
+      "hesitation-marks": 0.1,
+      "year-zero": 0.05,
+      "cover": 0.05,
+      "the-perfect-drug": 0.05,
+      "pretty-hate-machine": 0.05
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3,
+      "The Slip": 0.15,
+      "The Fragile": 0.1,
+      "Broken": 0.1,
+      "Trilogy": 0.1,
+      "Hesitation Marks": 0.1,
+      "Year Zero": 0.05,
+      "Covers": 0.05,
+      "Pretty Hate Machine": 0.05
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6877,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 11,
+    "n_familiar": 2,
+    "n_staple": 6,
+    "cover_count": 1,
+    "cover_fraction": 0.05,
+    "special_notes_count": 4,
+    "special_fraction": 0.2,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 20,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

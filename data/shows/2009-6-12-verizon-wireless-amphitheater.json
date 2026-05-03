@@ -1,0 +1,257 @@
+{
+  "id": "2009-6-12-verizon-wireless-amphitheater",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-6-12-verizon-wireless-amphitheater",
+  "date": "2009-06-12",
+  "venue": "Verizon Wireless Amphitheater",
+  "venue_slug": "verizon-wireless-amphitheater-charlotte",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "United States",
+  "tour": "NIN|JA Tour",
+  "era_slug": "ninja-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Home",
+      "slug": "home",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Metal",
+      "slug": "metal",
+      "section": "Main Set",
+      "notes": "(Gary Numan cover)",
+      "is_cover": true
+    },
+    {
+      "position": 7,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "Head Down",
+      "slug": "head-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Downward Spiral",
+      "slug": "downward-spiral",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Suck",
+      "slug": "suck",
+      "section": "Main Set",
+      "notes": "(Pigface cover)",
+      "is_cover": true
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "(with Eric Avery )",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "The Beginning Of The End",
+      "slug": "the-beginning-of-the-end",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Banged And Blown Through",
+      "slug": "banged-and-blown-through",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 24,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:30.695619Z",
+  "features": {
+    "nostalgia_score": 0.485,
+    "avg_song_age_at_show": 9.7,
+    "album_distribution": {
+      "the-fragile": 0.2083,
+      "the-downward-spiral": 0.2083,
+      "broken": 0.125,
+      "year-zero": 0.125,
+      "with-teeth": 0.0833,
+      "cover": 0.0833,
+      "the-slip": 0.0417,
+      "ninja-2009-summer-tour-ep": 0.0417,
+      "pretty-hate-machine": 0.0417,
+      "unknown": 0.0417
+    },
+    "era_distribution": {
+      "The Fragile": 0.2083,
+      "The Downward Spiral": 0.2083,
+      "Broken": 0.125,
+      "Year Zero": 0.125,
+      "With Teeth": 0.0833,
+      "Covers": 0.0833,
+      "The Slip": 0.0833,
+      "Pretty Hate Machine": 0.0417,
+      "Unknown": 0.0417
+    },
+    "primary_album": "the-fragile",
+    "primary_era": "The Fragile",
+    "avg_rarity_score": 0.7039,
+    "rarity_tier": "deep-cuts",
+    "n_unicorn": 1,
+    "n_deep_cut": 6,
+    "n_album_track": 5,
+    "n_familiar": 6,
+    "n_staple": 6,
+    "cover_count": 3,
+    "cover_fraction": 0.125,
+    "special_notes_count": 4,
+    "special_fraction": 0.1667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 24,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

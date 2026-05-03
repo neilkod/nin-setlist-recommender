@@ -1,0 +1,197 @@
+{
+  "id": "2009-6-20-southside-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-6-20-southside-festival",
+  "date": "2009-06-20",
+  "venue": "Southside Festival",
+  "venue_slug": "southside-festival-neuhausen",
+  "city": "Neuhausen",
+  "state": "",
+  "country": "Germany",
+  "tour": "European + Pacific Festivals",
+  "era_slug": "european-pacific-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Last",
+      "slug": "last",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "La Mer",
+      "slug": "la-mer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 17,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:21:36.711879Z",
+  "features": {
+    "nostalgia_score": 0.4912,
+    "avg_song_age_at_show": 9.8,
+    "album_distribution": {
+      "the-downward-spiral": 0.2941,
+      "broken": 0.1765,
+      "the-slip": 0.1765,
+      "year-zero": 0.1176,
+      "the-fragile": 0.0588,
+      "ninja-2009-summer-tour-ep": 0.0588,
+      "with-teeth": 0.0588,
+      "pretty-hate-machine": 0.0588
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.2941,
+      "The Slip": 0.2353,
+      "Broken": 0.1765,
+      "Year Zero": 0.1176,
+      "The Fragile": 0.0588,
+      "With Teeth": 0.0588,
+      "Pretty Hate Machine": 0.0588
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6495,
+    "rarity_tier": "mixed",
+    "n_unicorn": 0,
+    "n_deep_cut": 2,
+    "n_album_track": 6,
+    "n_familiar": 3,
+    "n_staple": 6,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 17,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

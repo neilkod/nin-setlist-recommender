@@ -1,0 +1,180 @@
+{
+  "id": "2009-8-7-summer-sonic-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2009-8-7-summer-sonic-festival",
+  "date": "2009-08-07",
+  "venue": "Summer Sonic Festival",
+  "venue_slug": "summer-sonic-festival-tokyo",
+  "city": "Tokyo",
+  "state": "",
+  "country": "Japan",
+  "tour": "European + Pacific Festivals",
+  "era_slug": "european-pacific-festivals",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Somewhat Damaged",
+      "slug": "somewhat-damaged",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 8,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Fragile",
+      "slug": "the-fragile",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "The Big Come Down",
+      "slug": "the-big-come-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 15,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:22:37.368390Z",
+  "features": {
+    "nostalgia_score": 0.625,
+    "avg_song_age_at_show": 12.5,
+    "album_distribution": {
+      "the-downward-spiral": 0.3333,
+      "the-fragile": 0.2667,
+      "broken": 0.1333,
+      "pretty-hate-machine": 0.0667,
+      "cover": 0.0667,
+      "year-zero": 0.0667,
+      "with-teeth": 0.0667
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.3333,
+      "The Fragile": 0.2667,
+      "Broken": 0.1333,
+      "Pretty Hate Machine": 0.0667,
+      "Covers": 0.0667,
+      "Year Zero": 0.0667,
+      "With Teeth": 0.0667
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6015,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 4,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0667,
+    "special_notes_count": 1,
+    "special_fraction": 0.0667,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 15,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

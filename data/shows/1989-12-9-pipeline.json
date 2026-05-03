@@ -1,0 +1,146 @@
+{
+  "id": "1989-12-9-pipeline",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1989-12-9-pipeline",
+  "date": "1989-12-09",
+  "venue": "Pipeline",
+  "venue_slug": "pipeline-newark",
+  "city": "Newark",
+  "state": "NJ",
+  "country": "United States",
+  "tour": "Pretty Hate Machine Promotional Tour",
+  "era_slug": "pretty-hate-machine-promotional-tour",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Intro (Hate 1990)",
+      "slug": "intro-hate-1990",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Something I Can Never Have",
+      "slug": "something-i-can-never-have",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Sanctified",
+      "slug": "sanctified",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "That's What I Get",
+      "slug": "thats-what-i-get",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Only Time",
+      "slug": "only-time",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Kinda I Want To",
+      "slug": "kinda-i-want-to",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Get Down, Make Love",
+      "slug": "get-down-make-love",
+      "section": "Main Set",
+      "notes": "(Queen cover)",
+      "is_cover": true
+    },
+    {
+      "position": 10,
+      "song": "Ringfinger",
+      "slug": "ringfinger",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Down In It",
+      "slug": "down-in-it",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 12,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:56:00.807952Z",
+  "features": {
+    "nostalgia_score": 0.0,
+    "avg_song_age_at_show": 0,
+    "album_distribution": {
+      "pretty-hate-machine": 0.9167,
+      "unknown": 0.0833
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.9167,
+      "Unknown": 0.0833
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.7881,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 2,
+    "n_album_track": 5,
+    "n_familiar": 1,
+    "n_staple": 2,
+    "cover_count": 1,
+    "cover_fraction": 0.0833,
+    "special_notes_count": 1,
+    "special_fraction": 0.0833,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 12,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

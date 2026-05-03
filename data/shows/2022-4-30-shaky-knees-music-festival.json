@@ -1,0 +1,217 @@
+{
+  "id": "2022-4-30-shaky-knees-music-festival",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2022-4-30-shaky-knees-music-festival",
+  "date": "2022-04-30",
+  "venue": "Shaky Knees Music Festival",
+  "venue_slug": "shaky-knees-music-festival-atlanta",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "United States",
+  "tour": "US Spring 2022",
+  "era_slug": "us-spring-2022",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "The Wretched",
+      "slug": "wretched",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "with The Only Time breakdown",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Main Set",
+      "notes": "First performance since 2009-09-08",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Burn",
+      "slug": "burn",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Main Set",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 16,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 19,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:29:52.138991Z",
+  "features": {
+    "nostalgia_score": 0.7391,
+    "avg_song_age_at_show": 24.4,
+    "album_distribution": {
+      "the-downward-spiral": 0.3684,
+      "broken": 0.1053,
+      "the-fragile": 0.1053,
+      "pretty-hate-machine": 0.1053,
+      "add-violence": 0.0526,
+      "hesitation-marks": 0.0526,
+      "year-zero": 0.0526,
+      "the-perfect-drug": 0.0526,
+      "cover": 0.0526,
+      "with-teeth": 0.0526
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.4211,
+      "Broken": 0.1053,
+      "The Fragile": 0.1053,
+      "Pretty Hate Machine": 0.1053,
+      "Trilogy": 0.0526,
+      "Hesitation Marks": 0.0526,
+      "Year Zero": 0.0526,
+      "Covers": 0.0526,
+      "With Teeth": 0.0526
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6077,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 0,
+    "n_album_track": 6,
+    "n_familiar": 6,
+    "n_staple": 7,
+    "cover_count": 1,
+    "cover_fraction": 0.0526,
+    "special_notes_count": 3,
+    "special_fraction": 0.1579,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 19,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1990-6-27-club-mirage",
+  "url": "https://www.ninlive.com/artists/nin/concerts/1990-6-27-club-mirage",
+  "date": "1990-06-27",
+  "venue": "Club Mirage",
+  "venue_slug": "club-mirage-austin",
+  "city": "Austin",
+  "state": "TX",
+  "country": "United States",
+  "tour": "Hate",
+  "era_slug": "hate",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "Intro",
+      "slug": "intro",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Sin",
+      "slug": "sin",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 3,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T00:57:44.970258Z",
+  "features": {
+    "nostalgia_score": 1.0,
+    "avg_song_age_at_show": 1,
+    "album_distribution": {
+      "pretty-hate-machine": 0.6667,
+      "unknown": 0.3333
+    },
+    "era_distribution": {
+      "Pretty Hate Machine": 0.6667,
+      "Unknown": 0.3333
+    },
+    "primary_album": "pretty-hate-machine",
+    "primary_era": "Pretty Hate Machine",
+    "avg_rarity_score": 0.7004,
+    "rarity_tier": "balanced",
+    "n_unicorn": 0,
+    "n_deep_cut": 1,
+    "n_album_track": 0,
+    "n_familiar": 1,
+    "n_staple": 1,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 0,
+    "special_fraction": 0.0,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 3,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "id": "2008-11-17-schottenstein-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2008-11-17-schottenstein-center",
+  "date": "2008-11-17",
+  "venue": "Schottenstein Center",
+  "venue_slug": "schottenstein-center-columbus",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "United States",
+  "tour": "Lights In The Sky Over North America (2nd Leg)",
+  "era_slug": "lights-in-the-sky-over-north-america-2nd-leg",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "1,000,000",
+      "slug": "1000000",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 2,
+      "song": "Letting You",
+      "slug": "letting-you",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Discipline",
+      "slug": "discipline",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "Head Down",
+      "slug": "head-down",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "The Warning",
+      "slug": "the-warning",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "The Great Destroyer",
+      "slug": "the-great-destroyer",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "05 Ghosts I",
+      "slug": "ghosts5",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "17 Ghosts II",
+      "slug": "ghosts17",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "19 Ghosts III",
+      "slug": "ghosts19",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 14,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Main Set",
+      "notes": "Ghosts Style",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "The Greater Good",
+      "slug": "the-greater-good",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "Terrible Lie",
+      "slug": "terrible-lie",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "Survivalism",
+      "slug": "survivalism",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 19,
+      "song": "31 Ghosts IV",
+      "slug": "ghosts31",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Only",
+      "slug": "only",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 22,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 23,
+      "song": "Echoplex",
+      "slug": "echoplex",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 24,
+      "song": "The Good Soldier",
+      "slug": "the-good-soldier",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 25,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 26,
+      "song": "In This Twilight",
+      "slug": "in-this-twilight",
+      "section": "Main Set",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 26,
+  "has_covers": false,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:19:44.689128Z",
+  "features": {
+    "nostalgia_score": 0.2976,
+    "avg_song_age_at_show": 5.7,
+    "album_distribution": {
+      "year-zero": 0.2308,
+      "the-slip": 0.1923,
+      "the-downward-spiral": 0.1538,
+      "ghosts-i-iv": 0.1538,
+      "broken": 0.0769,
+      "pretty-hate-machine": 0.0769,
+      "with-teeth": 0.0769,
+      "the-fragile": 0.0385
+    },
+    "era_distribution": {
+      "Year Zero": 0.2308,
+      "The Slip": 0.1923,
+      "The Downward Spiral": 0.1538,
+      "Ghosts": 0.1538,
+      "Broken": 0.0769,
+      "Pretty Hate Machine": 0.0769,
+      "With Teeth": 0.0769,
+      "The Fragile": 0.0385
+    },
+    "primary_album": "year-zero",
+    "primary_era": "Year Zero",
+    "avg_rarity_score": 0.7102,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 6,
+    "n_album_track": 6,
+    "n_familiar": 4,
+    "n_staple": 8,
+    "cover_count": 0,
+    "cover_fraction": 0.0,
+    "special_notes_count": 1,
+    "special_fraction": 0.0385,
+    "production_style": "full",
+    "has_stripped_section": false,
+    "song_count": 26,
+    "section_count": 1,
+    "sections": [
+      "Main Set"
+    ]
+  }
+}

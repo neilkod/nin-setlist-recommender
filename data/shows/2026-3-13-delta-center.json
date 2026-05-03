@@ -1,0 +1,242 @@
+{
+  "id": "2026-3-13-delta-center",
+  "url": "https://www.ninlive.com/artists/nin/concerts/2026-3-13-delta-center",
+  "date": "2026-03-13",
+  "venue": "Delta Center",
+  "venue_slug": "delta-center-salt-lake-city",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "United States",
+  "tour": "Peel It Back - Spring Arena Tour 2026 North America",
+  "era_slug": "peel-it-back-spring-arena-tour-2026-north-america",
+  "setlist": [
+    {
+      "position": 1,
+      "song": "(You Made It Feel Like) Home",
+      "slug": "you-made-it-feel-like-home",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "(Trent Reznor and Atticus Ross cover)",
+      "is_cover": true
+    },
+    {
+      "position": 2,
+      "song": "Non-Entity",
+      "slug": "nonentity",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 3,
+      "song": "Piggy",
+      "slug": "piggy",
+      "section": "Act 1: B-Stage, Stripped Down",
+      "notes": "\"Nothing Can Stop Me Now\" Version",
+      "is_cover": false
+    },
+    {
+      "position": 4,
+      "song": "Wish",
+      "slug": "wish",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 5,
+      "song": "March Of The Pigs",
+      "slug": "march-of-the-pigs",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 6,
+      "song": "The Frail",
+      "slug": "the-frail",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 7,
+      "song": "Reptile",
+      "slug": "reptile",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 8,
+      "song": "Heresy",
+      "slug": "heresy",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 9,
+      "song": "Copy Of A",
+      "slug": "copy-of-a",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 10,
+      "song": "Gave Up",
+      "slug": "gave-up",
+      "section": "Act 2: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 11,
+      "song": "Vessel",
+      "slug": "vessel",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "Remix (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 12,
+      "song": "Closer",
+      "slug": "closer",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "Remix (with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 13,
+      "song": "Parasite",
+      "slug": "parasite",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "(How To Destroy Angels cover) Remix (with Boys Noize )",
+      "is_cover": true
+    },
+    {
+      "position": 14,
+      "song": "As Alive As You Need Me To Be",
+      "slug": "as-alive-as-you-need-me-to-be",
+      "section": "Act 3: B-Stage with Boys Noize",
+      "notes": "(with Boys Noize )",
+      "is_cover": false
+    },
+    {
+      "position": 15,
+      "song": "Mr. Self Destruct",
+      "slug": "mr-self-destruct",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 16,
+      "song": "Less Than",
+      "slug": "less-than",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 17,
+      "song": "The Perfect Drug",
+      "slug": "the-perfect-drug",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 18,
+      "song": "I'm Afraid Of Americans",
+      "slug": "im-afraid-of-americans",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "(David Bowie cover)",
+      "is_cover": true
+    },
+    {
+      "position": 19,
+      "song": "The Hand That Feeds",
+      "slug": "the-hand-that-feeds",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 20,
+      "song": "Head Like A Hole",
+      "slug": "head-like-a-hole",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    },
+    {
+      "position": 21,
+      "song": "Hurt",
+      "slug": "hurt",
+      "section": "Act 4: Main Stage, Full Production",
+      "notes": "",
+      "is_cover": false
+    }
+  ],
+  "song_count": 21,
+  "has_covers": true,
+  "source": "ninlive",
+  "scraped_at": "2026-05-03T01:31:23.889782Z",
+  "features": {
+    "nostalgia_score": 0.6982,
+    "avg_song_age_at_show": 25.8,
+    "album_distribution": {
+      "the-downward-spiral": 0.3333,
+      "unknown": 0.0952,
+      "broken": 0.0952,
+      "ninja-2009-summer-tour-ep": 0.0476,
+      "the-fragile": 0.0476,
+      "hesitation-marks": 0.0476,
+      "year-zero": 0.0476,
+      "tron-ares": 0.0476,
+      "add-violence": 0.0476,
+      "the-perfect-drug": 0.0476,
+      "cover": 0.0476,
+      "with-teeth": 0.0476,
+      "pretty-hate-machine": 0.0476
+    },
+    "era_distribution": {
+      "The Downward Spiral": 0.381,
+      "Unknown": 0.0952,
+      "Broken": 0.0952,
+      "The Slip": 0.0476,
+      "The Fragile": 0.0476,
+      "Hesitation Marks": 0.0476,
+      "Year Zero": 0.0476,
+      "Peel It Back": 0.0476,
+      "Trilogy": 0.0476,
+      "Covers": 0.0476,
+      "With Teeth": 0.0476,
+      "Pretty Hate Machine": 0.0476
+    },
+    "primary_album": "the-downward-spiral",
+    "primary_era": "The Downward Spiral",
+    "avg_rarity_score": 0.6762,
+    "rarity_tier": "unicorn",
+    "n_unicorn": 2,
+    "n_deep_cut": 3,
+    "n_album_track": 6,
+    "n_familiar": 3,
+    "n_staple": 7,
+    "cover_count": 3,
+    "cover_fraction": 0.1429,
+    "special_notes_count": 7,
+    "special_fraction": 0.3333,
+    "production_style": "mixed",
+    "has_stripped_section": true,
+    "song_count": 21,
+    "section_count": 4,
+    "sections": [
+      "Act 1: B-Stage, Stripped Down",
+      "Act 2: Main Stage, Full Production",
+      "Act 3: B-Stage with Boys Noize",
+      "Act 4: Main Stage, Full Production"
+    ]
+  }
+}
