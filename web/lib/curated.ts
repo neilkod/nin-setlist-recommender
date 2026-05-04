@@ -63,6 +63,13 @@ export function getOffScriptNights(shows: ShowIndex[], limit = DEFAULT_LIMIT): S
     .slice(0, limit)
 }
 
+export function getNonAlbumCuts(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
+  return fullShows(shows)
+    .filter((s) => s.n_non_album >= 2)
+    .sort((a, b) => b.n_non_album - a.n_non_album || b.non_album_fraction - a.non_album_fraction)
+    .slice(0, limit)
+}
+
 export function getTinyShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
   return withSetlist(shows)
     .filter((s) => s.song_count < MIN_SONGS)
@@ -101,13 +108,6 @@ export function getAllCuratedLists(shows: ShowIndex[]): CuratedList[] {
       shows: getMostCovers(shows),
     },
     {
-      id: 'stripped',
-      label: 'STRIPPED & INTIMATE',
-      description: 'Acoustic or B-stage sets — no full production',
-      browseHref: '/browse?production=stripped',
-      shows: getStrippedShows(shows),
-    },
-    {
       id: 'tds',
       label: 'THE DOWNWARD SPIRAL NIGHTS',
       description: 'Shows where The Downward Spiral dominated the setlist',
@@ -120,6 +120,13 @@ export function getAllCuratedLists(shows: ShowIndex[]): CuratedList[] {
       description: 'Shows most unlike the typical setlist for that tour leg',
       browseHref: '/browse?tourRarity=0.7',
       shows: getOffScriptNights(shows),
+    },
+    {
+      id: 'non-album',
+      label: 'NON-ALBUM CUTS',
+      description: 'Shows with the most songs not from any proper NIN release — singles, covers, unreleased',
+      browseHref: '/browse',
+      shows: getNonAlbumCuts(shows),
     },
     {
       id: 'tiny',

@@ -3,10 +3,10 @@
 import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import Nav from '@/components/Nav'
-import ShowRow from '@/components/ShowRow'
+import ShowRow, { ShowRowHeader, ShowRowMobile } from '@/components/ShowRow'
 import ScoreBar from '@/components/ScoreBar'
 import { scoreShows } from '@/lib/scorer'
-import type { ShowIndex, TargetVector, ProductionStyle } from '@/lib/types'
+import type { ShowIndex, TargetVector } from '@/lib/types'
 
 const ALBUM_OPTIONS = [
   { slug: 'pretty-hate-machine', label: 'Pretty Hate Machine' },
@@ -25,13 +25,11 @@ const ALBUM_OPTIONS = [
 ]
 
 type CoverFilter = 'yes' | 'no' | 'either'
-type ProductionFilter = ProductionStyle | 'any'
 
 interface Filters {
   nostalgia: number | null
   rarity: number | null
   tourRarity: number | null
-  production: ProductionFilter
   covers: CoverFilter
   yearMin: number
   yearMax: number
@@ -42,7 +40,6 @@ const DEFAULT_FILTERS: Filters = {
   nostalgia: null,
   rarity: null,
   tourRarity: null,
-  production: 'any',
   covers: 'either',
   yearMin: 1988,
   yearMax: 2026,
@@ -51,14 +48,13 @@ const DEFAULT_FILTERS: Filters = {
 
 function filtersToTarget(f: Filters): TargetVector {
   const target: TargetVector = {}
-  if (f.nostalgia !== null)   target.nostalgia   = f.nostalgia
-  if (f.rarity !== null)      target.rarity      = f.rarity
-  if (f.tourRarity !== null)  target.tourRarity  = f.tourRarity
-  if (f.production !== 'any') target.production  = f.production as ProductionStyle
-  if (f.covers === 'yes')     target.coverSongs  = true
-  if (f.covers === 'no')      target.coverSongs  = false
-  if (f.yearMin > 1988)       target.yearMin     = f.yearMin
-  if (f.yearMax < 2026)       target.yearMax     = f.yearMax
+  if (f.nostalgia !== null)  target.nostalgia  = f.nostalgia
+  if (f.rarity !== null)     target.rarity     = f.rarity
+  if (f.tourRarity !== null) target.tourRarity = f.tourRarity
+  if (f.covers === 'yes')    target.coverSongs = true
+  if (f.covers === 'no')     target.coverSongs = false
+  if (f.yearMin > 1988)      target.yearMin    = f.yearMin
+  if (f.yearMax < 2026)      target.yearMax    = f.yearMax
   if (f.albums.length > 0) {
     const weights: Record<string, number> = {}
     for (const slug of f.albums) weights[slug] = 1
@@ -72,7 +68,6 @@ function isActive(f: Filters): boolean {
     f.nostalgia !== null ||
     f.rarity !== null ||
     f.tourRarity !== null ||
-    f.production !== 'any' ||
     f.covers !== 'either' ||
     f.yearMin > 1988 ||
     f.yearMax < 2026 ||
@@ -118,6 +113,9 @@ export default function BrowsePage() {
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS)
   const [results, setResults] = useState<ReturnType<typeof scoreShows>>([])
   const [loading, setLoading] = useState(true)
+  const [aiText, setAiText] = useState('')
+  const [aiState, setAiState] = useState<'idle' | 'loading' | 'done' | 'error'>('idle')
+  const [aiSummary, setAiSummary] = useState('')
 
   // Load data
   useEffect(() => {
@@ -136,13 +134,11 @@ export default function BrowsePage() {
     const nostalgia  = params.get('nostalgia')
     const rarity     = params.get('rarity')
     const tourRarity = params.get('tourRarity')
-    const production = params.get('production')
     const covers     = params.get('covers')
     const album      = params.get('album')
     if (nostalgia)  patch.nostalgia  = parseFloat(nostalgia)
     if (rarity)     patch.rarity     = parseFloat(rarity)
     if (tourRarity) patch.tourRarity = parseFloat(tourRarity)
-    if (production) patch.production = production as ProductionFilter
     if (covers === 'yes') patch.covers = 'yes'
     if (covers === 'no')  patch.covers = 'no'
     if (album)      patch.albums = [album]
@@ -175,7 +171,56 @@ export default function BrowsePage() {
     })
   }, [])
 
-  const reset = useCallback(() => setFilters(DEFAULT_FILTERS), [])
+  const reset = useCallback(() => {
+    setFilters(DEFAULT_FILTERS)
+    setAiSummary('')
+    setAiState('idle')
+    setAiText('')
+  }, [])
+
+  const handleAiSubmit = useCallback(async () => {
+    if (!aiText.trim() || aiState === 'loading') return
+    setAiState('loading')
+    setAiSummary('')
+    try {
+      const res = await fetch('/api/recommend', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: aiText }),
+      })
+      const data = await res.json()
+      if (!res.ok || data.error) throw new Error(data.error ?? 'Parse failed')
+
+      const target = data.target as import('@/lib/types').TargetVector
+      const patch: Partial<Filters> = {}
+      if (target.nostalgia  !== undefined) patch.nostalgia  = target.nostalgia
+      if (target.rarity     !== undefined) patch.rarity     = target.rarity
+      if (target.tourRarity !== undefined) patch.tourRarity = target.tourRarity
+      if (target.yearMin    !== undefined) patch.yearMin    = target.yearMin
+      if (target.yearMax    !== undefined) patch.yearMax    = target.yearMax
+      if (target.albumWeights) {
+        patch.albums = Object.entries(target.albumWeights)
+          .filter(([, w]) => w >= 0.4)
+          .map(([slug]) => slug)
+      }
+      setFilters((prev) => ({ ...prev, ...patch }))
+
+      // Human-readable summary of what was parsed
+      const parts: string[] = []
+      if (target.nostalgia  !== undefined) parts.push(`nostalgia ${target.nostalgia.toFixed(2)}`)
+      if (target.rarity     !== undefined) parts.push(`rarity ${target.rarity.toFixed(2)}`)
+      if (target.tourRarity !== undefined) parts.push(`tour rarity ${target.tourRarity.toFixed(2)}`)
+      if (target.yearMin || target.yearMax)
+        parts.push(`years ${target.yearMin ?? 1988}–${target.yearMax ?? 2026}`)
+      if (target.albumWeights)
+        parts.push(Object.keys(target.albumWeights).join(', '))
+      setAiSummary(parts.length > 0 ? `PARSED: ${parts.join(' · ')}` : 'No strong signals found — try being more specific.')
+      setAiState('done')
+    } catch {
+      setAiState('error')
+      setAiSummary('Could not parse description. Try again or adjust filters manually.')
+    }
+  }, [aiText, aiState])
 
   const active = isActive(filters)
 
@@ -184,7 +229,7 @@ export default function BrowsePage() {
       <Nav active="browse" />
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
-        <header className="mb-8 flex items-start justify-between gap-4">
+        <header className="mb-6 flex items-start justify-between gap-4">
           <div>
             <h1 className="text-xl font-bold tracking-tight">BROWSE SHOWS</h1>
             <p className="text-dim text-xs mt-1">
@@ -200,6 +245,34 @@ export default function BrowsePage() {
             </button>
           )}
         </header>
+
+        {/* AI freeform input */}
+        <div className="mb-8 border border-border p-4 space-y-3">
+          <p className="text-xs text-dim tracking-wider">DESCRIBE WHAT YOU&apos;RE LOOKING FOR</p>
+          <div className="flex gap-2">
+            <input
+              type="text"
+              value={aiText}
+              onChange={(e) => setAiText(e.target.value)}
+              onKeyDown={(e) => e.key === 'Enter' && handleAiSubmit()}
+              placeholder="e.g. late 90s show heavy on The Fragile with some deep cuts..."
+              className="flex-1 bg-background border border-border px-3 py-2 text-xs font-mono text-foreground placeholder:text-dimmer focus:outline-none focus:border-green transition-colors min-h-[44px]"
+              disabled={aiState === 'loading'}
+            />
+            <button
+              onClick={handleAiSubmit}
+              disabled={aiState === 'loading' || !aiText.trim()}
+              className="text-xs px-4 py-2 border border-green text-green hover:bg-green hover:text-background transition-colors disabled:opacity-40 disabled:cursor-not-allowed shrink-0 min-h-[44px]"
+            >
+              {aiState === 'loading' ? 'PARSING...' : 'PARSE →'}
+            </button>
+          </div>
+          {aiSummary && (
+            <p className={`text-xs ${aiState === 'error' ? 'text-rarity-unicorn' : 'text-green'}`}>
+              {aiSummary}
+            </p>
+          )}
+        </div>
 
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Filter panel */}
@@ -347,27 +420,43 @@ export default function BrowsePage() {
               <p className="text-dim text-xs pt-4">NO MATCHES FOUND — TRY ADJUSTING YOUR FILTERS.</p>
             ) : (
               <div>
-                {/* Column headers */}
-                <div className="hidden sm:flex items-center gap-3 px-1 py-1 text-xs text-dimmer border-b border-faint mb-0.5">
-                  <span className="w-5" />
-                  <span className="w-24">DATE</span>
-                  <span className="flex-1">VENUE</span>
-                  <span>TIER</span>
-                  <span className="w-12 text-right">SCORE</span>
-                </div>
+                {/* Desktop table */}
+                <table
+                  className="hidden sm:table w-full text-xs"
+                  style={{ tableLayout: 'fixed' }}
+                >
+                  <colgroup>
+                    <col style={{ width: '36px' }} />
+                    <col style={{ width: '92px' }} />
+                    <col />
+                    <col style={{ width: '104px' }} />
+                    <col style={{ width: '52px' }} />
+                  </colgroup>
+                  <thead>
+                    <ShowRowHeader scoreCol />
+                  </thead>
+                  <tbody>
+                    {results.map((show, i) => (
+                      <ShowRow
+                        key={show.id}
+                        show={show}
+                        rank={i + 1}
+                        rightCol={
+                          <span className="text-dimmer tabular-nums">
+                            {show.score.toFixed(2)}
+                          </span>
+                        }
+                      />
+                    ))}
+                  </tbody>
+                </table>
 
-                {results.map((show, i) => (
-                  <ShowRow
-                    key={show.id}
-                    show={show}
-                    rank={i + 1}
-                    extra={
-                      <span className="text-dimmer text-xs tabular-nums hidden sm:block">
-                        {show.score.toFixed(2)}
-                      </span>
-                    }
-                  />
-                ))}
+                {/* Mobile stacked */}
+                <div className="sm:hidden">
+                  {results.map((show) => (
+                    <ShowRowMobile key={show.id} show={show} />
+                  ))}
+                </div>
 
                 <p className="text-dimmer text-xs pt-4">
                   SHOWING {results.length} OF {shows.filter((s) => s.song_count > 0).length} SHOWS

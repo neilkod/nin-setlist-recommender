@@ -6,6 +6,7 @@ import Nav from '@/components/Nav'
 import SongRow from '@/components/SongRow'
 import ScoreBar from '@/components/ScoreBar'
 import { RarityBadge, TourRarityBadge } from '@/components/RarityBadge'
+import { generateShowSummary } from '@/lib/blurbs'
 import {
   ninliveUrl,
   formatDate,
@@ -69,12 +70,52 @@ export default async function ShowPage({ params }: Props) {
     sections[sec].push(entry)
   }
 
+  // Summary blurb — general + specific song examples for rare songs
+  const showIndex = allShows.find((s) => s.id === show.id)
+  const generalSummary = showIndex ? generateShowSummary(showIndex) : ''
+
+  // Find the specific rare/unicorn songs in this setlist and name them
+  const TOTAL_SHOWS = 1176
+  type NotableSong = { name: string; pct: number; tier: 'unicorn' | 'rare' }
+  const notableSongs: NotableSong[] = show.setlist
+    .filter((e) => !e.is_cover && songs[e.slug])
+    .map((e) => {
+      const s = songs[e.slug]
+      return { name: e.song, pct: Math.round((1 - s.rarity_score) * 100 * 10) / 10, score: s.rarity_score }
+    })
+    .filter((s) => s.score > 0.92)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 4)
+    .map(({ name, pct, score }) => ({
+      name,
+      pct,
+      tier: (score > 0.97 ? 'unicorn' : 'rare') as 'unicorn' | 'rare',
+    }))
+
+  const songExamples = notableSongs.length > 0
+    ? notableSongs
+        .map((s) => `${s.name} (${s.pct < 1 ? '<1' : s.pct}% of ${TOTAL_SHOWS} shows)`)
+        .join(', ')
+    : ''
+
+  // Non-album songs in this setlist
+  const ALBUM_TRACK_SLUGS = new Set([
+    'pretty-hate-machine', 'broken', 'the-downward-spiral', 'the-fragile',
+    'with-teeth', 'year-zero', 'ghosts-i-iv', 'the-slip', 'hesitation-marks',
+    'not-the-actual-events', 'add-violence', 'bad-witch', 'tron-ares',
+  ])
+  const nonAlbumSongs = show.setlist
+    .filter((e) => {
+      const s = songs[e.slug]
+      return s && !ALBUM_TRACK_SLUGS.has(s.album_slug)
+    })
+    .map((e) => e.song)
+
   // Browse URL pre-seeded with this show's feature vector
   const browseParams = new URLSearchParams()
   if (feat.nostalgia_score != null) browseParams.set('nostalgia', feat.nostalgia_score.toFixed(2))
   if (feat.avg_rarity_score != null) browseParams.set('rarity', feat.avg_rarity_score.toFixed(2))
   if (feat.tour_rarity_score != null) browseParams.set('tourRarity', feat.tour_rarity_score.toFixed(2))
-  browseParams.set('production', feat.production_style)
 
   const location = [show.city, show.state, show.country !== 'United States' ? show.country : '']
     .filter(Boolean)
@@ -142,16 +183,6 @@ export default async function ShowPage({ params }: Props) {
               )}
             </div>
 
-            {/* Production */}
-            <div className="flex items-center gap-3">
-              <span className="text-dim text-xs w-28 shrink-0">PRODUCTION</span>
-              <span className="text-green text-xs font-bold uppercase">
-                {feat.production_style}
-              </span>
-              {feat.has_stripped_section && feat.production_style !== 'stripped' && (
-                <span className="text-dim text-xs">incl. stripped section</span>
-              )}
-            </div>
           </div>
 
           {/* Composition pills */}
@@ -161,15 +192,34 @@ export default async function ShowPage({ params }: Props) {
               <span className="text-dim">· {feat.cover_count} covers</span>
             )}
             {feat.n_unicorn > 0 && (
-              <span className="text-accent font-bold">· {feat.n_unicorn} unicorn</span>
+              <span className="text-rarity-unicorn font-bold">· {feat.n_unicorn} unicorn</span>
             )}
             {feat.n_deep_cut > 0 && (
-              <span className="text-orange font-bold">· {feat.n_deep_cut} deep cut{feat.n_deep_cut !== 1 ? 's' : ''}</span>
+              <span className="text-rarity-rare font-bold">· {feat.n_deep_cut} deep cut{feat.n_deep_cut !== 1 ? 's' : ''}</span>
             )}
             {feat.special_notes_count > 0 && (
               <span className="text-dim">· {feat.special_notes_count} special moments</span>
             )}
+            {feat.n_non_album > 0 && (
+              <span className="text-dim">· {feat.n_non_album} non-album cut{feat.n_non_album !== 1 ? 's' : ''}</span>
+            )}
           </div>
+
+          {(generalSummary || songExamples || nonAlbumSongs.length > 0) && (
+            <div className="mt-2 text-xs text-dim space-y-0.5 leading-relaxed">
+              {generalSummary && <p>{generalSummary}</p>}
+              {songExamples && (
+                <p>
+                  <span className="text-dimmer">RARE SONGS: </span>{songExamples}
+                </p>
+              )}
+              {nonAlbumSongs.length > 0 && (
+                <p>
+                  <span className="text-dimmer">NON-ALBUM: </span>{nonAlbumSongs.join(', ')}
+                </p>
+              )}
+            </div>
+          )}
         </div>
 
         {/* Action buttons */}

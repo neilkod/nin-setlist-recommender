@@ -24,6 +24,14 @@ NIN_DEBUT_YEAR = 1989  # Pretty Hate Machine — used as the nostalgia denominat
 # When a song's album_year is None (covers, unknowns), fall back to the show year
 # so they contribute 0 to the nostalgia calculation (neutral effect).
 
+# Proper NIN releases — songs attributed to these are "album tracks".
+# Singles, minor soundtracks, covers, and unreleased material are "non-album cuts".
+ALBUM_TRACK_SLUGS = frozenset({
+    "pretty-hate-machine", "broken", "the-downward-spiral", "the-fragile",
+    "with-teeth", "year-zero", "ghosts-i-iv", "the-slip", "hesitation-marks",
+    "not-the-actual-events", "add-violence", "bad-witch", "tron-ares",
+})
+
 # Section name keywords that indicate stripped/intimate production
 STRIPPED_KEYWORDS = ["stripped", "b-stage", "acoustic", "intimate", "solo", "quiet"]
 FULL_KEYWORDS = ["full production", "main stage", "full band"]
@@ -125,6 +133,7 @@ def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict
     era_counts = defaultdict(int)
     rarity_scores = []
     cover_count = 0
+    non_album_count = 0      # songs not on any proper studio/EP release
     special_count = 0        # songs with non-empty notes (remixes, reworked, etc.)
     sections = []
 
@@ -157,6 +166,9 @@ def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict
 
         if is_cover:
             cover_count += 1
+
+        if album_slug not in ALBUM_TRACK_SLUGS:
+            non_album_count += 1
 
         if notes.strip():
             special_count += 1
@@ -252,6 +264,9 @@ def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict
         # Covers
         "cover_count": cover_count,
         "cover_fraction": round(cover_count / total, 4),
+        # Non-album cuts
+        "n_non_album": non_album_count,
+        "non_album_fraction": round(non_album_count / total, 4),
         # Special/unique moments
         "special_notes_count": special_count,
         "special_fraction": round(special_count / total, 4),

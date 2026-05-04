@@ -2,12 +2,11 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import Nav from '@/components/Nav'
-import ShowRow, { ShowRowHeader } from '@/components/ShowRow'
+import ShowRow, { ShowRowHeader, ShowRowMobile } from '@/components/ShowRow'
 import TourFilter from '@/components/TourFilter'
 import { getAllCuratedLists } from '@/lib/curated'
 import { filterShowsByTour, filterLabel } from '@/lib/tourGroups'
 import { RARITY_LABELS, RARITY_COLORS, RARITY_DESCRIPTIONS, type ShowIndex, type RarityTier } from '@/lib/types'
-import { generateBlurb } from '@/lib/blurbs'
 
 const TIERS: RarityTier[] = ['unicorn', 'deep-cuts', 'mixed', 'balanced', 'hits-heavy']
 
@@ -134,16 +133,32 @@ export default async function DiscoverPage({ searchParams }: PageProps) {
                   </span>
                 </div>
 
-                <ShowRowHeader />
+                {/* Desktop: HTML table guarantees column alignment */}
+                <table
+                  className="hidden sm:table w-full text-xs"
+                  style={{ tableLayout: 'fixed' }}
+                >
+                  <colgroup>
+                    <col style={{ width: '36px' }} />
+                    <col style={{ width: '92px' }} />
+                    <col />
+                    <col style={{ width: '104px' }} />
+                    <col style={{ width: '52px' }} />
+                  </colgroup>
+                  <thead>
+                    <ShowRowHeader />
+                  </thead>
+                  <tbody>
+                    {list.shows.map((show, i) => (
+                      <ShowRow key={show.id} show={show} rank={i + 1} />
+                    ))}
+                  </tbody>
+                </table>
 
-                <div>
-                  {list.shows.map((show, i) => (
-                    <ShowRow
-                      key={show.id}
-                      show={show}
-                      rank={i + 1}
-                      blurb={generateBlurb(show, list.id)}
-                    />
+                {/* Mobile: stacked cards */}
+                <div className="sm:hidden">
+                  {list.shows.map((show) => (
+                    <ShowRowMobile key={show.id} show={show} />
                   ))}
                 </div>
 

@@ -85,11 +85,11 @@ export function generateBlurb(show: ShowIndex, listId: string): string {
     }
 
     case 'stripped': {
-      const style = show.production_style === 'stripped'
-        ? 'fully stripped production'
-        : 'includes stripped B-stage section'
+      const note = show.has_stripped_section && show.song_count > 0
+        ? `${show.song_count} songs incl. stripped/B-stage section`
+        : `${show.song_count} songs`
       const albums = topAlbums(show.album_distribution, 2)
-      return [`${show.song_count} songs · ${style}`, albums].filter(Boolean).join(' · ')
+      return [note, albums].filter(Boolean).join(' · ')
     }
 
     case 'tds': {
@@ -117,6 +117,15 @@ export function generateBlurb(show: ShowIndex, listId: string): string {
       ].filter(Boolean).join(' · ')
     }
 
+    case 'non-album': {
+      const pct = Math.round(show.non_album_fraction * 100)
+      const albums = topAlbums(show.album_distribution, 2)
+      return [
+        `${show.n_non_album} non-album cuts (${pct}% of setlist)`,
+        albums,
+      ].filter(Boolean).join(' · ')
+    }
+
     case 'tiny': {
       const albums = topAlbums(show.album_distribution, 2)
       const note = show.tour ? show.tour : 'no associated tour'
@@ -126,4 +135,31 @@ export function generateBlurb(show: ShowIndex, listId: string): string {
     default:
       return topAlbums(show.album_distribution, 3)
   }
+}
+
+// Context-free summary for the show detail page — combines all notable dimensions
+export function generateShowSummary(show: ShowIndex): string {
+  const parts: string[] = []
+
+  // Lead with rarity if interesting
+  const rareParts: string[] = []
+  if (show.n_unicorn > 0)
+    rareParts.push(`${plural(show.n_unicorn, 'unicorn')} (<3% of shows)`)
+  if (show.n_deep_cut > 0)
+    rareParts.push(`${plural(show.n_deep_cut, 'deep cut')} (3–8%)`)
+  if (rareParts.length > 0) parts.push(rareParts.join(' + '))
+
+  // Nostalgia context if notably high
+  if ((show.nostalgia_score ?? 0) >= 0.6 && show.avg_song_age_at_show != null)
+    parts.push(`avg song age ${Math.round(show.avg_song_age_at_show)} years`)
+
+  // Tour rarity context
+  if (show.tour_rarity_score !== null && show.tour_rarity_score >= 0.25)
+    parts.push(`~${Math.round(show.tour_rarity_score * show.song_count)} of ${show.song_count} songs off-script for the tour`)
+
+  // Album breakdown
+  const albums = topAlbums(show.album_distribution, 3)
+  if (albums) parts.push(albums)
+
+  return parts.join(' · ')
 }

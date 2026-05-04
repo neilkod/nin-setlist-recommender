@@ -27,6 +27,8 @@ export interface ShowIndex {
   n_staple: number
   cover_count: number
   cover_fraction: number
+  n_non_album: number
+  non_album_fraction: number
   special_notes_count: number
   special_fraction: number
   production_style: ProductionStyle
@@ -55,6 +57,8 @@ export interface ShowFeatures {
   n_staple: number
   cover_count: number
   cover_fraction: number
+  n_non_album: number
+  non_album_fraction: number
   special_notes_count: number
   special_fraction: number
   production_style: ProductionStyle
@@ -117,7 +121,6 @@ export interface TargetVector {
   nostalgia?: number        // 0 = current material, 1 = PHM-era
   rarity?: number           // 0 = all hits, 1 = all rarities
   tourRarity?: number       // 0 = standard tour setlist, 1 = most off-script night
-  production?: ProductionStyle
   coverSongs?: boolean
   albumWeights?: Record<string, number>  // album_slug → weight (should sum to 1)
   yearMin?: number

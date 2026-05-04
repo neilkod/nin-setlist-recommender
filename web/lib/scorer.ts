@@ -21,13 +21,12 @@ export function scoreShows(
   target: TargetVector,
   limit = 20,
 ): ScoredShow[] {
-  const { nostalgia, rarity, tourRarity, production, coverSongs, albumWeights, yearMin, yearMax } = target
+  const { nostalgia, rarity, tourRarity, coverSongs, albumWeights, yearMin, yearMax } = target
 
   const active = [
     nostalgia    !== undefined,
     rarity       !== undefined,
     tourRarity   !== undefined,
-    production   !== undefined,
     coverSongs   !== undefined,
     albumWeights !== undefined,
   ].filter(Boolean).length
@@ -35,21 +34,18 @@ export function scoreShows(
   if (active === 0) return []
 
   const w = 1 / active
-  const wNostalgia   = nostalgia    !== undefined ? w : 0
-  const wRarity      = rarity       !== undefined ? w : 0
-  const wTourRarity  = tourRarity   !== undefined ? w : 0
-  const wProduction  = production   !== undefined ? w : 0
-  const wCovers      = coverSongs   !== undefined ? w : 0
-  const wAlbums      = albumWeights !== undefined ? w : 0
+  const wNostalgia  = nostalgia    !== undefined ? w : 0
+  const wRarity     = rarity       !== undefined ? w : 0
+  const wTourRarity = tourRarity   !== undefined ? w : 0
+  const wCovers     = coverSongs   !== undefined ? w : 0
+  const wAlbums     = albumWeights !== undefined ? w : 0
 
   const normAlbumWeights = albumWeights ? normaliseWeights(albumWeights) : undefined
 
   let candidates = shows.filter((s) => s.song_count > 0)
 
-  // When tourRarity is requested, exclude shows with no tour data
-  if (tourRarity !== undefined) {
+  if (tourRarity !== undefined)
     candidates = candidates.filter((s) => s.tour_rarity_score !== null)
-  }
 
   if (yearMin !== undefined) candidates = candidates.filter((s) => getYear(s) >= yearMin)
   if (yearMax !== undefined) candidates = candidates.filter((s) => getYear(s) <= yearMax)
@@ -67,9 +63,6 @@ export function scoreShows(
       if (wTourRarity > 0 && tourRarity !== undefined && show.tour_rarity_score !== null)
         score += wTourRarity * (1 - Math.abs(show.tour_rarity_score - tourRarity))
 
-      if (wProduction > 0 && production !== undefined)
-        score += wProduction * (show.production_style === production ? 1 : 0)
-
       if (wCovers > 0 && coverSongs !== undefined)
         score += wCovers * ((show.cover_count > 0) === coverSongs ? 1 : 0)
 
@@ -82,7 +75,6 @@ export function scoreShows(
     .slice(0, limit)
 }
 
-// Find shows closest to the given show's own feature vector (for "similar shows")
 export function findSimilarShows(
   shows: ShowIndex[],
   target: ShowIndex,
@@ -91,11 +83,10 @@ export function findSimilarShows(
   return scoreShows(
     shows.filter((s) => s.id !== target.id),
     {
-      nostalgia: target.nostalgia_score,
-      rarity: target.avg_rarity_score,
-      tourRarity: target.tour_rarity_score ?? undefined,
-      production: target.production_style,
-      coverSongs: target.cover_count > 0,
+      nostalgia:    target.nostalgia_score,
+      rarity:       target.avg_rarity_score,
+      tourRarity:   target.tour_rarity_score ?? undefined,
+      coverSongs:   target.cover_count > 0,
       albumWeights: target.album_distribution,
     },
     limit,

@@ -206,6 +206,5 @@ A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, re
 | Nostalgia | How old the material was relative to the show date |
 | Album focus | Weight toward specific records (e.g. "mostly Fragile + some TDS") |
 | Rarity | Deep cuts vs. crowd pleasers |
-| Production style | Stripped/intimate vs. full arena production |
-| Covers | Whether covers are included |
-| Special moments | Reworked versions, guest appearances, noted one-offs |
+| Tour rarity | How off-script a show was within its own tour leg |
+| Year range | Filter to a specific era or date window |

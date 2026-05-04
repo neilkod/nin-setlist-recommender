@@ -216,6 +216,8 @@
     "n_staple": 7,
     "cover_count": 2,
     "cover_fraction": 0.1,
+    "n_non_album": 4,
+    "non_album_fraction": 0.2,
     "special_notes_count": 6,
     "special_fraction": 0.3,
     "production_style": "mixed",
