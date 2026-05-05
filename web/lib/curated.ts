@@ -20,8 +20,12 @@ export function getRarestShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowI
 }
 
 export function getMostNostalgicShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
+  // Sort by absolute avg song age (years), not the relative nostalgia score.
+  // The relative score makes all early shows tie at 1.0 — useless for discovery.
+  // Absolute age surfaces later shows that deliberately played old material.
   return fullShows(shows)
-    .sort((a, b) => b.nostalgia_score - a.nostalgia_score)
+    .filter((s) => s.avg_song_age_at_show != null)
+    .sort((a, b) => (b.avg_song_age_at_show ?? 0) - (a.avg_song_age_at_show ?? 0))
     .slice(0, limit)
 }
 

@@ -59,10 +59,9 @@ export function generateBlurb(show: ShowIndex, listId: string): string {
 
     case 'nostalgia': {
       const age = show.avg_song_age_at_show
-      const ageStr = age != null ? `${Math.round(age)}-year-old` : ''
       const albums = topAlbums(show.album_distribution, 2)
       return [
-        ageStr ? `${ageStr} avg song age at show date` : '',
+        age != null ? `avg song age ${Math.round(age)} years at show date` : '',
         albums,
       ].filter(Boolean).join(' · ')
     }
