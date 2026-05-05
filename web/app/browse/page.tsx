@@ -320,8 +320,8 @@ export default function BrowsePage() {
                     )}
                   </div>
                   <input
-                    type="range" min={0} max={1} step={0.01}
-                    value={filters.rarity ?? 0.5}
+                    type="range" min={0.50} max={0.87} step={0.01}
+                    value={filters.rarity ?? 0.68}
                     onChange={(e) => set('rarity', parseFloat(e.target.value))}
                     className="w-full"
                   />

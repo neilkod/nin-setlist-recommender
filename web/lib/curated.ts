@@ -14,8 +14,15 @@ function fullShows(shows: ShowIndex[]): ShowIndex[] {
 }
 
 export function getRarestShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
+  // Primary sort: count of genuinely rare songs (unicorns + deep cuts).
+  // avg_rarity_score as tiebreaker — it can be high on early shows that
+  // played obscure tracks even with 0 unicorns, which is misleading.
   return fullShows(shows)
-    .sort((a, b) => b.avg_rarity_score - a.avg_rarity_score || b.n_unicorn - a.n_unicorn)
+    .sort((a, b) => {
+      const aRare = a.n_unicorn + a.n_deep_cut
+      const bRare = b.n_unicorn + b.n_deep_cut
+      return bRare - aRare || b.avg_rarity_score - a.avg_rarity_score
+    })
     .slice(0, limit)
 }
 
@@ -31,6 +38,7 @@ export function getMostNostalgicShows(shows: ShowIndex[], limit = DEFAULT_LIMIT)
 
 export function getLongestShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
   return fullShows(shows)
+    .filter((s) => !s.venue.toLowerCase().includes('rehearsal'))
     .sort((a, b) => b.song_count - a.song_count)
     .slice(0, limit)
 }
@@ -87,7 +95,7 @@ export function getAllCuratedLists(shows: ShowIndex[]): CuratedList[] {
       id: 'rarest',
       label: 'RAREST SETLISTS',
       description: 'Shows with the most songs rarely or never played at other concerts',
-      browseHref: '/browse?rarity=0.95',
+      browseHref: '/browse?rarity=0.85',
       shows: getRarestShows(shows),
     },
     {
