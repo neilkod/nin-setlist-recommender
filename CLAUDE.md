@@ -6,7 +6,11 @@ A NIN concert setlist recommender. Users describe what they want (via sliders, p
 
 **No synthetic setlists. Ever.** Gemini's only job is to parse freeform text into a structured target vector. All recommendations are real shows.
 
-## Current state (as of last session)
+## Origin
+
+Built after discovering the [2018-12-11 Palladium LA show](https://www.ninlive.com/artists/nin/concerts/2018-12-11-the-palladium) — a 2018 concert where every song was from 1994 or earlier (avg song age: 26 years). The question it raised: what other shows in NIN's archive are worth finding?
+
+## Current state
 
 ### Data pipeline — COMPLETE ✅
 All scripts are in `scraper/`. Run order: `scrape_ninlive.py → scrape_albums.py → enrich_songs.py → compute_features.py`
@@ -17,9 +21,11 @@ All scripts are in `scraper/`. Run order: `scrape_ninlive.py → scrape_albums.p
 - **56 known covers** catalogued with original artist attribution
 - Feature vectors computed for all 958 shows → `data/features_index.json`
 - Song catalog with global rarity + era play rate → `data/songs.json`
+- **Non-album cuts** (`n_non_album`, `non_album_fraction`) computed per show — songs not on any of the 13 proper NIN studio/EP releases
 
-### Web app — FUNCTIONAL ✅
-Phases 1–4 complete. All three pages are live and working.
+### Web app — LIVE ✅
+Deployed at https://nin-setlist-recommender-neilkods-projects.vercel.app  
+All three pages functional. Gemini 2.5 Flash freeform text parsing live.
 
 **Stack:** Next.js 16 (App Router) + TypeScript + Tailwind v4 + Geist Mono font  
 **Design:** Black bg, white/green monospace terminal aesthetic. Muted desaturated rose/amber for rarity (no jarring red/orange). All color tokens in `web/app/globals.css`.  

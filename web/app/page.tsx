@@ -35,9 +35,24 @@ export default async function DiscoverPage({ searchParams }: PageProps) {
         <header className="mb-6">
           <p className="text-xs text-dim tracking-widest mb-1">NINE INCH NAILS — LIVE ARCHIVE</p>
           <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">SETLIST RECOMMENDER</h1>
-          <p className="text-dim text-xs mt-2">
-            {allShows.length} documented shows · 191 unique songs · 1988–2026
+
+          <p className="text-dim text-xs mt-3 leading-relaxed max-w-2xl">
+            In December 2018, NIN played{' '}
+            <Link
+              href="/shows/2018-12-11-the-palladium"
+              className="text-foreground hover:text-green transition-colors"
+            >
+              The Palladium in Los Angeles
+            </Link>
+            . Every song was from 1994 or earlier — a 2018 show where the average
+            song was 26 years old. Discovering that setlist prompted this question:
+            what other shows in their 35-year archive are worth finding?
           </p>
+          <p className="text-dim text-xs mt-2 leading-relaxed max-w-2xl">
+            NIN has played {allShows.length} documented concerts since 1988. Each one is different.
+            This surfaces the ones that stand out.
+          </p>
+
           <div className="mt-4">
             <Link
               href="/browse"
@@ -177,20 +192,23 @@ export default async function DiscoverPage({ searchParams }: PageProps) {
           </div>
         )}
 
-        <footer className="mt-16 pt-6 border-t border-border text-xs text-dimmer space-y-1">
+        <footer className="mt-16 pt-6 border-t border-border text-xs text-dimmer space-y-1.5">
           <p>
             DATA FROM{' '}
-            <a
-              href="https://www.ninlive.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-dim transition-colors"
-            >
+            <a href="https://www.ninlive.com" target="_blank" rel="noopener noreferrer" className="hover:text-dim transition-colors">
               NINLIVE.COM
             </a>
-            {' '}· UPDATED WEEKLY
+            {' '}· UPDATED WEEKLY · NO SYNTHETIC SETLISTS
           </p>
-          <p>NO SYNTHETIC SETLISTS. ALL SHOWS ARE REAL DOCUMENTED PERFORMANCES.</p>
+          <p>
+            <a href="https://github.com/neilkod/nin-setlist-recommender" target="_blank" rel="noopener noreferrer" className="hover:text-dim transition-colors">
+              GITHUB
+            </a>
+            {' '}· FEEDBACK &amp; CONTRIBUTIONS WELCOME ·{' '}
+            <a href="mailto:nkodner@gmail.com" className="hover:text-dim transition-colors">
+              NKODNER@GMAIL.COM
+            </a>
+          </p>
         </footer>
       </main>
     </div>

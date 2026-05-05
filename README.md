@@ -1,6 +1,12 @@
 # NIN Setlist Recommender
 
-An AI-powered tool that recommends Nine Inch Nails concert setlists based on your mood and preferences — nostalgia level, album focus, rarity, production style, and more.
+In December 2018, Nine Inch Nails played [The Palladium in Los Angeles](https://www.ninlive.com/artists/nin/concerts/2018-12-11-the-palladium). Every song was from 1994 or earlier. The average song was 26 years old. A 2018 show that felt like 1994.
+
+Discovering that setlist ([via Reddit](https://www.reddit.com/r/nin/comments/1sznm8i/nine_inch_nails_los_angeles_20181211_full_show/)) prompted a question: what other shows in their 35-year archive are worth finding? NIN has played 1,176 documented concerts. Each one is different. This surfaces the ones that stand out.
+
+---
+
+An AI-powered tool that recommends Nine Inch Nails concert setlists based on your mood and preferences — nostalgia level, album focus, rarity, tour uniqueness, and more.
 
 ## How it works
 
@@ -208,3 +214,9 @@ A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, re
 | Rarity | Deep cuts vs. crowd pleasers |
 | Tour rarity | How off-script a show was within its own tour leg |
 | Year range | Filter to a specific era or date window |
+
+## Contributing & feedback
+
+Source is on [GitHub](https://github.com/neilkod/nin-setlist-recommender). Feedback and contributions are appreciated — open an issue or PR.
+
+For anything else, reach out at [nkodner@gmail.com](mailto:nkodner@gmail.com).
