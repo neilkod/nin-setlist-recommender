@@ -27,12 +27,12 @@ export function getRarestShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowI
 }
 
 export function getMostNostalgicShows(shows: ShowIndex[], limit = DEFAULT_LIMIT): ShowIndex[] {
-  // Sort by absolute avg song age (years), not the relative nostalgia score.
-  // The relative score makes all early shows tie at 1.0 — useless for discovery.
-  // Absolute age surfaces later shows that deliberately played old material.
+  // Sort by nostalgia_outlier_score: percentile rank within ±2-year peer window.
+  // This surfaces shows that played unusually old material for their era —
+  // Easter eggs across NIN's history rather than just the most recent retro tour.
   return fullShows(shows)
-    .filter((s) => s.avg_song_age_at_show != null)
-    .sort((a, b) => (b.avg_song_age_at_show ?? 0) - (a.avg_song_age_at_show ?? 0))
+    .filter((s) => s.nostalgia_outlier_score != null)
+    .sort((a, b) => (b.nostalgia_outlier_score ?? 0) - (a.nostalgia_outlier_score ?? 0))
     .slice(0, limit)
 }
 
@@ -101,7 +101,7 @@ export function getAllCuratedLists(shows: ShowIndex[]): CuratedList[] {
     {
       id: 'nostalgia',
       label: 'MAXIMUM NOSTALGIA',
-      description: 'Shows where the material was oldest relative to the date performed',
+      description: 'Shows with the oldest material in absolute terms — deep dives into NIN\'s back catalog',
       browseHref: '/browse?nostalgia=0.95',
       shows: getMostNostalgicShows(shows),
     },

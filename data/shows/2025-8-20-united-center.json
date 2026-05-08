@@ -184,7 +184,7 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T00:53:54.362148Z",
   "features": {
-    "nostalgia_score": 0.6706,
+    "nostalgia_score": 0.8669,
     "avg_song_age_at_show": 24.1,
     "album_distribution": {
       "the-downward-spiral": 0.3333,
@@ -236,6 +236,7 @@
       "Act 4: Main Stage, Full Production"
     ],
     "tour_rarity_score": 0.3315,
-    "tour_rarity_tier": "varied"
+    "tour_rarity_tier": "varied",
+    "nostalgia_outlier_score": 0.1923
   }
 }

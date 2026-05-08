@@ -176,7 +176,7 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:28:47.929652Z",
   "features": {
-    "nostalgia_score": 0.49,
+    "nostalgia_score": 0.5108,
     "avg_song_age_at_show": 14.2,
     "album_distribution": {
       "bad-witch": 0.2,
@@ -224,6 +224,7 @@
       "Main Set"
     ],
     "tour_rarity_score": 0.4885,
-    "tour_rarity_tier": "off-script"
+    "tour_rarity_tier": "off-script",
+    "nostalgia_outlier_score": 0.3433
   }
 }

@@ -48,7 +48,7 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T00:54:29.024475Z",
   "features": {
-    "nostalgia_score": 0.125,
+    "nostalgia_score": 0.1619,
     "avg_song_age_at_show": 4.5,
     "album_distribution": {
       "tron-ares": 0.75,
@@ -81,6 +81,7 @@
       "Main Set"
     ],
     "tour_rarity_score": null,
-    "tour_rarity_tier": null
+    "tour_rarity_tier": null,
+    "nostalgia_outlier_score": 0.0077
   }
 }

@@ -196,20 +196,11 @@ def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict
     else:
         rarity_tier = "balanced"     # healthy mix of familiar and less-common
 
-    # --- Nostalgia (relative to show date) ---
-    max_possible_age = show_year - NIN_DEBUT_YEAR  # 0 for 1989 shows
-    if song_ages and max_possible_age > 0:
-        avg_age = statistics.mean(song_ages)
-        # Clamp to [0, 1] — a song could theoretically exceed debut year if we have
-        # wrong album year data
-        nostalgia_score = round(min(1.0, avg_age / max_possible_age), 4)
-    elif song_ages:
-        # Shows in 1989/before: just use 0 (all new material)
-        nostalgia_score = 0.0
-        avg_age = statistics.mean(song_ages)
-    else:
-        nostalgia_score = None
-        avg_age = None
+    # --- Nostalgia (absolute avg song age; normalized globally in compute_all_features) ---
+    # nostalgia_score is a placeholder here — overwritten after all shows are processed
+    # so the denominator is the observed maximum across the whole archive, not per-show era.
+    avg_age = statistics.mean(song_ages) if song_ages else None
+    nostalgia_score = None
 
     # --- Album distribution (fraction of setlist per album) ---
     album_distribution = {
@@ -283,6 +274,53 @@ def compute_show_features(show: dict, songs: dict, tour_freq_maps: Optional[dict
     }
 
 
+def compute_nostalgia_outlier_scores(results: list) -> None:
+    """
+    Mutates each feature dict to add nostalgia_outlier_score.
+
+    Score = percentile rank of avg_song_age_at_show among shows within ±WINDOW years.
+    0.0 = played the youngest material of any show in that era window.
+    1.0 = played the oldest material of any show in that era window.
+    """
+    WINDOW = 2
+    MIN_PEERS = 5
+
+    year_ages: dict[int, list] = defaultdict(list)
+    for _, show, feat in results:
+        age = feat.get("avg_song_age_at_show")
+        if age is None:
+            continue
+        try:
+            year = int(show["date"][:4])
+        except Exception:
+            continue
+        year_ages[year].append(age)
+
+    all_ages = [a for ages in year_ages.values() for a in ages]
+
+    for _, show, feat in results:
+        age = feat.get("avg_song_age_at_show")
+        if age is None:
+            feat["nostalgia_outlier_score"] = None
+            continue
+        try:
+            year = int(show["date"][:4])
+        except Exception:
+            feat["nostalgia_outlier_score"] = None
+            continue
+
+        peers: list = []
+        for dy in range(-WINDOW, WINDOW + 1):
+            peers.extend(year_ages.get(year + dy, []))
+        if len(peers) < MIN_PEERS:
+            peers = all_ages
+
+        below = sum(1 for p in peers if p < age)
+        equal = sum(1 for p in peers if p == age)
+        pct = (below + 0.5 * equal) / len(peers)
+        feat["nostalgia_outlier_score"] = round(pct, 4)
+
+
 def compute_all_features():
     songs = load_songs()
     print(f"Loaded {len(songs)} songs from catalog")
@@ -291,8 +329,7 @@ def compute_all_features():
     tour_freq_maps = build_tour_frequency_maps(SHOWS_DIR)
     print(f"  {len(tour_freq_maps)} tours with ≥{MIN_TOUR_SHOWS} shows")
 
-    features_index = []
-    n_updated = 0
+    results = []  # (path, show_dict, features_dict)
     n_no_setlist = 0
 
     for f in sorted(SHOWS_DIR.glob("*.json")):
@@ -307,11 +344,33 @@ def compute_all_features():
             n_no_setlist += 1
             continue
 
+        results.append((f, show, features))
+
+    # Normalize nostalgia globally: divide by the maximum avg_song_age_at_show observed
+    # across all shows. This means a 1990 show playing 1-year-old PHM songs scores near 0
+    # (correctly — those weren't nostalgic) while a show like 2018-12-11 playing 26-year-old
+    # material scores near 1.0 (correctly — that's the whole point of that night).
+    ages = [feat["avg_song_age_at_show"] for _, _, feat in results if feat.get("avg_song_age_at_show")]
+    max_avg_age = max(ages) if ages else 1.0
+    print(f"Max avg_song_age_at_show: {max_avg_age:.1f} yrs → nostalgia denominator")
+    for _, _, feat in results:
+        age = feat.get("avg_song_age_at_show")
+        feat["nostalgia_score"] = round(age / max_avg_age, 4) if age is not None else None
+
+    # Nostalgia outlier: percentile rank within ±2-year peer window.
+    # High score = this show played unusually old material for its era.
+    # Peel It Back shows score ~0.5 (expected for 2025-26); the 2018-12-11 Palladium
+    # scores near 1.0 (played 26-yr-old material when contemporaries averaged ~15 yrs).
+    compute_nostalgia_outlier_scores(results)
+    n_outlier = sum(1 for _, _, f in results if f.get("nostalgia_outlier_score") is not None)
+    print(f"Nostalgia outlier scores computed for {n_outlier} shows")
+
+    # Write updated show JSONs and build index
+    features_index = []
+    for f, show, features in results:
         show["features"] = features
         f.write_text(json.dumps(show, indent=2, ensure_ascii=False))
-        n_updated += 1
 
-        # Lightweight record for features_index.json (no full setlist)
         features_index.append({
             "id": show["id"],
             "date": show["date"],
@@ -327,7 +386,7 @@ def compute_all_features():
     features_index.sort(key=lambda x: x["date"])
     out_path = DATA_DIR / "features_index.json"
     out_path.write_text(json.dumps(features_index, indent=2, ensure_ascii=False))
-    print(f"\nComputed features for {n_updated} shows ({n_no_setlist} had no setlist)")
+    print(f"\nComputed features for {len(results)} shows ({n_no_setlist} had no setlist)")
     print(f"Wrote features index → {out_path}")
 
     # Summary stats
@@ -335,6 +394,13 @@ def compute_all_features():
     if with_nostalgia:
         scores = [s["nostalgia_score"] for s in with_nostalgia]
         print(f"\nNostalgia score range: {min(scores):.3f} – {max(scores):.3f}")
+
+    with_outlier = [s for s in features_index if s.get("nostalgia_outlier_score") is not None]
+    if with_outlier:
+        print(f"\nTop nostalgia outliers (era-relative):")
+        for s in sorted(with_outlier, key=lambda x: -x["nostalgia_outlier_score"])[:10]:
+            print(f"  {s['date']}  avg_age={s['avg_song_age_at_show']:.1f}  "
+                  f"outlier={s['nostalgia_outlier_score']:.3f}  {s['venue']}, {s['city']}")
 
     with_tour = [s for s in features_index if s.get("tour_rarity_score") is not None]
     print(f"\nShows with tour_rarity_score: {len(with_tour)}")

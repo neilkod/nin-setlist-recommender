@@ -157,11 +157,11 @@ data/
 
 ## Key architectural decisions
 
-### Relative nostalgia score
+### Absolute nostalgia score
 ```
-nostalgia_score = mean(show_year − song.release_year) / (show_year − 1989)
+nostalgia_score = avg_song_age_at_show / max(avg_song_age_at_show across all 958 shows)
 ```
-Denominator = max possible age at that point in time (age of PHM). A 2025 show and a 1993 show both playing only PHM songs both score 1.0 — both are maximally nostalgic for their era. Covers excluded from calculation.
+Denominator = global maximum observed avg song age (~27.8 years, recomputed each run). A 1990 show playing 1-year-old PHM songs scores near 0 (correctly — not nostalgic). A show like 2018-12-11 playing 26-year-old material scores ~0.94. Covers excluded from calculation.
 
 ### Count-based rarity tiers (not average-based)
 Show rarity uses song counts per bucket, not an average rarity score. Thresholds (0.97 / 0.92 / 0.75 / 0.50) are based on the actual distribution across all 1,176 shows.

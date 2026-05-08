@@ -54,8 +54,8 @@ export function scoreShows(
     .map((show): ScoredShow => {
       let score = 0
 
-      if (wNostalgia > 0 && nostalgia !== undefined)
-        score += wNostalgia * (1 - Math.abs(show.nostalgia_score - nostalgia))
+      if (wNostalgia > 0 && nostalgia !== undefined && show.nostalgia_outlier_score != null)
+        score += wNostalgia * (1 - Math.abs(show.nostalgia_outlier_score - nostalgia))
 
       if (wRarity > 0 && rarity !== undefined)
         score += wRarity * (1 - Math.abs(show.avg_rarity_score - rarity))
@@ -83,7 +83,7 @@ export function findSimilarShows(
   return scoreShows(
     shows.filter((s) => s.id !== target.id),
     {
-      nostalgia:    target.nostalgia_score,
+      nostalgia:    target.nostalgia_outlier_score ?? undefined,
       rarity:       target.avg_rarity_score,
       tourRarity:   target.tour_rarity_score ?? undefined,
       coverSongs:   target.cover_count > 0,

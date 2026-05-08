@@ -152,7 +152,7 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:16:59.507427Z",
   "features": {
-    "nostalgia_score": 0.4236,
+    "nostalgia_score": 0.2734,
     "avg_song_age_at_show": 7.6,
     "album_distribution": {
       "year-zero": 0.3529,
@@ -191,6 +191,7 @@
       "Main Set"
     ],
     "tour_rarity_score": 0.1604,
-    "tour_rarity_tier": "typical"
+    "tour_rarity_tier": "typical",
+    "nostalgia_outlier_score": 0.2835
   }
 }

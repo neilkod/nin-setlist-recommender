@@ -192,7 +192,7 @@
   "source": "ninlive",
   "scraped_at": "2026-05-03T01:22:24.024496Z",
   "features": {
-    "nostalgia_score": 0.5763,
+    "nostalgia_score": 0.4137,
     "avg_song_age_at_show": 11.5,
     "album_distribution": {
       "the-fragile": 0.2727,
@@ -237,6 +237,7 @@
       "Main Set"
     ],
     "tour_rarity_score": 0.3457,
-    "tour_rarity_tier": "varied"
+    "tour_rarity_tier": "varied",
+    "nostalgia_outlier_score": 0.8251
   }
 }

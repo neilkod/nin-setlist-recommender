@@ -301,7 +301,7 @@ export default function BrowsePage() {
                     className="w-full"
                   />
                   <div className="flex justify-between text-xs text-dimmer select-none">
-                    <span>CURRENT</span><span>CLASSIC</span>
+                    <span>TYPICAL ERA</span><span>ERA OUTLIER</span>
                   </div>
                 </div>
 

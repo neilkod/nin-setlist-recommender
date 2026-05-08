@@ -89,6 +89,7 @@
       "Main Set"
     ],
     "tour_rarity_score": 0.0571,
-    "tour_rarity_tier": "rigid"
+    "tour_rarity_tier": "rigid",
+    "nostalgia_outlier_score": 0.0038
   }
 }

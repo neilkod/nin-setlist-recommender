@@ -38,6 +38,7 @@ export interface ShowIndex {
   sections: string[]
   tour_rarity_score: number | null
   tour_rarity_tier: TourRarityTier | null
+  nostalgia_outlier_score: number | null
 }
 
 // Feature sub-object inside individual show JSONs
@@ -68,6 +69,7 @@ export interface ShowFeatures {
   sections: string[]
   tour_rarity_score: number | null
   tour_rarity_tier: TourRarityTier | null
+  nostalgia_outlier_score: number | null
 }
 
 // Single song within a setlist
