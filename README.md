@@ -12,7 +12,7 @@ An AI-powered tool that recommends Nine Inch Nails concert setlists based on you
 
 The app is built on a comprehensive archive of all 1,176 NIN live performances (1988–2026), scraped from [ninlive.com](https://www.ninlive.com). Each show is analyzed and assigned a **feature vector** — a set of numbers describing it on every dimension a fan might care about:
 
-- **Nostalgia score** — how old the material was *relative to when it was played* (a 2025 show playing 1989 songs scores higher than a 1994 show playing the same songs)
+- **Nostalgia score** — how unusually old the material was *compared to other shows from the same era* — surfaces shows that reached back into the catalog when it was rare to do so
 - **Album distribution** — what % of the setlist came from each record
 - **Rarity tier** — from *hits-heavy* to *deep-cuts* to *unicorn* (songs played fewer than 3 times ever)
 - **Production style** — stripped/intimate B-stage vs. full arena production
@@ -118,15 +118,17 @@ For each song in the setlist, compute how old it was at the time of the show:
 song_age = show_year − song.release_year
 ```
 
-Then average across the whole setlist and normalize:
+Average across the setlist to get `avg_song_age_at_show`. Then compute an **era-outlier score**: the percentile rank of this show's avg song age among all shows within ±2 years:
 
 ```
-nostalgia_score = mean(song_ages) / (show_year − 1989)
+nostalgia_outlier_score = percentile_rank(avg_song_age, peer_shows_within_±2_years)
 ```
 
-The denominator is the maximum possible age at that point in time — the age of *Pretty Hate Machine*, NIN's debut. This makes the score **relative to the era**: a 2025 show playing 1989 songs scores `1.0`, and so does a 1993 show playing 1989 songs. Both are maximally nostalgic *for their time*. A 2025 Hesitation Marks tour show scores `0.04` — nearly all brand new material.
+A show in the 99th percentile for its era — one that played unusually old material compared to contemporaneous shows — scores near `1.0`. A show with a typical setlist for its period scores near `0.5`. Early shows playing fresh PHM songs score low (those weren't nostalgic — the songs were new). A 2018 show where every song predated 1994 scores near `1.0` because that was extraordinary for 2018.
 
-Covers are excluded from this calculation to avoid distortion from the original artist's release year.
+This is what surfaces easter eggs across NIN's history rather than just listing the most recent retro tour. An absolute `nostalgia_score` (avg song age / max observed avg age) is also stored for display on individual show pages.
+
+Covers are excluded from song age calculations to avoid distortion from the original artist's release year.
 
 **Album distribution (per show)**
 
@@ -165,7 +167,7 @@ When a user specifies preferences, they become a **target vector** — the same 
 Each show is then scored against the target:
 
 ```
-score = w_nostalgia  × (1 − |show.nostalgia − target.nostalgia|)
+score = w_nostalgia  × (1 − |show.nostalgia_outlier_score − target.nostalgia|)
       + w_albums     × album_similarity(show.distribution, target.albums)
       + w_rarity     × (1 − |show.avg_rarity − target.rarity|)
       + w_production × exact_match(show.production, target.production)
@@ -209,7 +211,7 @@ A GitHub Action runs every Tuesday at 3am UTC, scrapes ninlive for new shows, re
 
 | Dimension | What it means |
 |---|---|
-| Nostalgia | How old the material was relative to the show date |
+| Nostalgia | How unusually old the material was compared to other shows of the same era |
 | Album focus | Weight toward specific records (e.g. "mostly Fragile + some TDS") |
 | Rarity | Deep cuts vs. crowd pleasers |
 | Tour rarity | How off-script a show was within its own tour leg |

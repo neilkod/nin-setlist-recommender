@@ -45,12 +45,15 @@ export default async function DiscoverPage({ searchParams }: PageProps) {
               The Palladium in Los Angeles
             </Link>
             . Every song was from 1994 or earlier — a 2018 show where the average
-            song was 26 years old. Discovering that setlist prompted this question:
-            what other shows in their 35-year archive are worth finding?
+            song was 26 years old. It felt like finding an easter egg: a setlist
+            that only made sense because the band had 30 years of material to reach
+            back into, and on that particular night, they reached all the way.
           </p>
           <p className="text-dim text-xs mt-2 leading-relaxed max-w-2xl">
-            NIN has played {allShows.length} documented concerts since 1988. Each one is different.
-            This surfaces the ones that stand out.
+            That raised a question. NIN has played {allShows.length} documented concerts since 1988.
+            How many other nights did something like that happen — shows that were unusual for their
+            era, that reached further back or went further off-script than the surrounding tour? This
+            surfaces the ones that stand out.
           </p>
 
           <div className="mt-4">
@@ -112,9 +115,11 @@ export default async function DiscoverPage({ searchParams }: PageProps) {
               repeated on that tour scores near 1.0; the standard nightly setlist scores near 0.0.
             </p>
             <p>
-              <span className="text-foreground font-bold">NOSTALGIA</span> — how old the material
-              was relative to when it was played. A 2025 show playing only 1989 songs scores 1.0,
-              same as a 1993 show doing the same — both are maximally nostalgic for their era.
+              <span className="text-foreground font-bold">NOSTALGIA</span> — how unusually old
+              the material was compared to other shows from the same period. A show that reached
+              deep into the back catalog when that was rare scores near 1.0. A setlist typical
+              for its era scores near 0.5. This is what surfaces easter eggs like the 2018
+              Palladium night rather than just listing the most recent retro tour.
             </p>
             <p>
               <span className="text-foreground font-bold">MICRO-SHOWS</span> — radio sessions,
